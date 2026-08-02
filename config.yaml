@@ -1,0 +1,62 @@
+# Sheaf baker configuration.
+# source_weight: lower = more authoritative (wins dedupe ties, ranks higher).
+
+city: Bengaluru
+max_briefs_per_section: 8
+
+rss_feeds:
+  # ── The Hindu ─────────────────────────────────────────────
+  - source: The Hindu
+    url: https://www.thehindu.com/news/national/feeder/default.rss
+    section: nation
+    category: NATIONAL
+    source_weight: 10
+  - source: The Hindu
+    url: https://www.thehindu.com/news/international/feeder/default.rss
+    section: frontPage
+    category: WORLD
+    source_weight: 10
+  - source: The Hindu
+    url: https://www.thehindu.com/news/cities/bangalore/feeder/default.rss
+    section: city
+    category: CITY
+    source_weight: 10
+  - source: The Hindu
+    url: https://www.thehindu.com/business/feeder/default.rss
+    section: business
+    category: BUSINESS
+    source_weight: 10
+  - source: The Hindu
+    url: https://www.thehindu.com/sport/feeder/default.rss
+    section: sport
+    category: SPORTS
+    source_weight: 10
+
+  # ── Indian Express ────────────────────────────────────────
+  - source: Indian Express
+    url: https://indianexpress.com/section/india/feed/
+    section: frontPage
+    category: HEADLINES
+    source_weight: 20
+  - source: Indian Express
+    url: https://indianexpress.com/section/cities/bangalore/feed/
+    section: city
+    category: CITY
+    source_weight: 20
+  - source: Indian Express
+    url: https://indianexpress.com/section/business/feed/
+    section: business
+    category: BUSINESS
+    source_weight: 20
+  - source: Indian Express
+    url: https://indianexpress.com/section/sports/feed/
+    section: sport
+    category: SPORTS
+    source_weight: 20
+
+  # ── Deccan Herald ─────────────────────────────────────────
+  - source: Deccan Herald
+    url: https://www.deccanherald.com/stories.rss
+    section: frontPage
+    category: HEADLINES
+    source_weight: 15

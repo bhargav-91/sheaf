@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sheaf Edition",
+  "description": "Contract between the baker and the app's Swift Edition Codable model. Dates are numbers: seconds since 2001-01-01T00:00:00Z (Swift reference date).",
+  "type": "object",
+  "required": ["id", "publication", "city", "date", "sections"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "#/$defs/uuid" },
+    "publication": { "type": "string", "minLength": 1 },
+    "city": { "type": "string", "minLength": 1 },
+    "date": { "type": "number" },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/section" }
+    }
+  },
+  "$defs": {
+    "uuid": {
+      "type": "string",
+      "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+    },
+    "section": {
+      "type": "object",
+      "required": ["id", "title", "stories", "briefs", "promotions"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/uuid" },
+        "title": { "type": "string", "minLength": 1 },
+        "stories": { "type": "array", "items": { "$ref": "#/$defs/story" } },
+        "briefs": { "type": "array", "items": { "$ref": "#/$defs/story" } },
+        "promotions": { "type": "array", "items": { "$ref": "#/$defs/promotion" } }
+      }
+    },
+    "story": {
+      "type": "object",
+      "required": ["id", "category", "headline", "deck", "byline", "visual", "blockType", "bodyText", "articleURL"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/uuid" },
+        "category": { "type": "string" },
+        "headline": { "type": "string", "minLength": 1 },
+        "deck": { "type": "string" },
+        "byline": { "type": "string" },
+        "visual": { "$ref": "#/$defs/visual" },
+        "blockType": { "enum": ["hero", "feature", "standard", "brief"] },
+        "bodyText": { "type": "string" },
+        "articleURL": { "type": "string", "pattern": "^https?://" },
+        "pubDate": { "type": "number" },
+        "sourcePriority": { "type": "integer" },
+        "datatype": { "type": "string" }
+      }
+    },
+    "visual": {
+      "type": "object",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "enum": ["remoteImage", "infographic", "none"] },
+        "url": { "type": "string", "pattern": "^https?://" },
+        "assetName": { "type": "string" }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "remoteImage" } } },
+          "then": { "required": ["type", "url"] }
+        },
+        {
+          "if": { "properties": { "type": { "const": "infographic" } } },
+          "then": { "required": ["type", "assetName"] }
+        }
+      ]
+    },
+    "promotion": {
+      "type": "object",
+      "required": ["id", "imageName", "placement"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "$ref": "#/$defs/uuid" },
+        "imageName": { "type": "string" },
+        "placement": { "enum": ["fullStrip", "quarterPage"] }
+      }
+    }
+  }
+}
