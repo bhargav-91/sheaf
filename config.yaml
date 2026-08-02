@@ -54,6 +54,33 @@ rss_feeds:
     category: SPORTS
     source_weight: 20
 
+  # ── Times of India ────────────────────────────────────────
+  - source: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+    section: frontPage
+    category: HEADLINES
+    source_weight: 30
+  - source: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+    section: nation
+    category: NATIONAL
+    source_weight: 30
+  - source: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms
+    section: city
+    category: CITY
+    source_weight: 30
+  - source: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeeds/1898055.cms
+    section: business
+    category: BUSINESS
+    source_weight: 30
+  - source: Times of India
+    url: https://timesofindia.indiatimes.com/rssfeeds/4719148.cms
+    section: sport
+    category: SPORTS
+    source_weight: 30
+
   # ── Deccan Herald ─────────────────────────────────────────
   - source: Deccan Herald
     url: https://www.deccanherald.com/stories.rss
