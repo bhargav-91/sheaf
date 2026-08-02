@@ -1,181 +1,151 @@
 {
- "id": "f7683b0d-9553-408d-9cfa-1dc0fa48c3df",
+ "id": "69480f10-207e-491c-b994-02215d8beb9c",
  "publication": "Morning Edition",
  "city": "Bengaluru",
- "date": 807338879.5140669,
+ "date": 807343361.661814,
  "sections": [
   {
-   "id": "a4740540-682d-426b-8776-2024ad912f6f",
+   "id": "f38d8726-f09e-4a2f-9a2f-46e809680d42",
    "title": "Front Page",
    "stories": [
     {
-     "id": "a237a4dc-faef-4e40-96b3-7674cf83bad2",
+     "id": "0e1ded17-835a-4a89-97be-47f34ebf0f3a",
      "category": "NATIONAL",
-     "headline": "Train services affected due to landslips on tracks between Yedakumari and Shirvagilu stations",
-     "deck": "A relief material train reached the affected spot to assist in the restoration operations.",
+     "headline": "UDF government orders re-investigation into KSU black flag protest against Veena George",
+     "deck": "Home Minister Ramesh Chennithala’s office said the decision was predicated on a petition filed by KSU activists arrested on allegedly trumped-up charges of attempted murder and armed assault",
      "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/hindi/editorial/ivc3f5/article71297178.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-02%20at%2010.02.05%20AM.jpeg"
+      "url": "https://th-i.thgim.com/public/incoming/713bd0/article71297224.ece/alternates/LANDSCAPE_1200/22tvnearby1_G76GPEG0SUSS.3.jpg.jpg"
      },
      "blockType": "hero",
-     "bodyText": "A relief material train reached the affected spot to assist in the restoration operations.",
-     "articleURL": "https://www.thehindu.com/news/national/karnataka/train-services-affected-due-to-landslips-on-tracks-between-yedakumari-and-shirvagilu-stations/article71297126.ece",
-     "pubDate": 807318662.0
+     "bodyText": "The Kerala Government has ordered a re-investigation into the black flag protest by the Kerala Students Union (KSU) activists against former Health Minister and Communist Party of India (Marxist) [CPI(M)] leader Veena George at Kannur railway station during the fag end of the previous Left Democratic Front (LDF) government in February.\nAlso read | Plea before Kerala HC by KSU worker accused of attacking former Health Minister Veena George withdrawn\nHome Minister Ramesh Chennithala’s office said the decision was predicated on a petition filed by KSU activists arrested on allegedly trumped-up charges of attempted murder and armed assault in connection with the incident and subsequently remanded in judicial custody.\nMr. Chennithala’s office said the government was contemplating either forming a Special Investigation Team headed by a Superintendent of Police or referring the case to the State Police Crime Branch.\nThe protest against Ms. George had precipitated a politically fraught situation, resulting in clashes between CPI(M) and Congress workers in several districts in the State.\nMs. George, who had arrived at the railway station under heavy police escort, was admitted to the Intensive Care Unit of the Kannur District Hospital, reportedly with soft tissue injuries to her neck and hand.\nThe CPI(M) and Congress offered conflicting views of the incident, which was recorded on camera by television news crews. The CPI(M) called for State-wide protests, accusing KSU activists of being complicit in an entrenched political conspiracy hatched by the Congress to harm Ms. George, with a view to precipitating a law-and-order situation in Kerala in the run-up to the 2026 Assembly elections.\nChief Minister Pinarayi Vijayan spotlighted the issue and sought to put the Congress, then in the Opposition, on the defensive by visiting Ms. George in the hospital’s ICU. CPI(M) State Secretary M.V. Govindan and his Communist Party of India (CPI) counterpart, Binoy Viswam, termed the “mob violence” against Ms George as premeditated and orchestrated by the Congress leadership.\nIn contrast, the then Leader of the Opposition in Kerala and current Chief Minister, V D Satheesan, termed the incident CPI (M)-sponsored political theatre to divert public attention and alter the arc of the political narrative away from other controversies plaguing the LDF government, including the dismal state of public health delivery in Kerala.\nHe alleged that Ms. George, supposedly at the behest of the CPI(M) leadership, had sought to create a political spectacle by getting herself admitted to the ICU to put the United Democratic Front (UDF) opposition in an indefensible position ahead of the declaration of the Assembly polls. Mr Satheesan had also argued that the police cordon had prevented KSU workers from getting close to Ms George and the State had slapped grievous charges on the students out of political spite.\nEarlier, the KSU had moved the High Court, stating that they were victims of the LDF government’s high-handedness and that the charges against them were demonstrably false, if television news footage of the event was anything to go by.\nPublished - August 02, 2026 11:21 am IST",
+     "articleURL": "https://www.thehindu.com/news/national/kerala/udf-government-orders-re-investigation-into-ksu-black-flag-protest-against-veena-george/article71297185.ece",
+     "pubDate": 807342673.0
     },
     {
-     "id": "5cc1bf00-21ed-4eb6-abc2-ddcde8cc8e31",
+     "id": "db154851-e6dd-4267-acf0-8e8dfc44e0fe",
      "category": "NATIONAL",
-     "headline": "Kerala braces for the possibility of heavy rains on August 2",
-     "deck": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/dxiuoj/article71297159.ece/alternates/LANDSCAPE_1200/80687_1_8_2026_20_35_12_1_IMG_20260801_WA0286.JPG"
-     },
-     "blockType": "feature",
-     "bodyText": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
-     "articleURL": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-braces-for-the-possibility-of-heavy-rains-on-august-2/article71297154.ece",
-     "pubDate": 807317734.0
-    },
-    {
-     "id": "c22bf9ae-200e-4569-8325-b6549c76e8b8",
-     "category": "HEADLINES",
-     "headline": "NEET-UG counselling to begin on August 4, academic session from September 8",
-     "deck": "",
-     "byline": "Deccan Herald",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/j3jog1kr/file86dry5b3k6ugis8281p.jpg"
-     },
-     "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/india/neet-ug-counselling-to-begin-on-august-4-academic-session-from-september-8-4096116",
-     "pubDate": 807317712.0
-    },
-    {
-     "id": "13beeceb-3360-4b3b-ab6c-c6999fb46487",
-     "category": "NATIONAL",
-     "headline": "Arrested terror suspect had planned to infiltrate CJP protest, says West Bengal Special Task Force",
-     "deck": "Police say Hamim Mondal was tasked with studying CM Suvendu Adhikari’s movements to find vulnerabilities in his security",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/g030wp/article71295263.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000355A.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "Police say Hamim Mondal was tasked with studying CM Suvendu Adhikari’s movements to find vulnerabilities in his security",
-     "articleURL": "https://www.thehindu.com/news/national/arrested-terror-suspect-had-planned-to-infiltrate-cjp-protest-says-west-bengal-special-task-force/article71294686.ece",
-     "pubDate": 807317480.0
-    },
-    {
-     "id": "712b965e-6831-43c6-a643-5a93294d0250",
-     "category": "HEADLINES",
-     "headline": "Landslide on railway tracks in Karnataka's Western Ghats: Train services between Mangaluru and Yeshwantpur cancelled",
-     "deck": "",
-     "byline": "Deccan Herald",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/1dtq2yx7/landslide-on-track-1.jpeg"
-     },
-     "blockType": "standard",
-     "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/india/karnataka/mangaluru/landslide-on-railway-tracks-in-karnatakas-western-ghats-train-services-between-mangaluru-and-yeshwantpur-cancelled-newsalert-4096311",
-     "pubDate": 807317359.0
-    }
-   ],
-   "briefs": [
-    {
-     "id": "50caa0c8-e7e3-45ea-a170-d9a1641b7c15",
-     "category": "HEADLINES",
-     "headline": "Power, politics and India’s place in the new world order",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/india-new-world.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/india/power-politics-and-indias-place-in-the-new-world-order-10813701/",
-     "pubDate": 807317262.0
-    },
-    {
-     "id": "f6b4c15f-95b5-4ba5-b921-162d1869f6b8",
-     "category": "WORLD",
-     "headline": "News In Frames: The long swim to Ceuta",
-     "deck": "",
+     "headline": "Three go missing, one injured, following landslip due to heavy rains at Tirthahalli",
+     "deck": "Tirthahalli MLA Araga Jnanendra, who visited the spot, said those affected were workers who had come from different parts of the State in search of employment",
      "byline": "The Hindu",
      "visual": {
       "type": "none"
      },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/news/international/news-in-frames-the-long-swim-to-ceuta/article71297122.ece",
-     "pubDate": 807317172.0
+     "blockType": "feature",
+     "bodyText": "Three persons went missing and another was injured following a landslip at Tirthahalli during heavy rains early on Sunday (August 2, 2026).\nA portion of a hillock at Gandhi Nagar in Tirthahalli town gave way around 3.30 a.m., damaging nearby houses. The retaining wall constructed to protect the residents collapsed, triggering the landslip.\nThree members of a family from Gangavathi in Koppal district are believed to have been trapped under the debris. The taluk administration called in a rescue team early in the morning, and Fire and Emergency Services personnel managed to rescue one person. The injured person was shifted to McGann Hospital in Shivamogga for treatment.\nTirthahalli MLA Araga Jnanendra, who visited the spot early on Sunday (August 2, 2026), said those affected were workers who had come from different parts of the State in search of employment.\n“Three members of a family, including a child, are believed to be trapped under the debris. Efforts are on to trace them. Meanwhile, the person who was rescued is out of danger,” he said.\nSenior police and revenue officials are camping at the spot and overseeing the rescue operations.\nPublished - August 02, 2026 11:20 am IST",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/several-missing-injured-following-landslip-due-to-heavy-rains-at-tirthahalli/article71297184.ece",
+     "pubDate": 807342644.0
     },
     {
-     "id": "2fb4dec4-1365-44db-92d5-67ce73efd834",
+     "id": "37f605f7-785e-4992-b565-94a615559f15",
      "category": "NATIONAL",
-     "headline": "Second Godavari flood warning in force, releif operation in full swing in Konaseema, Polavaram districts",
-     "deck": "Dr. B.R. Ambedkar Konaseema District Collector R. Mahesh Kumar told The Hindu, “We have intensified relief operations as per the flood protocol for the second flood warning”",
+     "headline": "Assam flood situation improves as number of affected dips to 1.78 lakh",
+     "deck": "",
      "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/hindi/editorial/d9xp8g/article71297150.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-02%20at%207.53.58%20AM.jpeg"
+      "url": "https://th-i.thgim.com/public/incoming/jv1qcl/article71297215.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000501B.jpg"
      },
-     "blockType": "brief",
-     "bodyText": "Dr. B.R. Ambedkar Konaseema District Collector R. Mahesh Kumar told The Hindu, “We have intensified relief operations as per the flood protocol for the second flood warning”",
-     "articleURL": "https://www.thehindu.com/news/national/andhra-pradesh/second-godavari-flood-warning-in-force-releif-operation-in-full-swing-in-konaseema-polavaram-districts/article71297120.ece",
-     "pubDate": 807316858.0
+     "blockType": "feature",
+     "bodyText": "The flood situation in Assam improved slightly, with the number of affected people coming down to 1.78 lakh even though the count of districts hit by the deluge increased to seven, an official bulletin said.\nNo fatalities were reported in the State in the last 24 hours, with the death toll remaining at 82, the Assam State Disaster Management Authority (ASDMA) said in a bulletin on Saturday (August 1, 2026) night.\nThe Dikhow and Dhansiri rivers were flowing above the danger level at Sivasagar and Numaligarh (Golaghat), respectively, it added.\nA total of 349 villages in Golaghat, Sivasagar, Charaideo, Bajali, Dhemaji, Sonitpur and Jorhat districts remained affected by the deluge.\nCharaideo was the worst-hit, with 75,199 people affected, followed by 58,824 in Sivasagar.\nA total of 1.92 lakh people were affected in five districts on Friday (July 31, 2026).\nForty-four relief camps were operational in the state, providing shelter to around 15,000 displaced people. Another 17 relief distribution centres were also working, catering to 5,569 people.\nA crop area of 15,060 hectares remained submerged, while 1,543 animals were washed away and another 6,765 were affected.\nDamage to infrastructure, including houses, roads, bridges, schools and cattle sheds, was also reported from various parts, the ASDMA bulletin added.\nPublished - August 02, 2026 11:14 am IST",
+     "articleURL": "https://www.thehindu.com/news/national/assam/assam-flood-situation-improves-as-number-of-affected-dips/article71297210.ece",
+     "pubDate": 807342288.0
     },
     {
-     "id": "f0320ac4-dae9-48c6-b641-a6e5d87efca7",
+     "id": "d492c511-e914-47dd-bcd8-4e8e9b152ae8",
      "category": "HEADLINES",
-     "headline": "Akhil Maharashtra Giryarohan Mahasangh condoles death of veteran mountaineer Nirmal Purja",
+     "headline": "Tamil Nadu: 7 fishermen rescued as boat capsizes off Tuticorin coast",
      "deck": "",
      "byline": "Deccan Herald",
      "visual": {
       "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/5kxd0nxx/file86yxgbbglwxcx92kgm9.jpg"
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/4x8c3f9j/fishermen.png"
+     },
+     "blockType": "standard",
+     "bodyText": "",
+     "articleURL": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-7-fishermen-rescued-as-boat-capsizes-off-tuticorin-coast-4096345",
+     "pubDate": 807341574.0
+    },
+    {
+     "id": "d52d456e-a0fc-440b-9ed5-13c50fbed3cc",
+     "category": "HEADLINES",
+     "headline": "CPI(M) leaders criticise Kerala CM V D Satheesan over attending events during rain disaster",
+     "deck": "",
+     "byline": "Deccan Herald",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/5pzg0o23/vd.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "",
+     "articleURL": "https://www.deccanherald.com/india/kerala/cpim-leaders-criticise-kerala-cm-v-d-satheesan-over-attending-events-during-rain-disaster-4096364",
+     "pubDate": 807341450.0
+    }
+   ],
+   "briefs": [
+    {
+     "id": "11d908ac-a462-4424-a5f4-abb1b45fa69f",
+     "category": "WORLD",
+     "headline": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
+     "deck": "The Nazca Lines are a group of extensive geoglyphs scraped into the desert around Nazca hundreds of years ago by Peru’s Indigenous inhabitants. The lines form images of animals that can only be fully appreciated from planes or viewing towers.",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/1di25b/article71297084.ece/alternates/LANDSCAPE_1200/Peru_Plane_Crash_12747.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "The Nazca Lines are a group of extensive geoglyphs scraped into the desert around Nazca hundreds of years ago by Peru’s Indigenous inhabitants. The lines form images of animals that can only be fully appreciated from planes or viewing towers.",
+     "articleURL": "https://www.thehindu.com/news/international/tourist-plane-crashes-in-peru-killing-13-on-nazca-lines-sightseeing-flight/article71295978.ece",
+     "pubDate": 807341138.0
+    },
+    {
+     "id": "7b31f1d0-22e0-40c3-9eb2-a82f5d38cafb",
+     "category": "HEADLINES",
+     "headline": "'The Sopranos' star Vincent Pastore dies at 80",
+     "deck": "",
+     "byline": "Deccan Herald",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/ntjaspiu/vincent-pastore.jpg"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/india/maharashtra/akhil-maharashtra-giryarohan-mahasangh-condoles-death-of-veteran-mountaineer-nirmal-purja-4096315",
-     "pubDate": 807316440.0
+     "articleURL": "https://www.deccanherald.com/entertainment/the-sopranos-star-vincent-pastore-dies-at-80-4096313",
+     "pubDate": 807341098.0
     },
     {
-     "id": "c592669a-bb88-4f91-bf0f-243e6d2fa66c",
+     "id": "5935207d-bfeb-47eb-845a-5fdcc6248583",
+     "category": "HEADLINES",
+     "headline": "Commonwealth Games 2026 | Gulveer Singh becomes first Indian to win two track and field medals with bronze in 5k run",
+     "deck": "",
+     "byline": "Deccan Herald",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/ov21lt7k/gulveer-singh.jfif"
+     },
+     "blockType": "brief",
+     "bodyText": "",
+     "articleURL": "https://www.deccanherald.com/sports/other-sports/commonwealth-games-2026-gulveer-singh-becomes-first-indian-to-win-two-track-and-field-medals-with-bronze-in-5k-run-4096343",
+     "pubDate": 807340861.0
+    },
+    {
+     "id": "b43282d4-6ffa-4303-9584-d22a2622bc49",
      "category": "WORLD",
-     "headline": "3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say",
-     "deck": "An unidentified woman who attempted to carry the explosive device into the restaurant died in the blast as did a security guard and a patron",
+     "headline": "3 dead, 7 injured in shooting at restaurant in U.S. State of Idaho",
+     "deck": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant",
      "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/qpou9y/article71295969.ece/alternates/LANDSCAPE_1200/2026-08-01T190318Z_2059874848_RC2UPMAPZEQK_RTRMADP_3_RUSSIA-EXPLOSION.JPG"
+      "url": "https://th-i.thgim.com/public/incoming/pe8vyh/article71297208.ece/alternates/LANDSCAPE_1200/2026-08-02T033630Z_1953364261_RC23QMASZNE1_RTRMADP_3_USA-IDAHO-SHOOTING.JPG"
      },
      "blockType": "brief",
-     "bodyText": "An unidentified woman who attempted to carry the explosive device into the restaurant died in the blast as did a security guard and a patron",
-     "articleURL": "https://www.thehindu.com/news/international/moscow-restaurant-explosion-in-russia-kills-people-injures-more-than-a-dozen/article71295966.ece",
-     "pubDate": 807316349.0
+     "bodyText": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant",
+     "articleURL": "https://www.thehindu.com/news/international/multiple-people-dead-after-shooting-at-fast-food-restaurant-in-southern-idaho-updates/article71297049.ece",
+     "pubDate": 807340825.0
     },
     {
-     "id": "53e145d9-1691-4931-8fd4-75f735e1bf21",
-     "category": "NATIONAL",
-     "headline": "Punjab’s Dalits power politics with the purse",
-     "deck": "For generations, caste hierarchy in rural Punjab was written into society’s architecture, much like in other parts of India. Guru Ghar in Chak Hakim village of Phagwara is seen as a symbol of rising social, economic, religious, and political assertiveness of the Dalits, finds Vikas Vasudeva. With Punjab’s Assembly election early next year, all the political parties in the fray are wooing this…",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/65qe08/article71285074.ece/alternates/LANDSCAPE_1200/02_RVM_0985.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "For generations, caste hierarchy in rural Punjab was written into society’s architecture, much like in other parts of India. Guru Ghar in Chak Hakim village of Phagwara is seen as a symbol of rising social, economic, religious, and political assertiveness of the Dalits, finds Vikas Vasudeva. With Punjab’s Assembly election early next year, all the political parties in the fray are wooing this…",
-     "articleURL": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece",
-     "pubDate": 807316138.0
-    },
-    {
-     "id": "fa9d5daa-9da3-44fc-995e-e70d48830c7f",
+     "id": "ac45b99e-7675-4c41-9007-8401d699fe14",
      "category": "WORLD",
      "headline": "Trump says U.S., Israel to hold off on Iran strikes",
      "deck": "The U.S. President said the deal would have to include the “Immediate, Complete and Total Opening of the Hormuz Strait, and an end to Iran's nuclear threat.”",
@@ -187,371 +157,221 @@
      "blockType": "brief",
      "bodyText": "The U.S. President said the deal would have to include the “Immediate, Complete and Total Opening of the Hormuz Strait, and an end to Iran's nuclear threat.”",
      "articleURL": "https://www.thehindu.com/news/international/trump-us-israel-iran-strike/article71297116.ece",
-     "pubDate": 807315963.0
+     "pubDate": 807340637.0
     },
     {
-     "id": "26b1887c-1c37-4a2d-9787-8b817501b068",
+     "id": "bc7bf6f8-3947-41ff-9f11-2ae5a83bda35",
+     "category": "NATIONAL",
+     "headline": "Can ‘floating’ solar boost India’s renewable energy uptake? | Explained",
+     "deck": "With land increasingly scarce and storage becoming crucial, here’s why India is looking to its vast reservoirs for the next phase of solar expansion",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/k5al6z/article69889894.ece/alternates/LANDSCAPE_1200/IMG_IMG_11073_20_4_2022__2_1_78A7CGQU.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "With land increasingly scarce and storage becoming crucial, here’s why India is looking to its vast reservoirs for the next phase of solar expansion",
+     "articleURL": "https://www.thehindu.com/sci-tech/science/can-floating-solar-boost-indias-renewable-energy-uptake-explained/article71293629.ece",
+     "pubDate": 807340411.0
+    },
+    {
+     "id": "866ac511-c617-4d11-a56c-43d6bd7a3a84",
+     "category": "NATIONAL",
+     "headline": "Train services affected due to landslips on tracks between Yedakumari and Shirvagilu stations",
+     "deck": "A relief material train reached the affected spot to assist in the restoration operations.",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/hindi/editorial/ivc3f5/article71297178.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-02%20at%2010.02.05%20AM.jpeg"
+     },
+     "blockType": "brief",
+     "bodyText": "A relief material train reached the affected spot to assist in the restoration operations.",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/train-services-affected-due-to-landslips-on-tracks-between-yedakumari-and-shirvagilu-stations/article71297126.ece",
+     "pubDate": 807338802.0
+    },
+    {
+     "id": "28f3fa97-e5b6-4aa1-b2c4-46b850faadfe",
      "category": "HEADLINES",
-     "headline": "Body of fisherman in Muthalapozhi boat mishap recovered, search on for another",
+     "headline": "The Tricolour no longer needs an occasion to stay aloft in Kashmir",
      "deck": "",
      "byline": "Deccan Herald",
      "visual": {
       "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-05-31/jgkldvmq/deccanherald2025-12-27o0yd1ib3deadbodyistock.avif"
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-02/a9pof8g1/tricolour.jpg"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/india/kerala/body-of-fisherman-in-muthalapozhi-boat-mishap-recovered-search-on-for-another-4096306",
-     "pubDate": 807315694.0
+     "articleURL": "https://www.deccanherald.com/india/jammu-and-kashmir/the-tricolour-no-longer-needs-an-occasion-to-stay-aloft-in-kashmir-4096333",
+     "pubDate": 807338569.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "7ff27683-4e4c-4693-81b6-2165c9f0f951",
+   "id": "13b797cb-a339-42ef-8097-8ed7d3a3f98b",
    "title": "City",
    "stories": [
     {
-     "id": "89ad4181-f9ae-49a5-aa03-d62b52c0a855",
+     "id": "c3d08cf5-f273-4399-8997-fde3111d5cb5",
      "category": "CITY",
-     "headline": "Officials From 9 States Visit Indore To Replicate India's Cleanest City Model",
+     "headline": "GBA urges large participation for ‘Bengaluru Hasiruru’ campaign",
      "deck": "",
-     "byline": "Free Press Journal",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://media.assettype.com/freepressjournal/2026-08-01/ah4b8zjq/Arsh-IMC-2.jpg?w=280"
+      "url": "https://th-i.thgim.com/public/incoming/g421ks/article71295848.ece/alternates/LANDSCAPE_1200/Maheshwar%20Rao.JPEG"
      },
      "blockType": "hero",
-     "bodyText": "",
-     "articleURL": "https://www.freepressjournal.in/indore/officials-from-9-states-visit-indore-to-replicate-indias-cleanest-city-model",
-     "pubDate": 807319800.0
+     "bodyText": "M. Maheshwar Rao, Chief Commissioner of the Greater Bengaluru Authority (GBA), on Saturday urged citizens and Residents Welfare Associations (RWAs) to actively participate in the ‘Bengaluru Hasiruru’ campaign and help transform it into a people’s movement.\nMr. Rao said that with less than two weeks left for the launch of the campaign, citizens have already sought to plant more than 43,000 saplings. The plantation drive, scheduled to begin on August 15 across the GBA limits, aims to plant 60,000 saplings while distributing another 40,000 to residents.\nMr. Rao directed officials to inspect the proposed locations, assess their suitability, and finalise the sites for plantation. He also urged RWAs and residents with space to plant at least 30 saplings in layouts, streets, or public spaces to submit their applications at the earliest. Officials have been asked to prepare a comprehensive list of sapling requirements from RWAs across all city corporations to streamline distribution and plantation.\nEmphasising that planting alone would not ensure success, the Chief Commissioner instructed officials to organise meetings with RWAs in every city corporation to train residents on proper plantation and maintenance practices. Mr. Rao further instructed officials to expedite the tender process for plantation works, issue work orders without delay, and complete all preparatory arrangements before the campaign begins.\nResidents and RWAs intending to plant at least 30 saplings can submit applications online or by email before August 10. Based on site inspections by the Forest Department, the respective city corporations will undertake the plantation.\nPublished - August 01, 2026 10:59 pm IST",
+     "articleURL": "https://www.thehindu.com/news/cities/bangalore/gba-urges-large-participation-for-bengaluru-hasiruru-campaign/article71295456.ece",
+     "pubDate": 807298181.0
     },
     {
-     "id": "a8603840-44ea-4371-9ff8-2eb124e1b6d3",
+     "id": "60a6cbe6-141a-4bee-a827-22e4aac5b4bb",
      "category": "CITY",
-     "headline": "‘Writing new chapters in AI and space’: PM Modi hails youth as driver of India’s tech growth",
+     "headline": "Bengaluru’s land mafia and land sharks get laws bent to serve their interests: Karnataka High Court",
      "deck": "",
-     "byline": "Indian Express",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/PM-Modi-Mysuru.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/7jw99w/article71295733.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_2_1_LRGB5AMG.jpg"
      },
      "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/cities/bangalore/writing-new-chapters-in-ai-and-space-pm-modi-hails-youth-as-driver-of-indias-tech-growth-10814237/",
-     "pubDate": 807316382.0
+     "bodyText": "Observing that “the land mafias and land sharks of Bengaluru get every law and rule bent to be favourable towards them”, the High Court of Karnataka has criticised the Bangalore Development Authority (BDA) for reducing the width of a proposed access road to a landlocked private property to favour a real estate developer, contrary to earlier orders of the Lokayukta, the High Court and the Supreme Court.\nA Division Bench comprising Justice D.K. Singh and Justice T.M. Nadaf made these observations while allowing an appeal filed by brothers J.V. Venkatesh and J.V. Srinivas, who own three acres of land in Survey No. 1A, Block 11, of Jakkur Plantation Village, Yelahanka Hobli, Bengaluru North Taluk.\n18 metres vs. 9.5 metres\nThe Bench quashed the BDA’s March 5, 2024, resolution to limit the width of the road to 9.5 metres by withdrawing its January 2020 resolution, under which it had prescribed an 18-metre-wide access road while approving the land development plan of M/s Township Promoters (TP), Bengaluru, which owns 25 acres and 16 guntas of land surrounding the appellants’ property.\nThe BDA, in 2020, had directed TP to leave land for an 18-metre-wide road to provide access to the lands of the appellant brothers.\nThe Bench noted that even in January 2024, the BDA had informed the Lokayukta that TP had not submitted a revised development plan leaving land for the 18-metre access road as mandated under the 2020 resolution.\nThe Bench noted that on March 5, 2024, the new BDA Commissioner departed from the 2020 resolution mandating an 18-metre access road and revived the 2018 resolution, which prescribed only a 9.5-metre road.\nQuestioning this move, the Bench wondered how the Commissioner could alter a decision that had been taken in tune with orders passed by the High Court and the Supreme Court.\n“We, therefore, have no hesitation in saying that the respondent [developer] is extremely powerful and even got appointed a Commissioner, BDA, favourable to him. The turnaround by the BDA is an exercise in mala fide, arbitrary, illegal and for considerations other than legal,” the Bench observed.\n‘Extremely powerful’\nThe Bench also said that “the respondent appears to be extremely powerful, for whose help and assistance the entire State machinery comes forward”, while pointing out that this was evident from the fact that the State government issued a gazette notification on July 7, 2020, withdrawing RMP-2031 and directing the BDA to sanction plans as per RMP-2015 to limit the width of the access road to 9.5 metres.\n“As the city of Bengaluru has exponentially grown, the demand for housing has also increased manifold and there is unprecedented pressure on natural resources, including land. The land value is skyrocketing. Several land mafias and land sharks are present in the city. These land mafias and land sharks get every law and rule bent to be favourable towards them,” the Bench observed.\nBackground of case\nThe case traces back to 2006, when the appellants’ father first approached the court after a developer built a compound wall that made his land inaccessible.\nHe later filed a complaint before the then Lokayukta, who, in July 2011, asked the BDA to ensure an 18-metre access road as per CDP-1995.\nThe developer’s plea against the Lokayukta’s report was dismissed by the High Court in 2014 and by the Supreme Court in 2016.\nDespite these orders, the BDA, in its 2018 resolution, restricted the width of the access road to 9.5 metres. However, in January 2020, it passed a fresh resolution, admitting that the 2018 resolution was “against the orders of the Lokayukta, High Court and Supreme Court.”\nPublished - August 01, 2026 10:15 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/bengalurus-land-mafia-and-land-sharks-get-laws-bent-to-serve-their-interests-karnataka-high-court/article71295231.ece",
+     "pubDate": 807295520.0
     },
     {
-     "id": "e86dfc04-fcf6-45de-8c21-bad768047426",
+     "id": "34f7bd63-5d53-4013-9e18-a53c40298aaa",
      "category": "CITY",
-     "headline": "Team India T20I Vice-Captain Tilak Varma Set To Lead South Zone In Duleep Trophy 2026-27, Says Report",
+     "headline": "Bescom to relocate transformers blocking footpaths as part of Clean Up Bengaluru campaign",
      "deck": "",
-     "byline": "Free Press Journal",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://media.assettype.com/freepressjournal/2026-01-08/4tdq6hto/GiJuVAwaQAAyc65.jpeg?w=280"
+      "url": "https://th-i.thgim.com/public/incoming/tx45v9/article71295575.ece/alternates/LANDSCAPE_1200/Power-shutdown-G91FATKEB.3.jpg.jpg"
      },
      "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://www.freepressjournal.in/sports/team-india-t20i-vice-captain-tilak-varma-set-to-lead-south-zone-in-duleep-trophy-2026-27-says-report",
-     "pubDate": 807299121.0
+     "bodyText": "After Greater Bengaluru Development Minister Krishna Byre Gowda highlighted the need to shift utility services to clear footpaths for pedestrians, the Bangalore Electricity Supply Company Limited (Bescom) has joined the month-long Clean Up Bengaluru campaign.\nClean Up Bengaluru was launched by the Greater Bengaluru Authority (GBA) to ensure safer pedestrian movement.\nAccording to Energy Department officials, they would be shifting huge transformers that obstruct the path of pedestrians walking on footpaths.\nEnergy Minister K.J. George, along with N. Shivashankara, Managing Director, Bescom, inspected the transformer relocation work at Channakeshava Layout near Hennur Main Road. After inspecting the ongoing work to relocate electrical transformers, Mr. George directed officials to expedite the process.\nTo ensure effective coordination with the GBA and oversee the implementation of these activities, the Chief Engineers (Electrical) of the Bengaluru North Metropolitan Zone and the Bengaluru South Metropolitan Zone have been appointed as the nodal officers.\nDr. Shivashankara said, “Unused and decommissioned electrical infrastructure located on footpaths will be removed. Damaged, broken, and deteriorated electric poles have been identified, and instructions have been issued to either return them to stores or relocate them to suitable locations.”\nHe further stated that where existing Distribution Point transformer structures on major roads obstruct pedestrian movement, they would either be replaced with specially designed compact transformer structures or mounted on spun poles.\nOfficials have also been instructed to ensure that spun poles are installed away from pedestrian pathways so that they do not hinder public movement.\nDr. Shivashankara said that officials have been directed to ensure that Gang Operated Switches and operating levers installed on transformer poles are maintained at a minimum height of seven feet above ground level.\n“Existing electrical infrastructure such as poles, ring main units, and transformers that obstruct vehicular traffic will be identified and relocated wherever necessary to facilitate smooth movement,” he said.\nPublished - August 01, 2026 09:19 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/bescom-to-relocate-transformers-blocking-footpaths-as-part-of-clean-up-bengaluru-campaign/article71295157.ece",
+     "pubDate": 807292178.0
     },
     {
-     "id": "2ec70704-43a4-496a-aa94-2c1d62dca6f6",
+     "id": "d47ce472-aa97-4587-b3b4-a782ddf7337e",
      "category": "CITY",
-     "headline": "Heavy rains force postponement of exams across Kerala",
-     "deck": "The General Education Department postponed the State Eligibility Test due to heavy downpour. A new date for this examination will be announced soon by officials. Mahatma Gandhi University also suspended its exams scheduled for August third. Delhi University has not yet set new dates for its postponed examinations.",
-     "byline": "The Economic Times",
+     "headline": "Rains revive in Cauvery basin, easing Karnataka-Tamil Nadu water conflict",
+     "deck": "",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://img.etimg.com/thumb/msid-132793362,resizemode-4,width-1200,height-900,imgsize-161074,overlay-economictimes/articleshow.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/g3ia7m/article71295528.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-01%20at%2016.41.16.jpeg"
      },
      "blockType": "standard",
-     "bodyText": "The General Education Department postponed the State Eligibility Test due to heavy downpour. A new date for this examination will be announced soon by officials. Mahatma Gandhi University also suspended its exams scheduled for August third. Delhi University has not yet set new dates for its postponed examinations.",
-     "articleURL": "https://economictimes.indiatimes.com/news/india/heavy-rains-force-postponement-of-exams-across-kerala/articleshow/132793324.cms",
-     "pubDate": 807295521.0
+     "bodyText": "Improved inflows into the reservoirs in the Cauvery basin on Saturday, following heavy rains in the catchment area, have brought some relief to Karnataka amid the ongoing row over the release of Cauvery water to Tamil Nadu. The Cauvery Water Regulation Committee (CWRC) had directed Karnataka to release water at the rate of 3,500 cusecs daily for 15 days, triggering protests from farmers, who urged the State government not to release water, citing poor storage levels and deficient rainfall.\nHowever, with the southwest monsoon turning active and rain in the catchment areas, the situation improved on Saturday. If the rains continue, reservoir levels are expected to rise further.\nKabini reservoir in Mysuru district is now just two and half feet short of its full reservoir level (FRL), with the water level touching 2,281.43 feet on Saturday against the maximum level of 2,284 feet following increase in inflows. The rise is largely owing to heavy rainfall in the reservoir’s catchment areas in Kerala.\nEarlier in the day, Kabini dam authorities issued a flood alert for people living downstream after inflows surged. By 3 p.m., water was being released at the rate of 5,000 cusecs from the reservoir, which went up at the rate of 12,000 cusecs at 8 p.m. with the rise in inflow.\nAt Harangi\nIn Kodagu, rain has boosted inflows into the Harangi reservoir. At 4 p.m. on Saturday, Harangi was receiving an inflow of 16,880 cusecs, while the outflow was at the rate of 19,700 cusecs. However, the outflow dropped to 12,500 cusecs with decrease in inflow which was 10,000 cusecs at 8 p.m. Also, the dam’s water level reached 2,857.30 feet against the maximum of 2,859 feet. Madikeri and Somwarpet taluks recorded heavy rainfall during the past 24 hours.\nAt the KRS reservoir in Mandya district, the water level stood at 95.57 feet against the maximum level of 124.80 feet. The inflow at 8 p.m. was at the rate of 20,438 cusecs, while the outflow was at the rate of 1,768 cusecs, mainly for canal and drinking water supply. Continued rainfall in Kodagu over the next few days is expected to further improve inflows, easing concerns over the Cauvery issue.\nThe realisation of the Cauvery water was measured at Biligundlu on Karnataka-Tamil Nadu.\nAmid the improved monsoon conditions, Chief Minister D.K. Shivakumar, who has convened an all-party meeting on Sunday to discuss the CWRC order and seek suggestions of the Opposition leaders on Karnataka’s stand, expressed relief over the rising reservoir levels. Responding to the release of water from Kabini dam, he remarked, “How could we hold back water?”\nThe Chief Minister, who was in Mysuru on Saturday, said he had offered prayers to Goddess Chamundeshwari atop Chamundi Hills for timely rains and the welfare of farmers with the State facing a prolonged dry spell. Mr. Shivakumar added, “May all those dependent on the Cauvery river, including the people of Mysuru, Mandya, Bengaluru, Tamil Nadu and Puducherry, live in peace and happiness.”\nPublished - August 01, 2026 09:10 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/rains-revive-in-cauvery-basin-easing-karnataka-tamil-nadu-waterconflict/article71295142.ece",
+     "pubDate": 807291619.0
     },
     {
-     "id": "80c0c519-efc7-403b-ac4f-37235178d0c6",
+     "id": "a5ff4f2b-bece-4ae0-a9ad-d89a46f21a7c",
      "category": "CITY",
-     "headline": "Karnataka Dy CM directs purchase of land for A, B category temples",
-     "deck": "Karnataka Dy CM directs purchase of land for A, B category temples",
-     "byline": "News 18",
+     "headline": "Hotels in Bengaluru welcome ₹200 LPG price cut, but say losses remain",
+     "deck": "",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b-3x2.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/rmibqv/article71294812.ece/alternates/LANDSCAPE_1200/AFP_B8DB9KU.jpg"
      },
      "blockType": "standard",
-     "bodyText": "Karnataka Dy CM directs purchase of land for A, B category temples",
-     "articleURL": "https://www.news18.com/agency-feeds/karnataka-dy-cm-directs-purchase-of-land-for-a-b-category-temples-10247185.html",
-     "pubDate": 807295505.0
+     "bodyText": "Commercial LPG cylinder prices, which had climbed steadily since March and touched ₹3,021 in July, saw a ₹200 reduction on Saturday.\nHoteliers, while welcoming the reduction, said it offers little relief to them as it recovers only a small part – about 14% – of the ₹1,356 increase they have absorbed since March.\nThe steep rise by the Union government in prices was largely attributed to supply disruptions triggered by tensions in West Asia. In May alone, commercial LPG prices jumped by a record ₹993, followed by successive monthly increases till July since March.\n“Monthly fluctuations of around ₹100 are considered routine in the industry. Even this month’s ₹200 reduction is welcome, but it accounts for only about 14% of the additional cost that hotels have absorbed over the past five months,” said P.C. Rao of the Bruhat Bangalore Hotel Association.\nHoteliers said the reduction would neither significantly benefit them nor offset the financial burden they had already borne.\nVenkatesh Murthy, who runs an eatery in Malleswaram, said many establishments not only paid the higher prices but, during the peak shortage, ended up paying nearly double to triple the official rate to procure cylinders. To cope with rising costs, many eateries trimmed their menus for nearly two months, limiting businesses to basic items while absorbing losses.\n“Menu prices had to be increased by at least ₹7 to ₹10, and customers constantly complained. At the same time, there was such an acute shortage that even after paying almost three times the price, cylinders were not readily available. A ₹200 reduction now cannot compensate for the losses we suffered then. Similar reductions over the next few months may help ease the burden,” he said.\nAnother hotelier, Krishna G., noted that commercial LPG was only one of several input costs that had risen. “Palm oil prices and packaging material costs had also increased by nearly 40% during the same period. While the LPG price cut is a relief, the overall cost of running a hotel remains high, especially for small eateries,” he said.\nHoteliers also pointed to the withdrawal of government discounts on bulk commercial LPG purchases. They said the Union government had suspended discounts of up to ₹150 per cylinder in March, citing the West Asia crisis, with an assurance that they would be restored after two months. Over four months later, the discounts are yet to be reinstated.\nPublished - August 02, 2026 06:01 am IST",
+     "articleURL": "https://www.thehindu.com/news/cities/bangalore/hotels-in-bengaluru-welcome-200-lpg-price-cut-but-say-losses-remain/article71294227.ece",
+     "pubDate": 807283866.0
     }
    ],
    "briefs": [
     {
-     "id": "c307b7f0-2460-489b-ae80-32f988fc5c78",
+     "id": "b19ff41c-be30-4ed6-9cfe-e53655dcab7c",
      "category": "CITY",
-     "headline": "Women take charge in historic all-female sitting at Dharwad HC Bench",
-     "deck": "Women take charge in historic all-female sitting at Dharwad HC Bench",
-     "byline": "The Times Of India",
+     "headline": "Moral policing turns violent, four held for storming factory, attacking entrepreneur, woman in Doddaballapura",
+     "deck": "Police said around 30 persons allegedly barged into the manufacturing unit after breaking open the gate, pelted the car with cement blocks, damaged CCTV cameras, and assaulted the complainant and others with machetes, clubs and knives",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132793368/132793368.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/v1rg7p/article71281231.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_UOJAO0REF_R1436878538_0_299.jpg"
      },
      "blockType": "brief",
-     "bodyText": "Women take charge in historic all-female sitting at Dharwad HC Bench",
-     "articleURL": "https://timesofindia.indiatimes.com/city/hubballi/women-take-charge-in-historic-all-female-sitting-at-dharwad-hc-bench/articleshow/132793369.cms",
-     "pubDate": 807295505.0
+     "bodyText": "Police said around 30 persons allegedly barged into the manufacturing unit after breaking open the gate, pelted the car with cement blocks, damaged CCTV cameras, and assaulted the complainant and others with machetes, clubs and knives",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/moral-policing-turns-violent-four-held-for-storming-factory-attacking-entrepreneur-woman-in-doddaballapura/article71281079.ece",
+     "pubDate": 807274584.0
     },
     {
-     "id": "0fbd335e-c559-4410-b1a4-ffd6f574c5a5",
+     "id": "6a709dc9-251f-4ebd-abbe-8c578af386fd",
      "category": "CITY",
-     "headline": "No Society Prospers on Govt Jobs Alone: CM",
-     "deck": "Kashmir, Observer, Jammu, Srinagar, Latest Kashmir News, Kashmir News, Kashmir Latest News Jammu and Kashmir Chief Minister Omar Abdullah on Saturday said no society had ever become prosperous solely through government employment or public expenditure, asserting that enterprise was the key to converting opportunity into lasting prosperity. The post No Society Prospers on Govt Jobs Alone: CM…",
-     "byline": "Kashmir Observer",
+     "headline": "Karnataka exports first air shipment of Totapuri and Neelam mangoes from Kolar to Maldives",
+     "deck": "The shipment was flagged off by the Agricultural and Processed Food Products Export Development Authority (APEDA), under the Union Ministry of Commerce and Industry",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://kashmirobserver.net/wp-content/uploads/2025/03/CM-Omar-Abdullah-1.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/yme33k/article71294194.ece/alternates/LANDSCAPE_1200/Mango_03.jpg"
      },
      "blockType": "brief",
-     "bodyText": "Kashmir, Observer, Jammu, Srinagar, Latest Kashmir News, Kashmir News, Kashmir Latest News Jammu and Kashmir Chief Minister Omar Abdullah on Saturday said no society had ever become prosperous solely through government employment or public expenditure, asserting that enterprise was the key to converting opportunity into lasting prosperity. The post No Society Prospers on Govt Jobs Alone: CM…",
-     "articleURL": "https://kashmirobserver.net/2026/08/01/no-society-prospers-on-govt-jobs-alone-cm/",
-     "pubDate": 807295500.0
+     "bodyText": "The shipment was flagged off by the Agricultural and Processed Food Products Export Development Authority (APEDA), under the Union Ministry of Commerce and Industry",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/karnataka-exports-first-air-shipment-of-totapuri-and-neelam-mangoes-from-kolar-to-maldives/article71294103.ece",
+     "pubDate": 807273532.0
     },
     {
-     "id": "d2588190-85a0-414c-a485-f57dc2c63737",
+     "id": "03ac96b8-164e-407f-858c-b008a1fec671",
      "category": "CITY",
-     "headline": "BJP leader Nainar blames Congress for Tamil Nadu losing its rights over Cauvery water",
-     "deck": "He also criticised Karnataka Chief Minister DK Shivakumar over the reported change in stance on Chief Minister C Joseph Vijay's proposed visit to Karnataka.",
-     "byline": "Dt Next",
+     "headline": "BDA or corporation sites vacant for over five years? Pay double the property tax, says Karnataka CM",
+     "deck": "Bengaluru begins massive debris clearance drive",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://media.assettype.com/dt-next/2026-08-01/wgtpz1bt/Untitled-design-13.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/bs15ll/article71294133.ece/alternates/LANDSCAPE_1200/IMG_06dcadyr_Krishna_Nag_2_1_D7DDUUHB.jpg"
      },
      "blockType": "brief",
-     "bodyText": "He also criticised Karnataka Chief Minister DK Shivakumar over the reported change in stance on Chief Minister C Joseph Vijay's proposed visit to Karnataka.",
-     "articleURL": "https://www.dtnext.in/news/tamilnadu/bjp-leader-nainar-blames-congress-for-tamil-nadu-losing-its-rights-over-cauvery-water",
-     "pubDate": 807295463.0
+     "bodyText": "Bengaluru begins massive debris clearance drive",
+     "articleURL": "https://www.thehindu.com/news/cities/bangalore/bda-or-corporation-sites-vacant-for-over-five-years-pay-double-the-property-tax-says-karnataka-cm/article71293938.ece",
+     "pubDate": 807271748.0
     },
     {
-     "id": "78eb3a45-5f89-4f1b-9f0d-e7e5639aa41a",
+     "id": "83f6ebfa-8913-4316-998e-7a4f7f733e25",
      "category": "CITY",
-     "headline": "Assam gets Rs 379 cr, Maharashtra gets Rs 500 cr as Centre releases Rs 2,118 cr aid for flood-hit states",
-     "deck": "Himachal Pradesh, Odisha and Nagaland had already drawn their first instalments for the financial year 2026-27. Two of them have now been cleared for a second.",
-     "byline": "Financial Express , Read To Lead",
+     "headline": "Lokayukta reviews garbage black spot clean-up in Bengaluru; civic bodies given August 15 deadline",
+     "deck": "Reviewing work progress on July 29, the Lokayukta expressed dissatisfaction over the continued existence of garbage black spots despite repeated directions and several review meetings",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.financialexpressdigital.com/2026/08/AssamfloodsANI.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/bdds3u/article71294079.ece/alternates/LANDSCAPE_1200/_DSC1006.JPG"
      },
      "blockType": "brief",
-     "bodyText": "Himachal Pradesh, Odisha and Nagaland had already drawn their first instalments for the financial year 2026-27. Two of them have now been cleared for a second.",
-     "articleURL": "https://www.financialexpress.com/policy/economy/assam-gets-rs-379-cr-maharashtra-gets-rs-500-cr-as-centre-releases-rs-2118-cr-aid-for-flood-hit-states/4308420/",
-     "pubDate": 807295460.0
+     "bodyText": "Reviewing work progress on July 29, the Lokayukta expressed dissatisfaction over the continued existence of garbage black spots despite repeated directions and several review meetings",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/lokayukta-reviews-garbage-black-spot-clean-up-in-bengaluru-civic-bodies-given-august-15-deadline/article71293680.ece",
+     "pubDate": 807270388.0
     },
     {
-     "id": "ef599c4f-a16a-46c6-bed5-1ff515a381fc",
+     "id": "fff5b28c-670a-4146-9cf7-25fbcf621939",
      "category": "CITY",
-     "headline": "Balrampur Chini Mills: Why investors should accumulate this stock",
-     "deck": "As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant",
-     "byline": "The Hindu - Business Line",
+     "headline": "Techie in coma after hit-and-run accident during bike taxi ride at Whitefield in Bengaluru",
+     "deck": "Amarthya Kumar was injured after the bike taxi he was travelling on was allegedly hit by a car at around 11.45 p.m. near Formula One Junction",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://bl-i.thgim.com/public/incoming/i3gavn/article71293956.ece/alternates/LANDSCAPE_1200/PO02_Sugar_industry.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/ty1tra/article71294047.ece/alternates/LANDSCAPE_1200/ITP_Bangalore__22_.JPG"
      },
      "blockType": "brief",
-     "bodyText": "As Balrampur Chini Mills is poised to morph into an integrated bio-plastics player now, the pay-offs can be significant",
-     "articleURL": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/balrampur-chini-mills-why-investors-should-accumulate-this-stock/article71291849.ece",
-     "pubDate": 807295347.0
-    },
-    {
-     "id": "4ee5c98d-0da7-4328-8697-ae30b71e32cc",
-     "category": "CITY",
-     "headline": "Karnataka High Court orders further probe by CID in 2022 sexual assault case",
-     "deck": "Karnataka HC Sexual Assault Probe: Karnataka HC orders CID to conduct a further investigation into a 2022 sexual assault case over police lapses.",
-     "byline": "Deccan Herald",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://media.assettype.com/deccanherald/2026-07-30/mov9to82/file7k4qvqbd6ojd0wm3fi4.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
-     },
-     "blockType": "brief",
-     "bodyText": "Karnataka HC Sexual Assault Probe: Karnataka HC orders CID to conduct a further investigation into a 2022 sexual assault case over police lapses.",
-     "articleURL": "https://www.deccanherald.com/india/karnataka/karnataka-high-court-orders-further-probe-by-cid-in-2022-sexual-assault-case-4096043",
-     "pubDate": 807295147.0
-    },
-    {
-     "id": "a6783ade-e1ce-4b3f-a522-d0cb2475d10e",
-     "category": "CITY",
-     "headline": "PM Modi Inaugurates Bhogapuram Airport and Viveka Smaraka Youth Centre",
-     "deck": "PM Modi inaugurates Bhogapuram International Airport in Andhra Pradesh and Viveka Smaraka Youth Centre in Mysuru, highlighting youth power and cultural heritage.",
-     "byline": "Newkerala.com",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://one.newkerala.com/images/r/newkerala-com-news250.webp"
-     },
-     "blockType": "brief",
-     "bodyText": "PM Modi inaugurates Bhogapuram International Airport in Andhra Pradesh and Viveka Smaraka Youth Centre in Mysuru, highlighting youth power and cultural heritage.",
-     "articleURL": "https://www.newkerala.com/news/a/india-rapidly-moving-forward-pm-modi-inaugurates-bhogapuram-510.htm",
-     "pubDate": 807294912.0
-    },
-    {
-     "id": "9c6c63a5-84da-44c9-9cbd-f72323957c17",
-     "category": "CITY",
-     "headline": "Navi Mumbai Cyber Fraud: 90-Year-Old Nerul Retired Pensioner, Wife Lose ₹1.57 Crore In Fake Digital Arrest Scam; Case Registered",
-     "deck": "",
-     "byline": "Free Press Journal",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://media.assettype.com/freepressjournal/2026-08-01/fo5juqkl/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-01T202912.669.jpg?w=280"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.freepressjournal.in/mumbai/navi-mumbai-cyber-fraud-90-year-old-nerul-retired-pensioner-wife-lose-157-crore-in-fake-digital-arrest-scam-case-registered",
-     "pubDate": 807289200.0
+     "bodyText": "Amarthya Kumar was injured after the bike taxi he was travelling on was allegedly hit by a car at around 11.45 p.m. near Formula One Junction",
+     "articleURL": "https://www.thehindu.com/news/cities/bangalore/techie-in-coma-after-hit-and-run-accident-during-bike-taxi-ride-at-whitefield-in-bengaluru/article71293921.ece",
+     "pubDate": 807269627.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "7531760c-42b4-4a9f-a6bb-d5c963312b70",
+   "id": "564c4296-5c6c-4b1d-8a41-efff4b3ee334",
    "title": "Business",
    "stories": [
     {
-     "id": "578bc90d-6946-40d5-ae04-f34c730ae725",
-     "category": "BUSINESS",
-     "headline": "Coal India records highest-ever July dispatches as weak monsoon boosts thermal power demand",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/coal.jpg"
-     },
-     "blockType": "hero",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/business/companies/coal-india-highest-july-dispatches-weak-monsoon-thermal-power-demand-10814223/",
-     "pubDate": 807314891.0
-    },
-    {
-     "id": "e97b32e4-93e5-4942-aa56-6f01606feb6a",
-     "category": "BUSINESS",
-     "headline": "RBI’s swap window attracts over $40.8 billion in forex inflows",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/rbi.jpg"
-     },
-     "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/business/rbi-swap-window-attracts-forex-inflows-10814212/",
-     "pubDate": 807314497.0
-    },
-    {
-     "id": "31826784-fc9c-48ef-9d88-c225ae0e0677",
-     "category": "BUSINESS",
-     "headline": "Small firms flag price hike in projects using PVC pipes as Centre curbs input imports",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/Top-10-export-countries-in-the-world_20260617202355_20260801234509.jpg"
-     },
-     "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/business/small-firms-flag-price-hike-in-projects-using-pvc-pipes-as-government-curbs-input-imports-10814034/",
-     "pubDate": 807300925.0
-    },
-    {
-     "id": "3e4a821e-7c8d-4020-a396-02d251f3b494",
-     "category": "BUSINESS",
-     "headline": "ICICI Prudential Flexicap: Conviction behind the flexibility",
-     "deck": "The ₹22,500-crore fund blends conviction, flexibility and disciplined portfolio construction effectively",
-     "byline": "The Hindu - Business Line",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://bl-i.thgim.com/public/incoming/nmo4tg/article71289963.ece/alternates/LANDSCAPE_1200/PO02_Tree_bent.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "The ₹22,500-crore fund blends conviction, flexibility and disciplined portfolio construction effectively",
-     "articleURL": "https://www.thehindubusinessline.com/portfolio/mutual-funds/icici-prudential-flexicap-fund-review/article71289601.ece",
-     "pubDate": 807295570.0
-    },
-    {
-     "id": "6b3b7afe-181b-452b-94c9-bf741e12166f",
-     "category": "BUSINESS",
-     "headline": "Mastering Derivatives: Revising a short call position",
-     "deck": "The true cost of this spread is the net debit and the loss from closing the short call",
-     "byline": "The Hindu - Business Line",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://bl-i.thgim.com/public/incoming/x37rlz/article71290701.ece/alternates/LANDSCAPE_1200/PO02_Transformation.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "The true cost of this spread is the net debit and the loss from closing the short call",
-     "articleURL": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/mastering-derivatives-revising-a-short-call-position/article71285402.ece",
-     "pubDate": 807295549.0
-    }
-   ],
-   "briefs": [
-    {
-     "id": "aa0b098b-674e-4678-b053-07e23ff1c9a5",
-     "category": "BUSINESS",
-     "headline": "IIRM Holdings raises ₹150 crore to fund expansion and strategic acquisitions",
-     "deck": "Ramakrishna V serves as Chairman of IIRM Holdings India Ltd. IIRM Holdings India Ltd secured...",
-     "byline": "Newsbizkoot.com",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://i0.wp.com/www.thehindubusinessline.com/theme/images/th-online/1x1_spacer.png?ssl=1"
-     },
-     "blockType": "brief",
-     "bodyText": "Ramakrishna V serves as Chairman of IIRM Holdings India Ltd. IIRM Holdings India Ltd secured...",
-     "articleURL": "https://newsbizkoot.com/finance-monetary-rbi-finncial-markets-prices-policy/2026/iirm-holdings-raises-%E2%82%B9150-crore-to-fund-expansion-and-strategic-acquisitions/",
-     "pubDate": 807295483.0
-    },
-    {
-     "id": "3e3e0c39-b7cb-43c7-ac68-9e94a719bc8f",
-     "category": "BUSINESS",
-     "headline": "Odisha inks 13 MoUs for ₹913 crore women-led investment proposals",
-     "deck": "By Nageshwar Patnaik in Bhubaneswar, August 1, 2026: The Mohan Majhi government in Odisha is leaving no stone unturned in wooing investment from across the sectors and genders. The latest move is to draw women into the industrial eco-system. The state government on Friday secured fresh investment commitments worth ₹913.13 crore with the signing of 13 MoUs with women entrepreneurs across diverse…",
-     "byline": "Bizodisha",
-     "visual": {
-      "type": "none"
-     },
-     "blockType": "brief",
-     "bodyText": "By Nageshwar Patnaik in Bhubaneswar, August 1, 2026: The Mohan Majhi government in Odisha is leaving no stone unturned in wooing investment from across the sectors and genders. The latest move is to draw women into the industrial eco-system. The state government on Friday secured fresh investment commitments worth ₹913.13 crore with the signing of 13 MoUs with women entrepreneurs across diverse…",
-     "articleURL": "https://bizodisha.com/2026/08/odisha-inks-13-mous-for-%E2%82%B9913-crore-women-led-investment-proposals/",
-     "pubDate": 807295371.0
-    },
-    {
-     "id": "f4c32469-15d1-44dd-97f8-5620776df4ce",
-     "category": "BUSINESS",
-     "headline": "MeeSeva clocks highest-ever single-day transactions at 2.2 lakh",
-     "deck": "Hyderabad: MeeSeva recorded 2,20,172 daily transactions on July 31, the highest-ever registration since its inception, IT Minister D Sridhar Babu said on Saturday, August 1. The Telangana Family Register Certificate received the highest number of requests, followed by transport and IT (income tax) applications. “Usually, the digital citizen service platform clocks between 70,000 and 80,000 ...…",
-     "byline": "Siasat.com",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://cdn.siasat.com/wp-content/uploads/2026/08/Untitled-design-2026-08-01T222454.471.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "Hyderabad: MeeSeva recorded 2,20,172 daily transactions on July 31, the highest-ever registration since its inception, IT Minister D Sridhar Babu said on Saturday, August 1. The Telangana Family Register Certificate received the highest number of requests, followed by transport and IT (income tax) applications. “Usually, the digital citizen service platform clocks between 70,000 and 80,000 ...…",
-     "articleURL": "https://www.siasat.com/meeseva-clocks-highest-ever-single-day-transactions-at-2-2-lakh-3517286/",
-     "pubDate": 807295332.0
-    },
-    {
-     "id": "395fa090-a9c9-4cf8-a3f8-3ea85393c1cd",
-     "category": "BUSINESS",
-     "headline": "Railways recommends premature retirement of 5 Group A officers over corruption, non-performance",
-     "deck": "",
-     "byline": "Ptinews",
-     "visual": {
-      "type": "none"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.ptinews.com/story/national/railways-recommends-premature-retirement-of-5-group-a-officers-over-corruption-non-performance/3924239",
-     "pubDate": 807295322.0
-    },
-    {
-     "id": "5cb0031d-98b9-4254-9965-c04832c73a77",
+     "id": "b995926e-2b1f-4e02-a691-2d9161225494",
      "category": "BUSINESS",
      "headline": "Vodafone Idea gets ₹26.8 crore DoT notice for alleged default in spectrum-related rollout obligations",
      "deck": "The company said it is reviewing the notice received on Friday (July 31, 2026) and evaluating next steps",
@@ -560,13 +380,13 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/a6y9hx/article71295749.ece/alternates/LANDSCAPE_1200/2026-01-27T153807Z_16693012_RC2MTW9LXQV3_RTRMADP_3_VODAFONE-IDEA-RESULTS.JPG"
      },
-     "blockType": "brief",
-     "bodyText": "The company said it is reviewing the notice received on Friday (July 31, 2026) and evaluating next steps",
+     "blockType": "hero",
+     "bodyText": "The Telecom Department has issued a notice to Vodafone Idea for payment of Rs 26.83 crore in liquidated damages, citing alleged default in minimum rollout obligations in respect of spectrum allocated under auctions of 2022, the telco said on Saturday.\nThe company said it is reviewing the notice received on Friday (July 31, 2026) and evaluating next steps.\nOn the details of the notice, issued by the Department of Telecom, Vodafone Idea (VIL) in a BSE filing said that this is for payment of \"liquidated damages amounting to ₹26.83 crore for alleged default in compliance of minimum rollout obligations in respect of spectrum allocated under Spectrum Auction conducted in 2022\".\nThe violation pertains to network rollout obligations as specified under the Notice Inviting Applications 2022 (the bid document), which needs to be complied with once the spectrum is assigned.\nVodafone Idea, however, said there is no financial or other impact on operations.\n\"The company is reviewing the notice and evaluating the next steps in this matter,\" the filing added.\nPublished - August 01, 2026 10:16 pm IST",
      "articleURL": "https://www.thehindu.com/business/Industry/vodafone-idea-gets-268-crore-dot-notice-for-alleged-default-in-spectrum-related-rollout-obligations/article71295729.ece",
-     "pubDate": 807275818.0
+     "pubDate": 807295618.0
     },
     {
-     "id": "2956c0df-3e95-4c38-a86d-76003ae00ec4",
+     "id": "a8346235-8b87-47d7-8198-fbc804ff688f",
      "category": "BUSINESS",
      "headline": "India will be the biggest destination for Japanese capital in a decade: AMFI chairman Sundeep Sikka",
      "deck": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
@@ -575,13 +395,13 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/wxda1k/article71294953.ece/alternates/LANDSCAPE_1200/SANDEEP_SIKKA.jpg"
      },
-     "blockType": "brief",
-     "bodyText": "`The country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows’",
+     "blockType": "feature",
+     "bodyText": "India will emerge as the biggest destination for Japanese capital in the next 10 years, with financial services, technology, startups and social ventures in the country likely to see an increasing flow of funds, forecasts Sundeep Sikka, chairman of the Association of Mutual Funds in India (AMFI) and MD & CEO of Nippon Life India Asset Management, an arm of a Japanese insurer.\nHe said that Japan’s huge savings pool and India’s consistent, sustained growth made the two nations ideal partners for long-term investments.\n“Japan has huge capital; however, it doesn’t have growth opportunities within the country. India has both growth and great focus on entrepreneurship. Unless we do something really wrong, India will become the biggest destination of capital flow from Japan,” he said. He was in Bengaluru to participate in IIMBues Leadership Conclave 2026 organised by the alumni association of Indian Institute of Management Bangalore here on Saturday (August 1, 2026).\nThe Indo-Japanese investment relationship was currently entering a new phase, moving beyond its traditional focus on manufacturing and infrastructure into financial services and the broader services sector, Mr. Sikka noted. The Indo-Japanese bilateral trade currently stood at $40 billion.\n“Traditionally, most Japanese investments came into manufacturing and construction. Now the financial sector and services sector have started opening up. I often receive requests from Japanese firms exploring connections with Indian SMEs in the areas of chemicals, healthcare, technology, etc.,” he elaborated.\nJapan invested about $8 billion in India last year, and this trend would continue as Japanese investors were exploring long-term growth opportunities outside their ageing economy, he observed , highlighting that Japanese businesses planned for generations instead of focusing on quarterly earnings and quick exits.\nSIP boom insulates Indian stock market from FII capital flight\nThe country’s booming systematic investment plan (SIP) culture has fundamentally reshaped the equity market by creating a strong domestic buffer against foreign capital outflows, said Mr. Sikka.\nHe further said that the rise of SIPs had created a structural transformation by reducing the market’s dependence on foreign institutional investors. The country’s increasing number of retail investors has strengthened its market resilience and made capital markets less vulnerable to sudden swings in overseas fund flows, he elaborated. “We are, today, at a very interesting time where our domestic savings are good enough to take care of the outflows of foreign capital and that is because sustained monthly SIP inflows have become a powerful anchor for Indian equities.’’\nLater, stressing the importance of disciplined investing. Mr. Sikka said the biggest wealth creators were often investors who remained patient through various market cycles instead of reacting to daily movements.\nWarning investors of obsession for quick returns, he said, “People who invest in mutual funds for the long term, with small amounts and without worrying about what happens every day, are the ones who create the maximum wealth. That’s a mindset issue; we have to change and think for the next 10 years. Japan’s culture of long-term household savings can be a model for us,’’ Mr. Sikka pointed out.\nPublished - August 01, 2026 09:42 pm IST",
      "articleURL": "https://www.thehindu.com/business/markets/india-will-be-the-biggest-destination-for-japanese-capital-in-a-decade-amfi-chairman-sandeep-sikka/article71294766.ece",
-     "pubDate": 807275337.0
+     "pubDate": 807295137.0
     },
     {
-     "id": "2141d3ce-5354-4388-b0a5-4f746e3aa533",
+     "id": "5b2f3763-4138-43c4-819c-b2891fcf3dc2",
      "category": "BUSINESS",
      "headline": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to States",
      "deck": "Currently, 41% of taxes collected by the Centre is devolved in 14 instalments among States during a fiscal year.",
@@ -590,13 +410,13 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/8rd6m/article71295720.ece/alternates/LANDSCAPE_1200/iStock-1408856829.jpg"
      },
-     "blockType": "brief",
-     "bodyText": "Currently, 41% of taxes collected by the Centre is devolved in 14 instalments among States during a fiscal year.",
+     "blockType": "feature",
+     "bodyText": "The Finance Ministry on Saturday (August 1, 2026) said the Centre has released an additional instalment of tax devolution to state governments amounting to ₹1.09 lakh crore, which is in addition to the normal monthly amount.\nCurrently, 41% of taxes collected by the Centre is devolved in 14 instalments among States during a fiscal year.\n\"The Union government has released additional instalment of tax devolution to state governments amounting to Rs 1,09,019 crore on 1st August 2026, which is in addition to the normal monthly devolution to be released on 10th August 2026,\" the Ministry said in a statement.\nPublished - August 01, 2026 10:07 pm IST",
      "articleURL": "https://www.thehindu.com/business/Economy/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71295691.ece",
-     "pubDate": 807275221.0
+     "pubDate": 807295021.0
     },
     {
-     "id": "77bb117b-5cc0-4a58-a5b5-8a9a8116b11c",
+     "id": "bc47c825-bf01-4d1c-bac6-182f1cb6749a",
      "category": "BUSINESS",
      "headline": "India's record renewable generation in July cuts coal's share in power mix to 1-year low",
      "deck": "The rise in India’s clean-energy ⁠generation comes as solar and wind output exceeded 100 gigawatts for the first time and accounted for a record 42.8% of ​India’s electricity supply ‌on July 13, government data showed.",
@@ -605,80 +425,141 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/aewkbm/article71295674.ece/alternates/LANDSCAPE_1200/2026-07-08T125700Z_1107395632_RC2157A7G02X_RTRMADP_3_INDIA-RENEWABLES-BATTERY-STORAGE.JPG"
      },
-     "blockType": "brief",
-     "bodyText": "The rise in India’s clean-energy ⁠generation comes as solar and wind output exceeded 100 gigawatts for the first time and accounted for a record 42.8% of ​India’s electricity supply ‌on July 13, government data showed.",
+     "blockType": "standard",
+     "bodyText": "The share of coal in India’s power-generation mix dropped to its lowest in a year in July as renewable-power generation surged to a record high, government data showed.\nRenewable power jumped to 20% of India’s mix, the data showed. It was 36.25 billion kilowatt-hours (kWh) in July, up 30% from the same month last year.\nCoal-power generation fell to 65.7% in July from 69% in June, according to Reuters calculations of daily data from the regulator, Grid-India.\nThe rise in India’s clean-energy generation comes as solar and wind output exceeded 100 gigawatts for the first time and accounted for a record 42.8% of India’s electricity supply on July 13, government data showed.\nMost of the peak power demand is happening during daytime where there is increased contribution from solar, said Manoj Kumar, an analyst with Centre for Research on Energy and Clean Air, pointing to a rise in renewable share in the country’s power generation. Coal-fired power generation rose about 12.8% year-on-year to 119.40 billion kWh in July, the data showed.\nAnalysts attributed the rise in coal-power generation to a fall in hydropower generation and due to a strong El Nino pattern, where searing heat is driving demand for cooling during the nighttime.\nHydropower generation fell for a second straight month to 22.1% on lower rainfall due to El Nino, which significantly shifts rainfall patterns and lifts above-normal temperatures.\nLower hydro generation due to El Nino and increased demand for power could lead to a power-generation gap of nearly 18 billion kWh and will drive a surge in coal-fired power in India, CREA said.\nIndia’s electricity generation in July rose 10.4% from a year earlier to 181.79 billion kWh, data showed.\nPublished - August 01, 2026 09:53 pm IST",
      "articleURL": "https://www.thehindu.com/business/Industry/indias-record-renewable-generation-in-july-cuts-coals-share-in-power-mix-to-1-year-low/article71295669.ece",
-     "pubDate": 807274429.0
+     "pubDate": 807294229.0
+    },
+    {
+     "id": "e0457b0e-3c2b-40fd-ac40-69e5e5dc7283",
+     "category": "BUSINESS",
+     "headline": "CBI registers alleged ₹1,816.22-crore EPFO investment fraud case against Reliance Capital",
+     "deck": "The FIR is based on a complaint received by the CBI against the company, its former chairman, Anil D. Ambani, unknown public servants and others",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/t7csm2/article71294170.ece/alternates/LANDSCAPE_1200/IMG_IMG_reliance-capital_2_1_DKA6HN1K.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "The Central Bureau of Investigation (CBI) has registered a case against Reliance Capital Limited (RCL) for alleged EPFO investment fraud involving ₹1,816.22 crore, said the agency on Saturday (August 1, 2026).\nThe First Information Report (FIR) is based on a complaint received by the CBI from the Employees’ Provident Fund Organisation (EPFO), Ministry of Labour & Employment, against the company, its former chairman Anil D. Ambani, unknown public servants and others, it said.\nThe funds involve ₹1,007.55 crore, along with an interest liability of ₹808.67 crore. The agency has invoked provisions alleging criminal conspiracy, cheating, criminal breach of trust and criminal misconduct.\n“It is alleged in the complaint that, during 2013 and 2014, Reliance Capital Limited (RCL) issued secured Non-Convertible Debentures (NCDs), in which the EPFO invested ₹2,500 crore through four portfolio managers including Reliance Capital Asset Management Limited,” said the CBI.\nThe NCDs were due to mature during 2023 and 2024. The accused persons indulged in fraudulent transactions and diversion of funds, resulting in the default in redemption of the NCDs by RCL.\n“Investigation has been taken up to identify the role of all persons involved, including public servants and private individuals, examine the alleged criminal conspiracy, and trace the end use of the invested funds,” it added.\n“Mr. Ambani served as a Non-Executive Director/Chairman of the Board of Reliance Capital Limited from 2005 until November 2021, when the Reserve Bank of India superseded the Board of Directors of the company and appointed an Administrator,” said a spokesperson for Anil Ambani.\n“Mr. Ambani has denied any wrongdoing whatsoever and reserves all rights available to him in law,” a spokesperson added.\nThe CBI has earlier registered seven FIRs against Reliance Communications Limited, Reliance Home Finance Limited, Reliance Commercial Finance Limited, and Reliance Telecom Limited, following complaints lodged by various public sector banks and LIC.\nThe agency has so far filed four chargesheets and arrested seven accused persons in the Reliance ADA Group cases. These cases are under investigation, which is monitored by the Supreme Court.\nPublished - August 01, 2026 03:50 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/cbi-registers-alleged-181622-crore-epfo-investment-fraud-case-against-reliance-capital/article71293972.ece",
+     "pubDate": 807293462.0
+    }
+   ],
+   "briefs": [
+    {
+     "id": "3ef6b75c-1886-4558-a864-e5e3d043489b",
+     "category": "BUSINESS",
+     "headline": "What is the Samudra Manthan scheme all about? | Explained",
+     "deck": "The Samudra Manthan scheme aims at boosting India’s deepwater hydrocarbon exploration and energy security with an ₹84,084 crore investment",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/cjq93f/article71295626.ece/alternates/LANDSCAPE_1200/iStock-481312160.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "The Samudra Manthan scheme aims at boosting India’s deepwater hydrocarbon exploration and energy security with an ₹84,084 crore investment",
+     "articleURL": "https://www.thehindu.com/news/national/what-is-the-samudra-manthan-scheme-all-about-explained/article71295556.ece",
+     "pubDate": 807292993.0
+    },
+    {
+     "id": "13b430ed-886d-493d-b727-db33c647d3f6",
+     "category": "BUSINESS",
+     "headline": "Cotton production to drop in the 2025-2026 season",
+     "deck": "",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "none"
+     },
+     "blockType": "brief",
+     "bodyText": "",
+     "articleURL": "https://www.thehindu.com/business/cotton-production-to-drop-in-the-2025-2026-season/article71281899.ece",
+     "pubDate": 807291557.0
+    },
+    {
+     "id": "5a62882b-b610-44a4-908d-96f409426860",
+     "category": "BUSINESS",
+     "headline": "Commercial LPG price cut by about ₹200; ATF price hiked by ₹5",
+     "deck": "Price of 5-kg free trade LPG cylinders comes down by ₹46",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/mq2mar/article71293418.ece/alternates/LANDSCAPE_1200/20260701358L.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "Price of 5-kg free trade LPG cylinders comes down by ₹46",
+     "articleURL": "https://www.thehindu.com/business/commercial-lpg-prices-cut-by-209-per-cylinder/article71293413.ece",
+     "pubDate": 807290606.0
+    },
+    {
+     "id": "c7a0a314-0493-45c4-a095-1373f1216b4d",
+     "category": "BUSINESS",
+     "headline": "India-China trade through Shipli La resumes after six years",
+     "deck": "Revenue and Horticulture Minister Jagat Singh Negi on August 1 flagged off 16 traders after presenting traditional Khataks (ceremonial scarves) along with their horses towards Shipki village in Tibet",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/gb8u7n/article71295155.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-22%20164347.png"
+     },
+     "blockType": "brief",
+     "bodyText": "Revenue and Horticulture Minister Jagat Singh Negi on August 1 flagged off 16 traders after presenting traditional Khataks (ceremonial scarves) along with their horses towards Shipki village in Tibet",
+     "articleURL": "https://www.thehindu.com/business/india-china-trade-through-shipli-la-resumes-after-six-years/article71295086.ece",
+     "pubDate": 807287539.0
+    },
+    {
+     "id": "7d79a5fd-8951-4cbd-9543-4bbaac5a7f36",
+     "category": "BUSINESS",
+     "headline": "India’s balancing act to attract more investment from China, U.S. and boost trade",
+     "deck": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/t0uwd5/article71294830.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+     "articleURL": "https://www.thehindu.com/business/Economy/indias-balancing-act-to-attract-more-investment-from-china-us-and-boost-trade/article71289259.ece",
+     "pubDate": 807284295.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "1563a10e-fcdb-4912-88e3-ae555d08e055",
+   "id": "3877c965-060e-4cad-bd20-3788b8d03faa",
    "title": "Sport",
    "stories": [
     {
-     "id": "71a02b92-dee0-4f8d-94a7-2f8bff173749",
+     "id": "a4a57a40-2475-4f76-a625-4872a0e28320",
      "category": "SPORTS",
-     "headline": "‘I’ve admired him from afar’: Joe Root heaps praise on former CSK Head Coach",
-     "deck": "",
-     "byline": "Indian Express",
+     "headline": "Messi returns as Inter Miami draw 2-2 against Columbus Crew",
+     "deck": "The result ended Miami's six-match winning streak and kept them in second place in the Eastern Conference behind Nashville, who drew 2-2 at DC United",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2025/12/joe-root-ap.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/q5e4r3/article71297229.ece/alternates/LANDSCAPE_1200/2288659219.jpg"
      },
      "blockType": "hero",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/sports/cricket/ive-admired-him-from-afar-joe-root-heaps-praise-on-former-csk-head-coach-10814266/",
-     "pubDate": 807318094.0
+     "bodyText": "Lionel Messi returned to Major League Soccer action after World Cup duty on Saturday (August 1, 2026), coming on in the second half as his Inter Miami side drew 2-2 with Columbus Crew.\nTwo weeks after Argentina's loss to Spain in the World Cup final, Messi was back on the pitch, entering in the 53rd minute to the delight of fans at Miami's Nu Stadium.\nBut Messi could not mark his return with a goal, twice shooting wide.\nUruguayan Luis Suarez scored his seventh goal in his last four games to put Miami 1-0 up in the 16th minute.\nMiami's former Manchester United and Real Madrid midfielder Casemiro scored an own goal in the 34th minute, which drew Columbus level at 1-1.\nSuarez provided the assist for Noah Allen to head Miami into a 2-1 half-time lead\nBut midfielder Brais Mendez, making his Columbus debut after arriving from Real Sociedad in Spain, curled in a second equalizer from an 84th-minute free-kick.\nThe result ended Miami's six-match winning streak and kept them in second place in the Eastern Conference behind Nashville, who drew 2-2 at DC United.\nLos Angeles FC and Vancouver Whitecaps remain level at the top of the Western Conference after they drew 1-1 at Vancouver's BC Place.\nSon Heung-min extended his scoring streak since the MLS resumed after the World Cup to four goals in four matches as he put Los Angeles ahead in the 37th minute.\nBut Vancouver's German star Thomas Mueller converted a 76th-minute penalty.\nThe former Tottenham star Son, who had shouldered much of the blame for South Korea's failure to make it to the knockout rounds of the World Cup, also earned MVP honors in the MLS All-Star Game on Wednesday.\nPublished - August 02, 2026 11:20 am IST",
+     "articleURL": "https://www.thehindu.com/sport/football/messi-returns-as-inter-miami-draw-2-2-against-columbus-crew/article71297225.ece",
+     "pubDate": 807342605.0
     },
     {
-     "id": "5ee2e39d-d434-4454-9493-54714a76e703",
+     "id": "806f397e-02ec-4e6e-951e-0a378d77e009",
      "category": "SPORTS",
-     "headline": "IND vs SL: ‘Kuldeep Yadav has to be in the playing XI,’ says Deep Dasgupta",
-     "deck": "",
-     "byline": "Indian Express",
+     "headline": "Fleming a 'big reason' for Root's return as England captain",
+     "deck": "Root replaced Ben Stokes ‌after the all-rounder retired following the home series ​against New Zealand",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2025/11/Kuldeep-22.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/3e4h8i/article71297209.ece/alternates/LANDSCAPE_1200/AFP_C3K8363.jpg"
      },
      "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/sports/cricket/ind-vs-sl-kuldeep-yadav-has-to-be-in-the-playing-xi-says-deep-dasgupta-10814211/",
-     "pubDate": 807314472.0
+     "bodyText": "Joe Root said Stephen Fleming's appointment as England's test coach was a \"big reason\" he agreed to return as captain of the squad.\nRoot replaced Ben Stokes after the all-rounder retired following the home series against New Zealand. Fleming succeeds compatriot Brendon McCullum, whose four-year test tenure ended last month, though he remains England's white-ball coach.\n\"If I'm being brutally honest, it was a big reason why I wanted to do it,\" Root told the England and Wales Cricket Board.\n\"I'm very excited by the way he sees the game, where he sees us sit as a team, and the work that we have to do to get to where we want to get to. All of that got me very excited about taking this role on.\"\n\"He's obviously got a wealth of experience and done some amazing things within the game as a player and as a coach, and I'm very much looking forward to the next little while, and us trying to build something pretty special together.\"\nFormer New Zealand captain Fleming coached Chennai Super Kings for 17 years in the Indian Premier League before leaving last month. Root led England as their full-time test captain between 2017 and 2022 before he was replaced by Stokes. Stokes and McCullum championed a take-no-prisoners approach, which endeared them to the fans and Root hinted he and Fleming would like to retain that attacking mindset. \"The last four years have been the most fun I've had in professional cricket...,\" said the 35-year-old.\n\"Clearly, the last little while is probably what's fresh in everyone's mind, but you're looking at a four-year period where we did a lot of amazing things. \"I've taken a lot from that, and I feel it will be a big part of how I want to approach things moving forward as a leader of this team.\" England host Pakistan for a three-test series beginning in Leeds on August 19.\nPublished - August 02, 2026 10:51 am IST",
+     "articleURL": "https://www.thehindu.com/sport/cricket/fleming-a-big-reason-for-roots-return-as-england-captain/article71297200.ece",
+     "pubDate": 807340912.0
     },
     {
-     "id": "43fd7c33-085b-43fc-9db2-07a629a41d44",
-     "category": "SPORTS",
-     "headline": "Arundhati Choudhary: From the city with a tutor for everything except boxing",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/arundhati-chaudhary-ap-2.jpg"
-     },
-     "blockType": "feature",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/sports/arundhati-choudhary-cwg-boxing-gold-medal-commonwealth-games-kota-10813996/",
-     "pubDate": 807311731.0
-    },
-    {
-     "id": "581f2a45-f4a4-48e1-bbe9-52131f13b90c",
-     "category": "SPORTS",
-     "headline": "‘Tejaswin Shankar the complete picture of grit and resilience’",
-     "deck": "",
-     "byline": "Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/tejaswin-shankar-ap-2.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "",
-     "articleURL": "https://indianexpress.com/article/sports/tejaswin-shankar-cwg-decathlon-medal-grit-resilience-injury-10813928/",
-     "pubDate": 807310835.0
-    },
-    {
-     "id": "7357348f-389c-4688-801d-9db3c1c873f7",
+     "id": "620bc2d4-f77d-4191-9b08-7514e52be63b",
      "category": "SPORTS",
      "headline": "Why did FIFA scrap its World Cup stake sale? | Explained",
      "deck": "What was FIFA’s plan to sell stakes in the World Cup? What would FIFA’s member associations have gained? Who opposed the proposal and why? Has FIFA faced similar resistance before? How did Gianni Infantino respond to the pushback?",
@@ -687,132 +568,114 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/f8mweq/article71296069.ece/alternates/LANDSCAPE_1200/Canada_FIFA_Congress_Soccer__143.jpg"
      },
-     "blockType": "standard",
-     "bodyText": "What was FIFA’s plan to sell stakes in the World Cup? What would FIFA’s member associations have gained? Who opposed the proposal and why? Has FIFA faced similar resistance before? How did Gianni Infantino respond to the pushback?",
+     "blockType": "feature",
+     "bodyText": "The story so far: On July 31, the Fédération Internationale de Football Association (FIFA) abandoned its controversial plan to sell stakes in the World Cup to private investors. What began as FIFA president Gianni Infantino’s vision for a new commercial subsidiary, backed by venture capitalist Joshua Kushner, quickly unravelled amid fierce opposition from the Union of European Football Associations (UEFA), other confederations, and FIFA’s own senior staff.\nWhat did FIFA propose?\nShortly after the 2026 World Cup, Mr. Infantino unveiled plans to create a new subsidiary called FIFA Forward Enterprise (FFE). This entity was to consolidate all of FIFA’s revenue-generating operations — broadcasting, sponsorships, ticketing, licensing, and tournament operations — under one structure. FIFA stated that it would retain majority control of FFE and bring in outside investors to hold minority, non-controlling stakes. In that regard, venture capitalist Joshua Kushner, through his holding company Thrive Eternal, was reported to be the lead investor under consideration. Mr. Kushner is the brother of Jared Kushner, U.S. President Donald Trump’s son-in-law. Mr. Infantino shares a close relationship with Mr. Trump, as seen in his awarding of a FIFA peace prize to the President and allowing his intervention to overturn U.S. striker Folarin Balogun’s suspension during the World Cup.\nWhat did FIFA’s member associations stand to gain from this proposal?\nBy selling stakes now, FIFA, a non-profit organisation under Swiss law, would allow private investors to benefit from future growth that would otherwise accrue entirely to FIFA and football. FIFA had reportedly offered its 211 member associations an upfront $20 million payment upon approval, followed by three more payments of $20 million, $22 million, and $24 million between 2027 and 2038.\nIn an official press release, Mr. Infantino explained that his move would democratise football. He said, “We intend to invest heavily even in the smallest or most remote parts of the footballing world, places that are too often passed over. Every FIFA member association, whatever its size, resources, or geographic location, will have a voice and the opportunity to determine its own course. Football has become a truly global game and so the benefits must be felt globally.”\nFIFA gave its 211 member associations until September 19 to decide whether to support the plan, or risk losing the one-time payout offer.\nWhat was the immediate response?\nUEFA, the wealthy and powerful European football governing body, held an emergency meeting with its 55 member nations on July 30 and voted to boycott World Cups if FIFA moved forward with the plan. In a statement, UEFA said, “We unanimously and unequivocally reject FIFA’s proposal to transfer ownership interests in the World Cup and other FIFA competitions to private investors. The World Cup cannot be treated as an investment product. It is one of football’s greatest sporting legacies. It has been built over generations by players, national teams and supporters across every continent. No part of it should ever be surrendered to private investors. The World Cup is not for sale.”\nHas FIFA ever faced such opposition before?\nYes. In 2018, Mr. Infantino pursued a similar investment deal with Japan’s SoftBank to fund the Club World Cup, but that plan fell apart amid public criticism. In 2021, UEFA’s threat to boycott helped derail Mr. Infantino’s proposal to hold the World Cup every two years instead of every four.\nIs UEFA alone in opposing this?\nUEFA was the first to oppose FIFA’s plans. UEFA has had other run-ins with FIFA too: its president boycotted the World Cup final in protest against FIFA’s decision to overturn Mr. Balogun’s suspension after Mr. Trump’s intervention; and it also criticised other FIFA decisions such as hydration breaks.\nBut UEFA was not the only one to oppose this plan. CONCACAF (Confederation of North, Central America and Caribbean Association Football) and AFC (Asian Football Confederation) also raised concerns about the lack of transparency in the process, as did individual federations such as England’s FA (Football Association) and the global players’ union FIFPRO (Fédération Internationale des Associations de Footballeurs Professionnels).\nOFC (Oceania Football Confederation) refused to immediately state how it viewed FIFA’s plans and instead said that the proposal would be considered by the OFC Executive Committee at a meeting later this month.\nHas anyone from FIFA addressed this issue?\nCarlos Cordeiro, Mr. Infantino’s senior adviser who represented FIFA on the White House Task Force at the World Cup, resigned and urged other senior FIFA staff to speak out. “I cannot stand by while FIFA considers selling a stake in the World Cup. I oppose it unequivocally,” Mr. Cordeiro said in a statement. Kevin Lamour, FIFA’s chief operating officer, also issued a statement about the lack of transparency. “Not only must this project not go ahead. The time has now come for football political leaders to ask themselves the right questions and make the right decisions. And if that means I lose my job, then so be it,” he said.\nHow has FIFA responded?\nOn July 31, Mr. Infantino announced that FIFA would not be moving forward with the proposal. “Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place. Our purpose has always been — and will always be — to unite and improve. As a result, this proposal will not proceed,” he said in a statement.\nPublished - August 02, 2026 04:07 am IST",
      "articleURL": "https://www.thehindu.com/sport/football/why-did-fifa-scrap-its-world-cup-stake-sale/article71296070.ece",
-     "pubDate": 807302438.0
+     "pubDate": 807322238.0
+    },
+    {
+     "id": "733a6ddd-c93e-49ac-9d3d-738cec449f10",
+     "category": "SPORTS",
+     "headline": "Gulveer wins bronze in 5000m, first Indian to win two athletic medals in CWG",
+     "deck": "Mathew Kipchumba Kipsang of Kenya won the gold in a time of 13:23.61 while Ky Robinson of Australia bagged the silver, clocking 13:24.70",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/8lx57m/article71295976.ece/alternates/LANDSCAPE_1200/Britain_Commonwealth_Games_Athletics_25313.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "Gulveer Singh etched his name in Commonwealth Games history, once again, at the 2026 edition in Glasgow after he became the first Indian, man or woman, to win a medal in the 5000m event on Saturday (August 1, 2026). Moreover, the 27-year-old broke fresh ground by becoming the first Indian track and field athlete to win multiple medals in a single Games.\nAfter creating history by clinching a silver medal in the men’s 10,000m — India’s first-ever medal in the event at the Games — Gulveer returned to the track in the 5000m to produce another gritty performance in a competitive field to secure the bronze medal, clocking 13:24.95 seconds. Mathew Kipchumba Kipsang of Kenya won the gold in a time of 13:23.61 while Ky Robinson of Australia bagged the silver, clocking 13:24.70.\nCornelius Kemboi of Kenya came within striking distance of overtaking Gulveer, but the Indian shifted gears in the final 10-odd metres to stay ahead and hold off the Kenyan challenge, but only just. The Keyuan was a mere 0.04seconds short at 13:24.99\nGulveer stayed with the pack for almost the entire race, even when he wasn’t setting the pace himself.\nAt the 1000m mark, he was running along with the leaders, alongside the likes of Mathew Kipchumba, Robinson, Mohammed Ahmed, Dan Kibet and Cornelius. Gulveer remained firmly in contention through the 2000m and 3000m, consistently featuring among the top five runners. The only brief dip came around the 2400m mark when he slipped to seventh, but he quickly regained his position in the front group, ensuring he was well placed to finish well on the home stretch.\nGulveer said it feels great to win two medals at the Games, but insisted that his chase for more medals will continue. “I am happy with the bronze medal. But I want to win more medals. My hunger is still not quenched,” he said.\nOn Indians being able to beat Africans here, Gulveer said Indians can beat them if they train hard. “We are human. So are they. Why not? With the Government’s support, Indians can do well in athletics,” he said.\nPublished - August 02, 2026 02:14 am IST",
+     "articleURL": "https://www.thehindu.com/sport/gulveer-shines-with-historic-5000m-bronze-for-his-2nd-medal-para-shot-putter-rana-wins-gold/article71295975.ece",
+     "pubDate": 807311927.0
+    },
+    {
+     "id": "e60c90ba-dc05-4ffd-925f-62cdbbd21a2d",
+     "category": "SPORTS",
+     "headline": "Commonwealth Games: Magnificent seven as the Indian pugilists put on a show",
+     "deck": "Preeti, Jaismine, Sakshi, Priya, Arundhati, Sachin and Ankush take home the yellow metal; Jadumani, Lovlina and Narender fall at the final hurdle",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/wdqmv/article71294192.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000239B.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "To have 10 boxers — six women and four men — reach the finals across 14 weight categories is no mean feat and a testament to India’s commanding performance at the Commonwealth Games at the Scottish Event Campus here on Saturday.\nIndia capped its finest-ever boxing campaign at the Games, with seven gold medals and three silver.\nSachin Siwach rallied to down Tryagain Morning Ndevelo of Namibia in a thrilling men’s 60kg gold medal bout. Sachin made a sensational comeback after trailing in the first two rounds. With time running out, the 26-year-old forced a standing count against Ndevelo and went on to win the tie 3-2 in a split verdict.\nEarlier, Preeti Pawar opened the floodgates for India. Facing a relentless Scarlett Delgado, Preeti absorbed the pressure with calm defence and struck effectively when opportunities came her way, earning a 5-0 win over the Canadian in the women’s 54kg title clash.\nIt was then Jaismine Lamboria’s turn to showcase her technical brilliance against Northern Ireland’s Michaela Walsh in the women’s 57kg final, and the reigning World champion did so in emphatic fashion, cruising to a 5-0 victory.\nJaismine was near-flawless in execution, repeatedly outboxing her experienced opponent. Walsh, conceding both height and reach, struggled to land clean punches as the Indian controlled the distance with ease.\nWhenever her opponent tried to close in, Jaismine either slipped away with swift footwork or stood her ground to unleash sharp right-left combinations that consistently found the target.\nJadumani Singh, meanwhile, produced an entertaining display in the men’s 55kg final against Australia’s Jye Dixon. n. The 22-year-old delighted the crowd with his lightning-quick footwork and crisp punching combinations. But Dixon’s accuracy and control ultimately proved decisive as Jadumani went down fighting 0-5.\nSakshi Chaudhary earned India’s its third gold with a 5-0 win over Ruby White of England in the women’s 51kg final. White kept charging Sakshi in all the three rounds but the latter played within herself, attacking from a distance and scored points at will.\nPriya Ghanghas’ hard-fought 4-1 victory over Canada’s Marie-Bathoul Al-Ahmadieh in the women’s 60kg summit clash sparked celebrations in the Indian corner as the country claimed its fourth boxing gold of the Games, eclipsing the three it had secured at Birmingham in 2022.\nArundhati Choudhary put on a sparkling display to outwit Chantelle Reid of England 5-0 in the women’s 70kg gold medal bout. Although Reid appeared to be the aggressor early on, constantly moving forward and looking to land punches against her rivals, it was Arundhati who dictated the tempo with her sharp, direct combinations.\nThe Indian remained composed under pressure, countering Reid’s attacks with powerful straight punches and precise execution to take control of the contest and win the country its fifth gold.\nEmma-Sue Greentree of Australia dashed Lovlina Borgohain’s hopes of a maiden gold in the mega event. The Tokyo Olympic bronze medallist lost 1-4 in a split decision in the women’s 75kg final.\nAnkush Panghal got the better of Dimeji Shittu of England in men’s 80 kg final in a split 4-1 verdict to win India’s seventh gold medal shortly after Sachin’s triumph.\nNarender ended up with a silver in the men’s 90+kg as he came second best to Damar Thomas of England in a 0-5 verdict.\nPublished - August 01, 2026 04:01 pm IST",
+     "articleURL": "https://www.thehindu.com/sport/cwg-2026-preeti-pawar-wins-gold-in-womens-54kg-boxing/article71294185.ece",
+     "pubDate": 807305473.0
     }
    ],
    "briefs": [
     {
-     "id": "0c2e8c92-dff8-49e7-80dc-9e903134f3b5",
+     "id": "33960b1b-3023-4f3b-b89a-a9dd3511900f",
      "category": "SPORTS",
-     "headline": "‘Leadership has stopped putting football first,’ says Concacaf after FIFA drops FFE proposal",
-     "deck": "Miami, Aug 1 (SocialNews.XYZ) The Confederation of North, Central America and Caribbean Association Football (Concacaf) has launched a scathing attack on FIFA's leadership despite welcoming the withdrawal of the controversial FIFA Forward Enterprise (FFE) proposal,... The post ‘Leadership has stopped putting football first,’ says Concacaf after FIFA drops FFE proposal appeared first on Social…",
-     "byline": "Social News Xyz",
+     "headline": "India drawn with Maldives, Pakistan in SAFF Championship 2026",
+     "deck": "Chasing a record-extending 10th SAFF championship title, India will begin their campaign against Maldives on November 5 before taking on Pakistan on November 11",
+     "byline": "The Hindu",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/31/20260720223-scaled.jpg?fit=2560%2C1685&quality=80&zoom=1&ssl=1"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "Miami, Aug 1 (SocialNews.XYZ) The Confederation of North, Central America and Caribbean Association Football (Concacaf) has launched a scathing attack on FIFA's leadership despite welcoming the withdrawal of the controversial FIFA Forward Enterprise (FFE) proposal,... The post ‘Leadership has stopped putting football first,’ says Concacaf after FIFA drops FFE proposal appeared first on Social…",
-     "articleURL": "https://www.socialnews.xyz/2026/08/01/leadership-has-stopped-putting-football-first-says-concacaf-after-fifa-drops-ffe-proposal/",
-     "pubDate": 807295545.0
+     "bodyText": "Chasing a record-extending 10th SAFF championship title, India will begin their campaign against Maldives on November 5 before taking on Pakistan on November 11",
+     "articleURL": "https://www.thehindu.com/sport/football/india-drawn-with-maldives-pakistan-in-saff-championship-2026/article71295943.ece",
+     "pubDate": 807304082.0
     },
     {
-     "id": "0e6d70f5-aa83-4606-9f02-90272a6a564d",
+     "id": "90948e7a-d273-485f-b304-4f27e8b7f2e3",
      "category": "SPORTS",
-     "headline": "India wins fifth boxing gold in Glasgow CWG",
-     "deck": "",
-     "byline": "News 18",
+     "headline": "Rajat Patidar to lead Central Zone in Duleep Trophy, Rinku Singh named vice-captain",
+     "deck": "Off-spinner Saransh Jain has also been named in the squad but he is certain to miss at least the initial part of the domestic season opener since he is a part of the India Test squad to tour Sri Lanka",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Sports_Section_Default_Image_1600x900-2025-07-4ca3f8a0fffd320c759cb5b8267edc70-3x2.jpg"
+      "url": "https://th-i.thgim.com/public/incoming/4uqz8w/article71295938.ece/alternates/LANDSCAPE_1200/PTI09_15_2025_000100B.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "Off-spinner Saransh Jain has also been named in the squad but he is certain to miss at least the initial part of the domestic season opener since he is a part of the India Test squad to tour Sri Lanka",
+     "articleURL": "https://www.thehindu.com/sport/cricket/rajat-patidar-to-lead-central-zone-in-duleep-trophy-rinku-singh-named-vice-captain/article71295934.ece",
+     "pubDate": 807303799.0
+    },
+    {
+     "id": "54e7ef47-c2b8-4ad3-8ec0-41e6a8fb4432",
+     "category": "SPORTS",
+     "headline": "Vozinha wins special jersey approval in Chile as Colo-Colo arrival remains uncertain",
+     "deck": "The decision required amending league regulations, which previously mandated that players wear only their surnames on their jerseys",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/uqzalh/article71295931.ece/alternates/LANDSCAPE_1200/2026-07-23T101735Z_1547515330_UP1EM6F1EH4AX_RTRMADP_3_SOCCER-WORLDCUP-2026-PHOTOS.JPG"
+     },
+     "blockType": "brief",
+     "bodyText": "The decision required amending league regulations, which previously mandated that players wear only their surnames on their jerseys",
+     "articleURL": "https://www.thehindu.com/sport/football/vozinha-wins-special-jersey-approval-in-chile-as-colo-colo-arrival-remains-uncertain/article71295926.ece",
+     "pubDate": 807303470.0
+    },
+    {
+     "id": "094dc064-cca4-4eb8-8e2c-39fdbe874b7b",
+     "category": "SPORTS",
+     "headline": "Shiv Neel dominates Mini class IAME India Series karting",
+     "deck": "",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "none"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://www.news18.com/agency-feeds/india-wins-fifth-boxing-gold-in-glasgow-cwg-10247186.html",
-     "pubDate": 807295507.0
+     "articleURL": "https://www.thehindu.com/sport/shiv-neel-dominates-mini-class-iame-india-series-karting/article71294629.ece",
+     "pubDate": 807303036.0
     },
     {
-     "id": "752e56bc-c7d2-4f74-af7f-3073a497f113",
+     "id": "c7c20265-1050-4e37-9ae5-73aa8143372c",
      "category": "SPORTS",
-     "headline": "Ankush Panghal at CWG 2026 Live Streaming Online and Free TV Telecast Details of Men's 80kg Final in IST",
-     "deck": "Catch all the live action as India's Ankush Panghal fights for gold in the Men's 80kg Boxing Final at CWG 2026 in Glasgow today, August 1, 2026, at 10:15 PM IST. Find out where to watch the exciting clash against England's Dimeji Shittu online and on TV in India, UK, USA, and Australia, with comprehensive details on broadcast channels and streaming.",
-     "byline": "Latestly",
+     "headline": "Navneet Singh and Dinesh Kumar exit with loss to England in lawn bowls",
+     "deck": "The Indian men's pairs duo put on a dominant display in Section B, securing four consecutive victories to position themselves on the brink of knockout stage qualification",
+     "byline": "The Hindu",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://st1.latestly.com/wp-content/uploads/2026/08/15-970645628.jpg"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "Catch all the live action as India's Ankush Panghal fights for gold in the Men's 80kg Boxing Final at CWG 2026 in Glasgow today, August 1, 2026, at 10:15 PM IST. Find out where to watch the exciting clash against England's Dimeji Shittu online and on TV in India, UK, USA, and Australia, with comprehensive details on broadcast channels and streaming.",
-     "articleURL": "https://www.latestly.com/sports/ankush-panghal-at-cwg-2026-live-streaming-online-and-free-tv-telecast-details-of-mens-80kg-final-in-ist-7541908.html",
-     "pubDate": 807295503.0
-    },
-    {
-     "id": "9a5e5633-43db-4055-881b-002a0c7607a2",
-     "category": "SPORTS",
-     "headline": "Preeti Pawar wins India's first-ever boxing gold at CWG 2026",
-     "deck": "Preeti Pawar has made history by winning India's first-ever boxing gold medal at the Commonwealth Games 2026.",
-     "byline": "Newsbytes",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://i.cdn.newsbytesapp.com/images/l292_40191785582611.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "Preeti Pawar has made history by winning India's first-ever boxing gold medal at the Commonwealth Games 2026.",
-     "articleURL": "https://www.newsbytesapp.com/news/sports/preeti-pawar-clinches-india-s-first-boxing-cwg-gold/story",
-     "pubDate": 807295477.0
-    },
-    {
-     "id": "65e801f2-c643-4cd6-b07f-3a3f1992114f",
-     "category": "SPORTS",
-     "headline": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
-     "deck": "35-year-old Brighton striker Welbeck seals £5m move Mali international Sangaré joins Bees for reported £39m Chelsea signed Brighton’s veteran striker Danny Welbeck in a deal worth a reported £5m. Welbeck has agreed a two-year contract, and will link up with Xabi Alonso’s squad on their pre-season tour. The 35-year-old’s move to Stamford Bridge is a break from Chelsea’s policy of signing younger…",
-     "byline": "The Guardian",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://i.guim.co.uk/img/media/61aab6410a771b28e5cb99fa1be823dc70e00a57/1737_979_2850_2280/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=6df28219f335b4c922efe1942c11b2b6"
-     },
-     "blockType": "brief",
-     "bodyText": "35-year-old Brighton striker Welbeck seals £5m move Mali international Sangaré joins Bees for reported £39m Chelsea signed Brighton’s veteran striker Danny Welbeck in a deal worth a reported £5m. Welbeck has agreed a two-year contract, and will link up with Xabi Alonso’s squad on their pre-season tour. The 35-year-old’s move to Stamford Bridge is a break from Chelsea’s policy of signing younger…",
-     "articleURL": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal",
-     "pubDate": 807295476.0
-    },
-    {
-     "id": "9aac6a3f-fc9f-4623-b860-99a3749bab20",
-     "category": "SPORTS",
-     "headline": "Premier League transfer news — Danny Welbeck joins Chelsea on two-year deal",
-     "deck": "It is the first time Chelsea has paid a transfer fee for a player over the age of 26 since it signed Pierre-Emerick Aubameyang from Barcelona in 2022 when the striker was 33.",
-     "byline": "Sport Star The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://ss-i.thgim.com/public/incoming/pm49g0/article71295722.ece/alternates/LANDSCAPE_1200/2026-03-21T130427Z_1299955389_UP1EM3L10BD1D_RTRMADP_3_SOCCER-ENGLAND-BHA-LIV.JPG"
-     },
-     "blockType": "brief",
-     "bodyText": "It is the first time Chelsea has paid a transfer fee for a player over the age of 26 since it signed Pierre-Emerick Aubameyang from Barcelona in 2022 when the striker was 33.",
-     "articleURL": "https://sportstar.thehindu.com/football/epl/danny-welbeck-joins-chelsea-signs-two-year-contract-details-transfer-fee-premier-league-news/article71295702.ece",
-     "pubDate": 807295456.0
-    },
-    {
-     "id": "b1ac61e8-3bc7-447a-83c2-6aa12d825c54",
-     "category": "SPORTS",
-     "headline": "CWG 2026: Arundhati dominates England’s Chantelle Reid to clinch women’s 70kg boxing gold",
-     "deck": "Glasgow, Aug 1 (IANS) India’s Arundhati Choudhary capped off a sensational Commonwealth Games 2026 campaign by winning the women’s 70kg boxing gold medal with a commanding unanimous decision over England’s Chantelle Reid in the final on Saturday. Arundhati was in complete control throughout the three-round contest, earning a 5-0 unanimous verdict from the judges. She edged each round 10-9 on all…",
-     "byline": "Thehawk",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://thehawk.sgp1.digitaloceanspaces.com/004a20e9-0bb4-496b-932b-9a077c9d9d12/202608013887985-517af69c-b5d4-4325-ae47-ff123a642ce8.jpeg"
-     },
-     "blockType": "brief",
-     "bodyText": "Glasgow, Aug 1 (IANS) India’s Arundhati Choudhary capped off a sensational Commonwealth Games 2026 campaign by winning the women’s 70kg boxing gold medal with a commanding unanimous decision over England’s Chantelle Reid in the final on Saturday. Arundhati was in complete control throughout the three-round contest, earning a 5-0 unanimous verdict from the judges. She edged each round 10-9 on all…",
-     "articleURL": "https://www.thehawk.in/news/sports/cwg-2026-arundhati-dominates-englands-chantelle-reid-to-clinch-womens-70kg-boxing-gold",
-     "pubDate": 807295394.0
-    },
-    {
-     "id": "000b0633-a21a-4d5f-8371-c4ed95bc23e7",
-     "category": "SPORTS",
-     "headline": "From tears to triumph: How Tejaswin Shankar went from dismay to delight",
-     "deck": "Having to pull out of high jump competition, Indian was not even sure of taking part in the decathlon, but showed admirable resolve and resilience to finish with India's first medal in the gruelling event",
-     "byline": "The Indian Express",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://images.indianexpress.com/2026/08/Tejaswin-Shankar-ap.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "Having to pull out of high jump competition, Indian was not even sure of taking part in the decathlon, but showed admirable resolve and resilience to finish with India's first medal in the gruelling event",
-     "articleURL": "https://indianexpress.com/article/sports/tejaswin-shankar-cwg-bronze-medal-commonwealth-games-tears-to-triumph-10813898/",
-     "pubDate": 807295389.0
+     "bodyText": "The Indian men's pairs duo put on a dominant display in Section B, securing four consecutive victories to position themselves on the brink of knockout stage qualification",
+     "articleURL": "https://www.thehindu.com/sport/navneet-singh-and-dinesh-kumar-exit-with-loss-to-england-in-lawn-bowls/article71295923.ece",
+     "pubDate": 807302872.0
     }
    ],
    "promotions": []
