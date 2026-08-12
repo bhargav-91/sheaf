@@ -16,7 +16,7 @@ from pathlib import Path
 
 import yaml
 
-from .editor import build_edition, main_story_urls
+from .editor import build_edition, select_candidates
 from .extract import enrich_bodies
 from .providers import NewsDataProvider, NewsMeshProvider, RSSProvider
 from .sanitize import sanitize
@@ -59,15 +59,33 @@ def main() -> int:
         log.error("no stories survived — refusing to publish an empty edition")
         return 1
 
+    # Extract before building: the editor needs body text to decide which
+    # stories are fit for main slots.
+    candidates = select_candidates(stories)
+    log.info("%d candidates selected for extraction", len(candidates))
     if not args.no_extract:
-        enrich_bodies(stories, main_story_urls(
-            stories, config.get("max_briefs_per_section", 8)))
+        enrich_bodies(candidates)
 
     edition = build_edition(
-        stories,
+        candidates,
         city=config.get("city", "Bengaluru"),
         max_briefs=config.get("max_briefs_per_section", 8),
+        bylined_sources=set(config.get("bylined_sources", [])),
     )
+
+    readable = sum(1 for s in edition["sections"]
+                   for st in s["stories"] + s["briefs"]
+                   if len(st["bodyText"]) >= 400)
+    total = sum(len(s["stories"]) + len(s["briefs"]) for s in edition["sections"])
+    pct = (100 * readable // total) if total else 0
+    log.info("readability: %d/%d stories (%d%%) have full body text",
+             readable, total, pct)
+
+    min_readable = config.get("min_readable_percent", 0)
+    if not args.no_extract and pct < min_readable:
+        log.error("readability %d%% is below the %d%% floor — not publishing; "
+                  "yesterday's edition stays up", pct, min_readable)
+        return 1
 
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)

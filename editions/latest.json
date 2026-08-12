@@ -1,325 +1,279 @@
 {
- "id": "57aff35a-82ef-4925-a52c-6d0f2ac03cb9",
+ "id": "929d98c1-ce3d-4c47-ba54-01e9732c8480",
  "publication": "Morning Edition",
  "city": "Bengaluru",
- "date": 808188780.89926,
+ "date": 808194699.136893,
  "sections": [
   {
-   "id": "2a866984-9747-4067-bb0d-1d6791ef756c",
+   "id": "74658098-67ee-46fa-8470-27f168ac910b",
    "title": "Front Page",
    "stories": [
     {
-     "id": "e71426f4-a320-4627-9cf2-88b2051a77a0",
-     "category": "NATIONAL",
-     "headline": "HC to Centre: Give extra security to Pappu Yadav",
-     "deck": "",
-     "byline": "Times of India",
+     "id": "54ace62d-9867-4b98-8d8e-1c9bd62017c2",
+     "category": "WORLD",
+     "headline": "Trump says he slipped away from Air Force One in Turkey due to threat",
+     "deck": "I think it was at greater risk ‌because that would be ​the plane I think that they ⁠would be more ⁠likely to go for, said U.S. President Donald ​Trump",
+     "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167477,imgsize-139548.cms"
+      "url": "https://th-i.thgim.com/public/incoming/4wcykc/article71334894.ece/alternates/LANDSCAPE_1200/2290097704.jpg"
      },
      "blockType": "hero",
-     "bodyText": "NEW DELHI: Delhi HC directed the Centre Tuesday to immediately provide an additional personal security officer (PSO) to the Purnia MP, Pappu Yadav, while Union home ministry decides on his request for Y+ security cover.\nYadav filed a writ petition seeking enhanced security cover in view of alleged death threats he received following his participation in protests in Parliament against NEET fiasco and Ram Temple donation theft. He informed the court that he made a representation to the home ministry regarding the request Aug 5 and was awaiting a response.\nThe Centre’s counsel said that while “adequate security” has already been provided, his request will be decided within three weeks.",
-     "articleURL": "https://timesofindia.indiatimes.com/india/hc-to-centre-give-extra-security-to-pappu-yadav/articleshow/133167474.cms",
-     "pubDate": 808188038.0
+     "bodyText": "U.S. President Donald Trump said he slipped away from Air Force One in Turkey because advisers wanted him on a ’different plane’ due to threat.\nAlso read | West Asia war highlights on August 12, 2026\nMr. Trump said on Wednesday (August 12, 2026) the plane he flew on after he secretly took a military flight from Turkey last month was “at greater risk.”\nThe switch involved the Republican President being moved between aircraft in a catering truck because of worries over reports of a potential Iranian assassination threat.\n“I think actually the plane that I flew on was at greater risk,” Mr. Trump told reporters after The Washington Post broke the story. “I think it was at greater risk because that would be the plane I think that they would be more likely to go for.”\nPublished - August 12, 2026 07:57 am IST",
+     "articleURL": "https://www.thehindu.com/news/international/trump-says-he-slipped-away-from-air-force-one-in-turkey-due-to-threat/article71334895.ece",
+     "pubDate": 808174661.0
     },
     {
-     "id": "12209835-4440-40ff-ba86-1517517b0bb8",
-     "category": "NATIONAL",
-     "headline": "Google: Rathee's YouTube clip 'defamatory', blocked in India",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167458,imgsize-93749.cms"
-     },
-     "blockType": "feature",
-     "bodyText": "Google: Rathee's YouTube clip 'defamatory', blocked in India\nTNN / Aug 12, 2026, 06:03 IST\nShare\nAA\nText Size\nSmall\nMedium\nLarge\nThe petitioner said on July 15, the committee directed Google to take down the video within 24 hours, but the platform failed to do so.\nNEW DELHI: Global search engine Google told Delhi HC Tuesday that it had withheld in India a \"defamatory\" YouTube video of social media influencer Dhruv Rathee that allegedly hurt religious sentiments.",
-     "articleURL": "https://timesofindia.indiatimes.com/india/google-rathees-youtube-clip-defamatory-blocked-in-india/articleshow/133167454.cms",
-     "pubDate": 808187633.0
-    },
-    {
-     "id": "d12b86c6-7057-4e22-8102-322b21c2336e",
-     "category": "NATIONAL",
-     "headline": "Tiny plastic pan masala sachets may soon be history",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167447,imgsize-167090.cms"
-     },
-     "blockType": "feature",
-     "bodyText": "Pan masala may now only be packaged in paper, paperboard, cellulose, or other naturally derived materials (Photo: Agencies).\nNEW DELHI: The tiny plastic sachet that has become synonymous with pan masala may finally be on its way out. The Food Safety and Standards Authority of India (FSSAI) has notified plastic-free packaging norms for the product, a move experts say could further enforcement of an existing ban by allowing the food regulator to act directly against violators.\nThe rules came into force upon their publication in the gazette\nAnuja Jaiswal is a Senior Assistant Editor at The Times of India, with an impressive 18-year career in narrative journalism. She specializes in health and heritage reporting, expertly simplifying complex health information to make it engaging and understandable for readers. Her deep dives into heritage topics are well-researched, resulting in captivating narratives that resonate with her audience. Over the years, she has worked in Chandigarh, Chhattisgarh and West UP, gaining diverse on-ground experience that shapes her storytelling.",
-     "articleURL": "https://timesofindia.indiatimes.com/india/tiny-plastic-pan-masala-sachets-may-soon-be-history/articleshow/133167447.cms",
-     "pubDate": 808187505.0
-    },
-    {
-     "id": "19c7b4ad-85f8-4edd-af3c-4d996d4eba4b",
-     "category": "NATIONAL",
-     "headline": "Air India Phuket flight probe: Marijuana’s legal availability adds to worries of airlines",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167446,imgsize-72218.cms"
-     },
-     "blockType": "standard",
-     "bodyText": "The legal availability of marijuana for either medicinal or recreational use in places like Thailand and Amsterdam has made life difficult for airlines flying there. The reason: Unlike simple breath analyser tests for checking if the crew is tipsy, the process of detecting consumption of psychoactive substances is difficult. The only way to deter their consumption by flight crew members, say officials across multiple airlines, is to increase random dope testing, as there substances usually remain present in the body for much longer than alcohol.\nThe concern across airlines globally to check this stems from the fact that operating a flight “under the influence of any psychoactive substance might render (licensed personnel like pilots) unable to safely and properly exercise” perform their duty, as per the International Civil Aviation Organisation.\nPossibly the most infamous case of this was a US carrier’s off-duty pilot travelling on the jump seat (extra seat behind pilots) in the flight deck trying to shut down the engines. This off-duty pilot had reportedly taken psychedelic mushrooms two days before the incident and hadn’t slept in 48 hours. “This is a challenge globally. Often the tests are not conclusive if taking some medicine leads to detection of psychoactive substances.\n However, recent consumption of drugs does show up in tests,” said officials.\nDGCA rules on “procedure for examination of the aviation personnel for consumption of psychoactive substances” says: “In case the confirmatory test is found positive, the medical in charge of the organisation shall consult a medical review officer to determine if the result was due to a legitimate therapeutic treatment or some other innocuous source (for example pain relief medication containing codeine may trigger a positive result for opiates).\nShare your thoughts in the comments\nBe respectful · TOI community guidelines\n”\nAirlines try to create awareness and encourage employees to anonymously report addiction so that the same can be addressed. But mostly people avoid reporting the same, so this virtually remains a non-starter, said many officials. Officials running operations across airlines say the focus in India is primarily on self-reporting and de-addiction.\n“But given the easy availability of psychoactive substances, we need to make the consequences a bit tougher and act as deterrent. We have to increase random testing, that’s the only way out,” said an official. Under DGCA rules, all scheduled commercial airlines and air navigation service providers need to test at least 10% of their flight crew members and air traffic controllers every year.",
-     "articleURL": "https://timesofindia.indiatimes.com/india/air-india-phuket-flight-probe-marijuanas-legal-availability-adds-to-worries-of-airlines/articleshow/133167442.cms",
-     "pubDate": 808187357.0
-    },
-    {
-     "id": "2bb5705c-fcc0-40ee-9de7-1bf576be2e91",
+     "id": "d27c69d8-7c78-429f-b828-8e375771b433",
      "category": "HEADLINES",
-     "headline": "Jana Nayagan box office day 20: Vijay's film nears Rs 194cr in India",
-     "deck": "Jana Nayagan's theatrical earnings saw another decline on its twentieth day. The film collected sixty-five lakhs in India, a slight drop from yesterday. Its total India net collection has now reached one hundred ninety-three point seven zero crores. Worldwide gross collections for the political drama stand at three hundred eighteen point eight three crores. Overseas collections have significantly…",
+     "headline": "North Korea fires second ballistic missile in a week ahead of US-South Korea war drills",
+     "deck": "North Korea launched a ballistic missile towards the sea on Wednesday. This marks Pyongyang's second reported missile test in less than a week. South Korea and Japan condemned the launch as a provocation. Major US-South Korea military exercises are scheduled to begin soon. North Korea continues its weapons testing program amid international concerns.",
      "byline": "Times of India",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167404,imgsize-160644.cms"
+      "url": "https://static.toiimg.com/photo/msid-133168087,imgsize-56360.cms"
+     },
+     "blockType": "feature",
+     "bodyText": "North Korea fired a ballistic missile towards the sea off the Korean Peninsula’s east coast on Wednesday, South Korean and Japanese authorities said, marking Pyongyang’s second reported ballistic missile launch in less than a week and coming days before major US-South Korea military exercises.\nSouth Korea’s Joint Chiefs of Staff said the missile was launched from the Wonsan area on the North’s eastern coast at around 6 am (local time) and travelled more than 700 km (435 miles).\nJapan’s defence ministry also detected the launch and said the missile landed in waters outside Japan’s exclusive economic zone (EEZ), between the Korean Peninsula and Japan.\nJapan said the missile reached a maximum altitude of about 90 km (56 miles.\nThe latest launch came two days after South Korea and the United States announced that their annual Ulchi Freedom Shield military exercises would begin on August 17.\nThe drills are scheduled to run until August 27 and are aimed at strengthening readiness against North Korea’s nuclear and missile threats.\nNorth Korea has repeatedly condemned the exercises, describing them as rehearsals for an invasion. The United States and South Korea have maintained that their military training is defensive.\nSeoul, Tokyo condemn launch\nSouth Korea’s National Security Council held an emergency meeting following the launch and described North Korea’s continued ballistic missile tests as acts of provocation. It urged Pyongyang to stop activities that violate UN Security Council resolutions.\nSouth Korea’s military said it remained prepared to respond to any provocation under its combined defence posture with the United States.\nAccording to Reuters, the military said it would respond “overwhelmingly” if necessary.\nJapan also lodged a protest with North Korea through diplomatic channels.\n“It’s a serious problem that affects the safety of the Japanese people,” Japanese defence minister Shinjiro Koizumi told reporters.\nJapan’s defence ministry said the missile landed outside its EEZ. Koizumi said Tokyo had “strongly condemned” the launch.\nThere was no immediate statement from Pyongyang on Wednesday’s launch.\nSecond reported launch since August 6\nThe launch follows another reported ballistic missile test on August 6, when South Korea, the United States and Japan detected a short-range ballistic missile launched by North Korea.\nThat was the North’s first reported ballistic weapons test since late June. North Korea did not immediately confirm that launch, although Pyongyang often releases details of weapons tests a day after they take place.\nThe latest launches come amid a broader continuation of North Korea’s weapons-testing programme. The country has conducted tests involving short-range ballistic missiles, artillery rockets and other tactical weapons this year.\nExperts cited by news agency AP said North Korea has often used US-South Korean military exercises as a pretext to increase its own weapons testing.\nPyongyang continues to expand missile arsenal\nUN Security Council resolutions prohibit North Korea from conducting ballistic missile launches.\nHowever, Pyongyang has continued developing its missile and nuclear capabilities, particularly since diplomatic efforts between North Korean leader Kim Jong Un and then-US President Donald Trump broke down in 2019.\nNorth Korea has since expanded its weapons arsenal and testing programme. Experts say Kim may seek to use the expanded capabilities to strengthen his negotiating position with Washington, including in any future discussions over sanctions.\nThe latest test also comes as North Korea continues to strengthen its ties with Russia and China.\nNorth Korea has supplied troops and ammunition to support Russia’s war in Ukraine, while relations with China have also received renewed attention.\nChinese President Xi Jinping visited Pyongyang in June, his first visit to the North Korean capital in seven years.",
+     "articleURL": "https://timesofindia.indiatimes.com/defence/international/north-korea-fires-second-ballistic-missile-in-a-week-ahead-of-us-south-korea-war-drills/articleshow/133168025.cms",
+     "pubDate": 808174243.0
+    },
+    {
+     "id": "17b87f72-2fe2-4fa9-afed-77e8901e0628",
+     "category": "WORLD",
+     "headline": "Trump says Iran options are let Tehran fail economically or ‘hit them really hard’",
+     "deck": "‘We control their money, what they ⁠had, which is a lot; they had a lot, and we have total control of it; I’m ‌their banker,’ said Donald Trump, referring to frozen Iranian assets",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/2svv4a/article71334873.ece/alternates/LANDSCAPE_1200/2290094066.jpg"
+     },
+     "blockType": "feature",
+     "bodyText": "U.S. President Donald Trump accused Iran of being “devious negotiators” in an interview released late on Monday (August 10, 2026) and described some of his current options in the war — “just bop along” and let Tehran fail economically or hit them “really, really hard.”\nAlso read | West Asia war highlights on August 12, 2026\n“I’m sort of negotiating,” Mr. Trump told Real America’s Voice in a phone interview. “They’re very devious negotiators.” Since the conflict began in late February, Trump has repeatedly oscillated between threats of escalation and claims that a peace deal is imminent. Pakistan said on Tuesday (August 11) that the U.S. and Iran were close to “some sort” of deal, and Qatar said talks on managing the Strait of Hormuz were at an advanced stage, despite reports of new attacks on shipping in regional waters.\nMr. Trump described one of his possible strategies as: “Do what I’m doing now: just bop along and look how bad they’re doing.”\n“Economically, they are a mess. They can’t borrow money. We control their money, what they had, which is a lot. They had a lot, and we have total control of it. I’m their banker,” he said, referring to frozen Iranian assets.\nAnother option would be to “Hit them really, really hard,” Mr. Trump said.\nMr. Trump also shrugged off concerns about low munitions, saying the U.S. was “building them like crazy” and blaming his predecessor, former U.S. President Joe Biden. Reuters reported last week that the U.S. Army has used up much of its stockpile of highly accurate long-range missiles during the war, raising concerns about the military’s readiness for future conflicts.\n“We’re fine with munitions... But the reason it would be lower, and we’re building them like crazy, but the reason it’s low is because he [Biden] gave $300 billion worth to Ukraine,” Mr. Trump said.\nPublished - August 12, 2026 07:35 am IST",
+     "articleURL": "https://www.thehindu.com/news/international/trump-says-iran-options-are-let-tehran-fail-economically-or-hit-them-really-hard/article71334867.ece",
+     "pubDate": 808173329.0
+    },
+    {
+     "id": "44a78fc1-a127-4ebb-b779-275d588a7563",
+     "category": "HEADLINES",
+     "headline": "'I do what Secret Service says': Trump confirms switching planes over Iran threat",
+     "deck": "",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167804,imgsize-621844.cms"
      },
      "blockType": "standard",
-     "bodyText": "Thalapathy Vijay\n and \nPooja Hegde\n's 'Jana Nayagan' witnessed another decline in its theatrical earnings on Day 20. The film collected Rs 65 lakhs in India on its third Tuesday, according to Sacnilk. This marks a 13.3% drop compared with the Rs 75 lakhs it earned on Day 19.\n'Jana Nayagan' day 20 box office collection\nThe Tamil political drama brought in an India net collection of Rs 65 lakhs from 1,990 shows on Tuesday. Its total India net collection has now reached Rs 193.70 Cr. The film's cumulative India gross collection stands at Rs 225.63 Cr.\nThe film has accumulated Rs 93.20 Cr in overseas gross collections. This takes its worldwide gross collection to Rs 318.83 Cr.\nJana Nayagan Movie Review\n'Jana Nayagan' Day 20 occupancy\nThe Tamil version of 'Jana Nayagan' recorded an overall occupancy of 15.46% across its 2D shows on Day 20. Morning shows registered 11.08% occupancy. Afternoon shows recorded 15.46%. Evening and night shows registered 13.54% and 14.15%, respectively.\nThe Hindi version recorded an overall occupancy of 14.96%. Its morning shows had 4% occupancy, while the afternoon shows recorded 9%. Evening occupancy stood at 6.45%. Night shows performed better, registering 16.55% occupancy.\nThe Tamil version contributed Rs 55 lakhs to the day's India net collection. \nThe Hindi version added another Rs 10 lakhs.\n'Jana Nayagan' state-wise collection\nTamil Nadu remained the biggest contributor to 'Jana Nayagan's Day 20 earnings. The state generated a gross collection of Rs 60 lakhs. Karnataka contributed Rs 3 lakhs, while Kerala added Rs 1 lakh.\nThe rest of India accounted for Rs 10 lakhs in gross collections. The reported state-wise gross total for the day stood at Rs 74 lakhs.\n'Jana Nayagan' box office: Week 3 performance\n'Jana Nayagan' entered its third week after collecting Rs 153.55 Cr during its opening week in India. The film added another Rs 31.60 Cr during its second week.\nOn Day 19, the film collected Rs 75 lakhs. Its Day 20 earnings slipped to Rs 65 lakhs. Despite the weekday decline, the film has continued to maintain a presence at the box office, with nearly Rs 194 Cr in India net collections.\nThe film's worldwide total has also remained above the Rs 318 Cr mark, helped by its overseas performance. Its overseas gross currently stands at Rs 93.20 Cr.\nWhat ETimes said about 'Jana Nayagan'\nETimes observed that the film enters an increasingly exaggerated space as it approaches its climax.\nAt the same time, the review highlighted Thalapathy Vijay's performance as a factor that keeps the film engaging.\n'Jana Nayagan' is directed by H Vinoth and features Thalapathy Vijay in the lead role. Pooja Hegde plays the female lead.\nDISCLAIMER: The box office numbers and the data in this article are compiled from public and industry sources. All figures are approximate unless explicitly mentioned, offering a fair representation of the movie's box office performance. These totals may change as official studio data is updated or as additional international market reports are finalized. This data is provided by us for informational and entertainment purposes only.",
-     "articleURL": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-20-thalapathy-vijay-starrer-sees-weekday-dip-india-net-collection-reaches-rs-193-70-cr/articleshow/133167400.cms",
-     "pubDate": 808186451.0
+     "bodyText": "US president Donald Trump has acknowledged that he was moved to a different aircraft while leaving Turkey last month, saying he followed instructions from the Secret Service and military after being told the plane he had initially boarded would face a “greater risk”.\n\"I go by Secret Service and the military. They wanted me to go on a different flight, a different plane... I do what they say... I guess there was a threat out there. I didn't really ask too much about it. I get a lot of threats,\" the US president said.\n\"I think actually the plane that I flew on was at greater risk! I think it was at greater risk because that would be the plane, I think that they would be more likely to go for it,\" Trump added.\nHis comments came after a Washington Post report revealed that Trump was secretly transferred from Air Force One to a smaller military aircraft in an airport catering truck amid an alleged Iranian assassination threat.\nTrump had initially boarded the older, baby-blue Air Force One in full view of cameras after attending the Nato summit in Turkey.\nAlso read: \nVideo shows catering truck used to secretly move Trump between planes amid Iran threat\nBut once aboard, he was secretly transferred in an airport catering truck to an Air Force C-32A, which flew him to Britain, The Washington Post reported, citing a US official familiar with the operation and corroborating material reviewed by the newspaper.\nIsrael had reportedly alerted the United States to the threat that prompted the Secret Service to move Trump off Air Force One and transfer him to a military aircraft as he prepared to leave Turkey, The Wall Street Journal reported Tuesday, citing an unnamed US official.\nAccording to the report, Israeli intelligence indicated that Iran was planning to target Trump’s aircraft with shoulder-fired missiles. Despite the threat, several senior Trump administration officials, including Secretary of State Marco Rubio, remained aboard Air Force One, the official said.\nThe extraordinary security operation unfolded as hostilities with Iran were escalating. Iran shares a border with Turkey, where Trump had travelled for the NATO summit and made his first international trip aboard a newly renovated aircraft donated by Qatar.\nThe deception operation was triggered by what The Washington Post described as a credible threat to Trump. A similar tactic was used in 2000, when then-President Bill Clinton flew into Pakistan aboard an unmarked executive jet while the official Air Force One aircraft served as a decoy.\nIn this case, journalists who believed they were travelling with Trump aboard the older Air Force One were instructed to keep the window shades in the press cabin closed. Some White House staff members also reportedly believed the president was on board.\nThe C-32A carrying Trump arrived in Britain at around 10:20 pm (local time), with the older Air Force One and the media contingent arriving minutes later, The Post reported. It was not immediately clear how Trump was transferred back to the older Air Force One.",
+     "articleURL": "https://timesofindia.indiatimes.com/world/us/i-go-by-secret-service-military-trump-confirms-switching-planes-in-turkey-over-iran-threat/articleshow/133167778.cms",
+     "pubDate": 808172189.0
+    },
+    {
+     "id": "139c0d8c-8389-4d27-bf38-9b7a9ea0fcd2",
+     "category": "HEADLINES",
+     "headline": "BJP drops Pulwama unit chief after police book him for extortion",
+     "deck": "",
+     "byline": "Indian Express",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://images.indianexpress.com/2026/08/jammu-and-kashmir-police-1_20251229194205_20251230201343_20260120210354_20260216193320_20260303195154_20260514195722_20260611200738_20260811201719.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "Bashaarat Masood is a Special Correspondent with The Indian Express. He has been covering Jammu and Kashmir, especially the conflict-ridden Kashmir valley, for two decades. Bashaarat joined The Indian Express after completing his Masters in Mass Communication and Journalism from the University in Kashmir. He has been writing on politics, conflict and development. Bashaarat was awarded with the Ramnath Goenka Excellence in Journalism Awards in 2012 for his stories on the Pathribal fake encounter. Expertise and Experience Two Decades of Frontline Reporting: Bashaarat has spent 20 years documenting the evolution of Kashmir, from high-intensity conflict and political shifts to socio-economic development. Award-Winning Investigative Journalism: He is a recipient of the prestigious Ramnath Goenka Excellence in Journalism Award (2012). This honor was bestowed for his reporting on the Pathribal fake encounter, a series of stories that highlighted his ability to handle sensitive human rights and security issues with investigative rigor. Specialized Beats: His authoritative coverage spans: Political Transitions: Tracking the shift from statehood to Union Territory, electoral dynamics, and the pulse of local governance. Security & Conflict: Providing nuanced reporting on counter-insurgency, civil liberties, and the impact of the conflict on the civilian population. Development: Documenting the infrastructure, healthcare, and educational landscape within the Valley. Academic Background: He holds a Masters in Mass Communication and Journalism from the University of Kashmir, providing him with a localized academic and professional foundation that is rare in regional reporting. ... Read More",
+     "articleURL": "https://indianexpress.com/article/india/bjp-drops-pulwama-unit-chief-after-police-book-him-for-extortion-10828885/",
+     "pubDate": 808171875.0
     }
    ],
    "briefs": [
     {
-     "id": "2734e192-d312-4397-bd81-1aa851fc9399",
-     "category": "NATIONAL",
-     "headline": "Yashwant Varma cash probe report to be tabled in Lok Sabha today",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167248,imgsize-485659.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/india/varma-cash-probe-report-to-be-tabled-in-ls-today/articleshow/133167242.cms",
-     "pubDate": 808184021.0
-    },
-    {
-     "id": "1bdbffde-61b9-4a17-bf3c-f88ef96c7d84",
-     "category": "NATIONAL",
-     "headline": "Shield people from unlawful digital content, SC tells govt",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167240,imgsize-53064.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/india/shield-people-from-unlawful-digital-content-sc-tells-govt/articleshow/133167237.cms",
-     "pubDate": 808183846.0
-    },
-    {
-     "id": "6c464b9d-2c7f-4a2c-8a82-aa4a3d260a1f",
+     "id": "8727a32d-8994-4d82-b11d-b7da2178cedf",
      "category": "HEADLINES",
-     "headline": "Bangladesh races to save India tour, says foreign ministers involved in talks",
-     "deck": "The tour consists of three ODIs and three T20Is. It was originally scheduled for August last year but was postponed after relations between Dhaka and New Delhi deteriorated.",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133160000,imgsize-535026.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "The tour consists of three ODIs and three T20Is. It was originally scheduled for August last year but was postponed after relations between Dhaka and New Delhi deteriorated.",
-     "articleURL": "https://timesofindia.indiatimes.com/sports/cricket/news/hopeful-bangladesh-races-to-save-india-tour-says-foreign-ministers-involved-in-talks/articleshow/133159767.cms",
-     "pubDate": 808183800.0
-    },
-    {
-     "id": "f7213859-0f66-4b68-a00c-de9dc7761bd5",
-     "category": "NATIONAL",
-     "headline": "Benchmark hospital room cost against 3-star hotel tariff: Panel",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167231,imgsize-66240.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/india/benchmark-hospital-room-cost-against-3-star-hotel-tariff-panel/articleshow/133167229.cms",
-     "pubDate": 808183634.0
-    },
-    {
-     "id": "57710a1d-89ca-48d2-b31c-5f157b8a1d0d",
-     "category": "HEADLINES",
-     "headline": "DH Toon | Coaching",
+     "headline": "Drones hit residential buildings in Russia's Black Sea port of Novorossiysk, mayor says",
      "deck": "",
      "byline": "Deccan Herald",
      "visual": {
       "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-08-11/62161ywb/DH-Toon-1.jpg"
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-12/4ho42wom/drone.jpg"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/opinion/cartoon/dh-toon-coaching-4107974",
-     "pubDate": 808183213.0
+     "articleURL": "https://www.deccanherald.com/world/russia/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4108021",
+     "pubDate": 808173554.0
     },
     {
-     "id": "b9574b17-ee6b-4213-8006-ab28a3edcb6d",
+     "id": "31f43e3d-5d82-4762-83ea-b9389f9e9e38",
      "category": "HEADLINES",
-     "headline": "DH Speak Out | August 12, 2026",
+     "headline": "Mumbai: Two killed, six injured in residential building blaze",
      "deck": "",
      "byline": "Deccan Herald",
      "visual": {
       "type": "remoteImage",
-      "url": "https://cf-images.assettype.com/deccanherald/2026-08-11/ol2h69xs/DH-Toon-2.jpg"
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-12/jkvai32l/BeFunky-collage.jpg"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://www.deccanherald.com/opinion/speak-out/dh-speak-out-august-12-2026-4107975",
-     "pubDate": 808183204.0
+     "articleURL": "https://www.deccanherald.com/india/maharashtra/mumbai-two-killed-six-injured-in-residential-building-blaze-4108006",
+     "pubDate": 808172286.0
     },
     {
-     "id": "12771976-c3f0-447d-819c-c80dfd8bb73a",
+     "id": "30fa866f-bab9-4489-8643-95e5fd1f6375",
+     "category": "HEADLINES",
+     "headline": "Mumbai landslide: Two dead, 3-4 feared trapped after chawl collapse in Kurla",
+     "deck": "",
+     "byline": "Deccan Herald",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-12/w6oor23n/iStock-1445875894.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "",
+     "articleURL": "https://www.deccanherald.com/india/maharashtra/mumbai-landslide-two-dead-3-4-feared-trapped-after-chawl-collapse-in-kurla-4108005",
+     "pubDate": 808171541.0
+    },
+    {
+     "id": "e6d8df6e-bb88-4f69-a8bf-829a569d4093",
+     "category": "HEADLINES",
+     "headline": "Landslide hits Mumbai’s Kurla; several people feared trapped",
+     "deck": "A devastating landslide hit Gaushiya Chawl in Kurla, Mumbai, on Wednesday morning, prompting immediate emergency response efforts. Fire brigade and police teams have arrived at the scene to assist with the rescue operations. There are concerns for the safety of numerous individuals believed to be trapped beneath the rubble. Authorities are eagerly awaiting updates to assess the full scale of the…",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167728,imgsize-106756.cms"
+     },
+     "blockType": "brief",
+     "bodyText": "Richa Pinto is a special correspondent with The Times of India. She covers urban governance & climate change issues. With over a decade of experience in field reporting, she has written extensively on various civic issues affecting Mumbaikars. She graduated in -journalism from the prestigious Mumbai-based St Xavier's College and later pursued a three-year Law degree (L.L.B.) with the University of Mumbai. She regularly tweets about all things that matter to Mumbai on-- @richapintoi.",
+     "articleURL": "https://timesofindia.indiatimes.com/city/mumbai/landslide-hits-mumbais-kurla-several-people-feared-trapped/articleshow/133167683.cms",
+     "pubDate": 808171438.0
+    },
+    {
+     "id": "6fc3db41-030e-4da8-bf5f-bae087ebfe56",
+     "category": "HEADLINES",
+     "headline": "Remote location, reluctant parents: Madhya Pradesh battles odds amid outbreak that left 6 kids dead",
+     "deck": "",
+     "byline": "Indian Express",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://images.indianexpress.com/2026/08/Balaghat.jpeg"
+     },
+     "blockType": "brief",
+     "bodyText": "Remote location, reluctant parents: Madhya Pradesh battles odds amid outbreak that left 6 kids dead\nEven as the exact cause of the illness and deaths is not known yet, 47 children remain hospitalised while 54 are being treated at home\nSix children have died and 100 others have fallen ill in four remote, Baiga-dominated villages of Madhya Pradesh’s Balaghat district over the past month. The health department said it learnt about the deaths only after three children had already died.\nThough the exact cause of the illness and deaths is not known yet, the immediate challenge for authorities was locating the children in the remote areas and convincing their parents to allow them to be taken to hospital. Eventually, the health officials had to take police’s help to ensure the children were sent to the hospital.",
+     "articleURL": "https://indianexpress.com/article/india/madhya-pradesh-disease-outbreak-kids-dead-balaghat-district-10828870/",
+     "pubDate": 808171229.0
+    },
+    {
+     "id": "450ad5f9-e069-42c3-ae12-42674a90e63e",
      "category": "NATIONAL",
-     "headline": "Gen Alpha students storm DM office in Hamirpur, Uttar Pradesh, over road construction",
-     "deck": "The students numbered over 200 along with at least 50 parents who participated in the protest were from villages and hamlets of Chandupur gram panchayat located in the Kurara block of Hamirpur district",
+     "headline": "Solar eclipse 2026: Will it be visible from India?",
+     "deck": "A solar eclipse is when the Sun, Moon and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the fiery ball’s light.",
      "byline": "The Hindu",
      "visual": {
-      "type": "none"
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/amu8pw/article71331285.ece/alternates/LANDSCAPE_1200/solar%20eclipse.jpg"
      },
      "blockType": "brief",
-     "bodyText": "The students numbered over 200 along with at least 50 parents who participated in the protest were from villages and hamlets of Chandupur gram panchayat located in the Kurara block of Hamirpur district",
-     "articleURL": "https://www.thehindu.com/news/national/uttar-pradesh/gen-alpha-students-storm-dm-office-in-hamirpur-uttar-pradesh-over-road-construction/article71333057.ece",
-     "pubDate": 808183195.0
+     "bodyText": "A solar eclipse will occur on August 12, 2026, with many parts of the world set to witness the celestial event, either partially or completely.\nAlso read: What the night sky offers in August\nWhat is a solar eclipse?\nA solar eclipse is when the Sun, Moon and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the fiery ball’s light.\nA total solar eclipse occurs when the Moon perfectly covers the Sun and for a few minutes the day sky turns completely dark.\nA partial eclipse is when the Moon is not in alignment and only a part of it covers the Sun, making it appear as if a “bite” of the Sun has been eaten away.\nAn annular solar eclipse is when the Moon is near its farthest point from Earth. Because it is smaller than the Sun, it doesn’t cover it completely, leaving a thin, bright outer ring of sunlight visible called the ‘Ring of Fire.’\nSolar eclipse 2026: Timings in IST\nThe eclipse will start at 15.34 GMT on August 12, 2026, and the moon’s shadow will cover the sun for as long as two minutes and 18 seconds. The timing of the eclipse in IST, or Indian Standard Time, is 9.04 pm.\nWill solar eclipse be visible in India?\nThe solar eclipse will not be visible in India as it will occur at night, and thus, Indians will miss out on witnessing the celestial event on August 12, 2026.\nBut a total solar eclipse will be visible in mainland Europe for the first time since 1999, with much of Spain coming under the path of totality or the area in which the moon’s shadow will fall, resulting in complete darkness during daytime.\nWestern Europe, parts of northwestern Africa and some parts of the U.S. will see a partial solar eclipse.\nPublished - August 11, 2026 11:59 am IST",
+     "articleURL": "https://www.thehindu.com/sci-tech/science/solar-eclipse-2026-surya-grahan-india-august-12-2026/article71331174.ece",
+     "pubDate": 808170890.0
     },
     {
-     "id": "8e0e683e-9687-42fd-bb39-fdff458c0143",
+     "id": "7353be14-3fb4-49d8-b2a3-f773b3d90c70",
      "category": "HEADLINES",
-     "headline": "Trump, Modi have ‘very good’ ties, will resolve Russian oil tariff row: US official",
+     "headline": "New York woman pleads guilty to smuggling Indians into US through Canada border",
      "deck": "",
-     "byline": "Times of India",
+     "byline": "Deccan Herald",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133167215,imgsize-60286.cms"
+      "url": "https://cf-images.assettype.com/deccanherald/2026-08-12/s8w865an/iStock-185275367.jpg"
      },
      "blockType": "brief",
      "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/business/international-business/trump-modi-have-very-good-ties-will-resolve-russian-oil-tariff-row-us-official/articleshow/133167210.cms",
-     "pubDate": 808183135.0
+     "articleURL": "https://www.deccanherald.com/world/us/new-york-woman-pleads-guilty-to-smuggling-indians-into-us-through-canada-border-4107947",
+     "pubDate": 808170642.0
+    },
+    {
+     "id": "cc3805c9-51ae-4f1a-9d7f-f3fd433dbfd3",
+     "category": "NATIONAL",
+     "headline": "CM Vijay likely to move resolution in Assembly seeking freeze on Lok Sabha seats at 543",
+     "deck": "Vijay had on August 8 convened a meeting with Members of Parliament from Tamil Nadu at Kalaivanar Arangam in Chennai",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/krktar/article71333511.ece/alternates/LANDSCAPE_1200/20260805080L.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "Tamil Nadu Chief Minister C. Joseph Vijay is expected to move a resolution in the Assembly on Wednesday (August 11, 2026) regarding the proposed delimitation exercise, urging the Union government to permanently maintain the existing strength of the Lok Sabha at 543 and retain the current inter-State distribution of seats.\nEditorial | Case for consensus: On delimitation\nMr. Vijay had, on August 8, 2026, convened a meeting with Members of Parliament from Tamil Nadu at Kalaivanar Arangam in Chennai. Of the total 57 MPs — 39 in the Lok Sabha and 18 in the Rajya Sabha — from Tamil Nadu, only 19 MPs participated. At the meeting, it was decided to adopt a resolution in the Assembly to protect the rights of Tamil Nadu and the southern States.\nThe resolution is also likely to emphasise maintaining the current Lok Sabha-Rajya Sabha ratio of 2.2:1, while simultaneously implementing 33% reservation for women in the 2029 Lok Sabha and subsequent Assembly elections without any delay, based on the existing 543 seats.\nPublished - August 11, 2026 09:37 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-likely-to-move-resolution-in-assembly-seeking-freeze-on-lok-sabha-seats-at-543/article71333417.ece",
+     "pubDate": 808170574.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "e3d0de93-0260-476b-a6c6-b5e52eba3c18",
+   "id": "5c4418bd-02d2-40ce-9dc8-bf5a36332711",
    "title": "City",
    "stories": [
     {
-     "id": "b2185fcb-8a06-41af-8453-5e2dd6b84cbb",
+     "id": "771d5f5b-4d19-4618-b729-e83c15263a10",
      "category": "CITY",
-     "headline": "Accel raises $550 million ninth India fund",
+     "headline": "‘Extremely Unhygienic’: Zepto Warehouse In Bengaluru Sealed After Health Dept Finds Waste, Dirt, Labelling Violations",
      "deck": "",
-     "byline": "Times of India",
+     "byline": "Free Press Journal",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133163661,imgsize-323652.cms"
+      "url": "https://media.assettype.com/freepressjournal/2026-08-11/532wjnqe/Untitled-design-51.jpg?w=280"
      },
      "blockType": "hero",
-     "bodyText": "Bengaluru: Venture capital firm Accel has raised $550 million for its ninth India-focused early-stage fund, just 18 months after closing a $650 million fund. The Palo Alto-headquartered firm has now raised $1.2 billion for India during this period.\nThe India fund is part of a $3.5 billion global fundraise across four new vehicles, including a separate $1.3 billion growth fund for later-stage investments.\nThe new India fund will largely stick to Accel’s strategy of investing early, often as a startup’s first institutional investor. Partner Anand Daniel said the firm expects to back 15-30 companies a year.\nPartner Abhinav Chaturvedi said Accel typically invests when startups have post-money valuations of $10 million-$20 million, targeting businesses that can eventually reach multi-billion-dollar market capitalisations.\n“And ideally come into these companies as early as we can,” Chaturvedi told TOI in a joint interview with Daniel. “The typical post-money valuation for our companies would be between $10 million and $20 million... And we want these companies to get to at least a few billion dollars in market cap when they list.”\nMore than half of the earlier $650 million fund remains undeployed.\n“We have to be disciplined in deploying capital,” Chaturvedi said. \n“We still have a lot of the previous $650 million fund left to be deployed.”\nThe fresh fundraise, he said, was aimed at ensuring capital was available when investment opportunities emerged.\nAI will be a major focus of the new fund across consumer, financial services and manufacturing. Accel will also continue investing in fintech and manufacturing, while advanced manufacturing and deeptech are emerging focus areas.\nThe firm is becoming more selective in consumer investments, particularly brands and consumer products, where it sees limited upside.\n“We do fewer brands and consumer products where we have seen there is a ceiling for the outcomes,” Chaturvedi said.\nHowever, it will continue backing potential outliers such as jewellery retailer BlueStone, he added.\nAccel is also investing across different segments of Indian consumption. Daniel said FirstClub and Swish target the top 10-20 million households, while CityMall and ApnaMart cater to more value-conscious consumers.\nOn premium consumption, Chaturvedi said Accel had not seen a significant pullback in spending.\n“There is a large enough market for that, and they are willing to pay for it. We don’t see any resistance,” he said.\nAI is also changing startup economics, with Chaturvedi saying “a lot can be accomplished with a smaller number of people”. Daniel said this could reduce the venture capital required to scale companies and lower founder dilution.\nHowever, Chaturvedi said the impact on Accel’s own cheque sizes had so far been “marginal and nothing material”.\nAccel is also seeing more of its portfolio companies reach public markets. Daniel said five have listed in India and another four are in the pipeline, adding that the country’s IPO market has “finally come of age”.\nChaturvedi said this gives investors an important route to liquidity at a time when exits remain difficult globally.",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/accel-raises-550-million-ninth-india-fund/articleshow/133163663.cms",
-     "pubDate": 808187400.0
+     "bodyText": "A raid at quick-commerce firm Zepto’s warehouse in Bengaluru uncovered organic waste, discarded wrappers and bottles, dirt accumulated on the floor and empty cardboard boxes, with health officials describing the premises as \"extremely unhygienic\".\nThe health department also identified several other violations, including \"non-compliant labelling, misbranding and unhygienic food handling\".\n\"The Food Safety Division of the Food Safety and Drug Administration Department, Health and Family Welfare Department, conducted a special inspection drive at the Zepto Warehouse unit located in Hoskote Taluk, Bengaluru Rural District, with the objective of inspecting the quality, safety, storage, labelling and food handling practices of food products at the unit. During the inspection, various food safety violations were observed, including non-compliant labelling, misbranding, unhygienic food handling and storage conditions, and other violations of FSSAI requirements,\" the department said.\nFollowing the inspection, the health department sealed the warehouse, issued a notice to the facility and recommended filing a case against it.\n\"Strict legal action will be taken against food business operators found violating food safety regulations. The Food Safety and Drug Administration Department will continue to undertake such special inspection drives to ensure that the public has access to safe, quality and hygienic food,\" it declared.",
+     "articleURL": "https://www.freepressjournal.in/india/extremely-unhygienic-zepto-warehouse-in-bengaluru-sealed-after-health-dept-finds-waste-dirt-labelling-violations",
+     "pubDate": 808162846.0
     },
     {
-     "id": "b9a812a6-97bd-480b-96f5-4f91d33adcf0",
+     "id": "9dccb1ee-e41f-42c6-9ce3-92fc95ff9d65",
      "category": "CITY",
-     "headline": "In UDR cases, police cannot conduct unrestricted inquiry: HC",
+     "headline": "Three More Sugar Mills From Maharashtra & Karnataka End Abuse Of Bulls To Transport Sugarcane; Join PETA India's 100% Bull-Free Movement",
      "deck": "",
-     "byline": "Times of India",
+     "byline": "Free Press Journal",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133164993,imgsize-1871625.cms"
+      "url": "https://media.assettype.com/freepressjournal/2026-08-11/sxx44tmg/download.jpg?w=280"
      },
      "blockType": "feature",
-     "bodyText": "Bengaluru: An inquiry under a UDR (unnatural death report) is intended to ascertain the circumstances surrounding an unnatural death. It is not a licence for an unrestricted fishing expedition, nor does it give the investigating agency unfettered authority to summon every individual remotely associated with the treatment or repeatedly interfere with a hospital’s functioning, the high court has ruled.\nJustice M Nagaprasanna has made this observation his order passed on Aug 10 while allowing the petition filed by a Bengaluru hospital.\nThe judge also quashed the three notices issued by Konanakunte police to the said hospital following the death of a 29-year-old patient who underwent hysteroscopic polypectomy in May this year.\nThe hospital and the doctor, a senior consultant in obstetrics and gynaecology, challenged a series of notices issued by police. The petitioners submitted that they had already filed six replies before the investigating agency.\nOn the other hand, counsel for the deceased’s father submitted that his son-in-law had filed a complaint before the Karnataka Medical Council.\nJustice Nagaprasanna noted that the tenor and sweep of the notices sought not merely records or documents but virtually the machinery and equipment used in the hospital. As many as six notices were issued to women members of the hospital staff, directing them to appear at the police station to record their statements.\n“What is of considerable significance is that all these actions are undertaken not in the course of an investigation into a registered cognisable offence, but during an inquiry arising out of a UDR. The distinction is neither semantic nor superficial; it goes to the very root of the statutory power exercisable by police,” the judge said.\nQuoting the Supreme Court’s decision in Manoj Kumar Sharma, the judge noted that the top court had held that unless an FIR is registered disclosing the commission of a cognisable offence, police remain within the limited scope of an inquest under Section 174 of the CrPC, now Section 194 of the BNSS, governing UDRs.\nPolice cannot, under the guise of an inquest, embark on a roving or fishing inquiry or assume powers available only after an FIR sets the criminal law in motion, the judge said, adding that the scope of such an inquiry would depend on the facts and circumstances of each case.\n“The repeated issuance of notices, insistence on producing voluminous material already furnished, summoning of several hospital staff members and demand for the very equipment used in the operation theatre unmistakably indicate that the inquiry has travelled far beyond its statutory boundaries,” Justice Nagaprasanna observed.\nThe investigating officer appeared to have blurred the well-settled distinction between an inquiry under Section 194 of the BNSS and an investigation following registration of an FIR, he added while granting relief to the petitioners.",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/in-udr-cases-police-cannot-conduct-unrestricted-inquiry-hc/articleshow/133164995.cms",
-     "pubDate": 808170541.0
+     "bodyText": "Mumbai: Three major sugar processing plants have officially eliminated the use of bullock labour from their supply chains in a milestone shift for Maharashtra and Karnataka's sugar industry. These sugar mills have joined the ‘100% Bull-Free’ movement by People for the Ethical Treatment of Animals (PETA) India.\nThe move marks a pivotal moment for Maharashtra’s sugar industry, where traditional haulage has long relied on draught animals. In the latest addition, Karnataka's Maragur-based Shri Bhimashankar Sahakari Sakkare Karkhane became the first cooperative sugar mill to achieve the status, along with Solapur-based Utopian Sugars Ltd. and Sangli-based ND Patil Sugars Pvt. Ltd., all of them being awarded the “100% Bull-Free” certification by PETA India. These mills joined earlier certified pioneers Jai Hind Sugar Pvt. Ltd. and Lokmangal Mauli Mill Ltd.\nMechanisation Replaces Traditional Bullock Transport\nAccording to PETA India, the transition reflects an evolving global and domestic marketplace as Indian and international sugar buyers increasingly prioritise ethically sourced, animal-free and fully mechanised supply chains. To meet these standards, mills have aligned with the Sugarcane Industry Mechanisation Project, an initiative led by the Maharashtra-based NGO Animal Rahat. The project works directly with sugar facilities to replace animal-drawn transport with mechanised alternatives like tractors, effectively retiring working bulls from heavy haulage.\nPETA India's senior manager of corporate projects, Dr. Kiran Ahuja, said, \"An ever-growing number of sugar mills are choosing mechanised sugarcane transportation, demonstrating that compassionate and efficient practices can go hand in hand. PETA India’s bull-free certification helps buyers identify sugar produced without the use of bull labour and celebrates mills leading this positive change.\"\nAnimal Welfare Concerns Drive Change\nFor decades, the harvest season across Maharashtra has involved harsh working conditions for both animals and migrant transport workers. Animal welfare organisations have highlighted that bulls forced to pull heavy sugarcane carts routinely carry up to double the legal weight limit. To maintain control under oppressive heat, handlers often resort to painful instruments, including sharp cylindrical spikes, nail-studded devices, barbed wire and restrictive nose ropes.\nMechanisation Benefits Workers And Mills\nAccording to PETA India, bulls are highly social herd animals that experience acute distress when isolated or overworked under minimal shelter without adequate food, water or rest. Moreover, migrant families traveling to the sugar belt during harvest face extreme economic instability, hazardous working conditions and round-the-clock manual labour tied to managing working animals.\nThe NGO highlighted that eliminating the use of bullock carts is not only humane but also a practical and profitable decision. By replacing bullock carts with tractors and trucks, sugar mills allow bulls to retire, eliminate animal abuse, improve transport efficiency and safety, and enhance the income and working conditions for families involved in sugarcane transport. Each tractor can transport upto 18 tons per trip and can replace multiple bulls, giving owners valuable time to explore other income opportunities.\nTo get details on exclusive and budget-friendly property deals in Mumbai & surrounding regions, do visit: https://budgetproperties.in",
+     "articleURL": "https://www.freepressjournal.in/mumbai/three-more-sugar-mills-from-maharashtra-karnataka-end-abuse-of-bulls-to-transport-sugarcane-join-peta-indias-100-bull-free-movement",
+     "pubDate": 808161219.0
     },
     {
-     "id": "f6edb81b-e5f3-412f-8d8c-bd5aef4b935a",
+     "id": "e4753fdd-c061-4b99-b1bd-c9d823c6f214",
      "category": "CITY",
-     "headline": "Cauvery row back on the boil as CWMA orders K’taka to release 12k cusecs",
-     "deck": "Shivakumar appeals to farmers to keep calm",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-47529300.cms"
-     },
-     "blockType": "feature",
-     "bodyText": "Bengaluru/New Delhi: \nKarnataka\n is under renewed pressure to release Cauvery water to \nTamil Nadu\n, with the Cauvery Water Management Authority (CWMA) on Tuesday directing it to release 12,000 cusecs daily for 15 days from Aug 12, despite weakening rainfall and falling reservoir levels.\nThe directive sparked protests across the Cauvery basin, with farmers planning a major demonstration near the Krishnaraja Sagara (KRS) dam in Mandya on Wednesday and a Karnataka bandh on Thursday.\nReacting to the latest directive, chief minister \nD K Shivakumar\n and water resources minister Ramalinga Reddy said the govt was examining all legal options, including approaching the Supreme Court. They said the govt had a duty to protect farmers while complying with court orders.\nEarlier on Tuesday, the Cauvery Water Regulation Committee (CWRC) recommended that Karnataka release the water. Subsequently, the state’s appeal against the recommendation was rejected by Cauvery Water Management Authority (CWMA), which upheld the CWRC order.\nThe latest order came shortly before TN’s plea in the Supreme Court, alleging wilful disobedience of CWMA’s earlier directive. The plea is scheduled for hearing on Thursday. \nTN has also sought monitoring of Karnataka’s reservoirs every 10 days.\nGaurav Gupta, the additional chief secretary of Karnataka, who attended the CWMA meeting, said: “There are different dimensions to this issue. We will examine all of those comprehensively and then take appropriate action regarding the legal remedy available to us.”\nAsked if Karnataka had been treated unfairly, Gupta added: “Although we said we had been treated unfairly, when there was more rainfall in the Cauvery basin, we were able to manage the situation.”\nOn July 28, CWRC directed Karnataka to ensure a flow of 3,500 cusecs at Biligundlu for 15 days from July 29, a directive later upheld by CWMA.\nKarnataka said it had released about 4.5 tmc ft, exceeding the requirement well before the Aug 12 deadline. TN, though, claimed a cumulative shortfall of 21.3 tmc ft and sought a total release of about 36.4 tmc ft at Biligundlu by the end of the month.\nKarnataka, however, cited low storage in its four Cauvery basin reservoirs, which stood at 77.7 tmc ft — about 47% below the 30-year average. It said it had released 86,942 cusecs until Aug 10, against the prescribed 52,500 cusecs, and argued that future releases should be based on prevailing ground conditions rather than a rigid pro-rata formula.\nQuote\nI am very transparent. No one should engage in protests, politics or publicity. People have given us the power to protect farmers, and we don’t want to cause them problems. Have patience. I will discuss the issue with the water resources minister, officials and legal team.\nD K Shivakumar | CM, Karnataka\nPoints for GFX:STATE WEIGHS LEGAL OPTION\n* K’taka CM D K Shivakumar and water resources minister Ramalinga Reddy says govt examining legal options, including approaching the Supreme Court.\n* TN seeks action against K’taka for alleged wilful disobedience of an earlier CWMA directive; plea scheduled for hearing Thursday\n* Karnataka says storage in its four Cauvery basin reservoirs is 77.7 tmc ft -- about 47% below the 30-year average\n* K’taka farmers plan a major demonstration near KRS dam on Wednesday, followed by a Karnataka bandh on Thursday",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/cauvery-row-back-on-the-boil-as-cwma-orders-ktaka-to-release-12k-cusecs/articleshow/133164946.cms",
-     "pubDate": 808170321.0
-    },
-    {
-     "id": "95b09d46-f43e-4335-9709-ff548da23212",
-     "category": "CITY",
-     "headline": "K’taka wedding feasts may soon come with calorie count",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-47529300.cms"
-     },
-     "blockType": "standard",
-     "bodyText": "Bengaluru: The next time you attend a wedding or social event in the state with a lavish spread, you may find a calorie chart at the entrance. The Food Safety and Drug Administration (FDA) is set to issue an advisory soon, asking caterers to display the calorific content of food items served at events attended by more than 50 diners.\nOfficials said the move is aimed at curbing overeating at large social gatherings.\n“When people attend weddings or large events, dish after dish is served — mutton curry, fish fry, biryani, sambar, rice and one or two sweet dishes as well. By the end of such a meal, a person could consume as many as 5,000 calories at one sitting,” said K Srinivas, the FDA commissioner.\nHe added: “When combined with other meals of the day, the person’s sugar and sodium consumption shoots up. Such consumption over time can lead to high blood pressure and diabetes. When a calorie chart is displayed, people will become more mindful of what they eat and how much.”\nWith the number of cloud kitchens and home chefs growing by the day, FDA is also considering special drives to inspect the safety practices and quality of ingredients used by these setups.",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/ktaka-wedding-feasts-may-soon-come-with-calorie-count/articleshow/133164940.cms",
-     "pubDate": 808170302.0
-    },
-    {
-     "id": "8dff88fe-ef32-43da-9a5e-6d5d6a27a156",
-     "category": "CITY",
-     "headline": "AI, robots, lasers: 10 postgraduate student ideas get Rs 40.7-lakh push",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133164920,imgsize-3672780.cms"
-     },
-     "blockType": "standard",
-     "bodyText": "Bengaluru: From a laser that can kill weeds to a low-cost, portable vaccine storage system, 10 projects by postgraduate students of Visvesvaraya Technological University (VTU) have been selected for financial assistance by Karnataka Innovation and Technology Society (KITS) and Visvesvaraya Research and Innovation Foundation (VRIF).\nThis is under the New Age Innovation Network (NAIN) initiative launched by KITS to encourage student innovation. KITS decided to provide Rs 40.7 lakh to help students transform their prototype ideas into full-fledged projects. Over 50 projects were submitted and a team of professors from the Indian Institute of Information Technology (IIIT), Dharwad, evaluated the proposals.\nTHE PROJECTSAlignFit:\n To provide an affordable, AI-driven health tech solution that offers real-time posture guidance to help elderly users exercise safely and independently at home. Students working on it: Sadiya Nabivale, Prakash Guled, Sareema A Jamakhandi, Jyoti Bhangi, and Sudha Patil.\nVision Mate:\n To provide visually impaired students with real-time, independent access to classroom content through an affordable, AI-powered assistive device. Students: Prakrutha G, Sarvesh Arunkumar, Vinayak KH, Payal Naik, and Laxmi Jatti.\nLaser Weeder:\n Solar-powered, automated system that uses high-precision lasers to eliminate weeds without damaging crops or soil. \nStudents: Deepa Kallagonal, Shalini Gangaraddi, Vishal Patil, Mallikarjun Majati, and Basavaraj Sunkad.\nDiabTrack: Non-invasive blood glucose monitoring device to make the procedure painless, cost-effective and accessible for managing diabetes effortlessly in real time. Students: Yashas R, Harshavardhan Fakire, and Pakkiresh PG.\nCareBot: Autonomous, intelligent robot that supports independent ageing by assisting elderly individuals with daily tasks, monitoring their safety through real-time fall detection, and providing emergency SOS alerts. \nStudents: Sharath BA, Aditya TG, Prajwal R Mashewadi, and Shital R Gouraj.\nVaxiSafe: Low-cost, portable vaccine storage system that maintains the required 2°C–8°C temperature using automated cooling and smart monitoring. Students: Sandeep H, Amol K, Aravind S, Gowtham, and Chaitanya S.\nNurse Ease\n: Smart IV drip monitoring system that aims to improve patient safety and reduce nurse workload in general wards and rural healthcare centres. Students: Siya M, Shilpa, Laxmi, and Suprita.\nDristi: Low-cost, intelligent mobility assistance system for visually impaired people — the project aims to provide affordable, AI-powered smart glasses that serve as a “second pair of eyes” to assist them. Students: Shanthveer BA, Jeevan M, and Ravikumar CU.\nTabdrop:\n Affordable automatic smart pill dispenser that ensures elderly patients never miss a dose and keeps caregivers informed in real time. Students: Shreyansh B, Shreedhakumar Suman, and Rahul Rathod.\nGeoJal Innovations:\n To address groundwater crisis by developing affordable, screen-based filtration system for on-site pre-treatment of surface runoff. And to prevent sediment-induced clogging in recharge structures. Students: Vivek D Patil, Shruti RG, and Omkar Kandur.",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/ai-robots-lasers-10-postgraduate-student-ideas-get-rs-40-7-lakh-push/articleshow/133164922.cms",
-     "pubDate": 808170235.0
-    }
-   ],
-   "briefs": [
-    {
-     "id": "d1e1c36f-a99e-4a24-a413-9b6f72189c50",
-     "category": "CITY",
-     "headline": "Christ varsity VC awarded NCC’s honorary colonel rank",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133164916,imgsize-10084129.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/christ-varsity-vc-awarded-nccs-honorary-colonel-rank/articleshow/133164919.cms",
-     "pubDate": 808170224.0
-    },
-    {
-     "id": "cb527e52-0721-489c-aea8-d298887ed72b",
-     "category": "CITY",
-     "headline": "Labourers’ deaths put spotlight back on construction site safety",
-     "deck": "",
+     "headline": "Karnataka High Court criticises police for asking hospital to produce operation theatre equipment",
+     "deck": "Karnataka High Court criticizes police for overstepping authority in hospital equipment demands during unnatural death investigation.",
      "byline": "The Hindu",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/dcdmum/article71333947.ece/alternates/LANDSCAPE_1200/_JAI3397.JPG"
+      "url": "https://th-i.thgim.com/public/incoming/2ed5we/article71333049.ece/alternates/FREE_1200/IMG_Hospital_2_1_51COEKN4.jpg"
      },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/news/cities/bangalore/labourers-deaths-put-spotlight-back-on-construction-site-safety/article71333507.ece",
-     "pubDate": 808168796.0
+     "blockType": "feature",
+     "bodyText": "Criticising the city police for what it termed as a “patent abuse of process”, the Karnataka High Court has quashed multiple notices issued to a private hospital for production of even operation theatre equipment and summoning several women staff in the absence of any First Information Report (FIR) but acting solely on an Unnatural Death Report (UDR), registered on the information furnished by the hospital itself.\n“The tenor and sweep of these notices are startling. The police seek not merely records or documents but virtually the very machinery and equipment employed in the hospital. Compliance in the manner demanded would have had the inevitable consequence of paralysing the functioning of the hospital itself, thereby affecting not merely the petitioners but countless patients dependent upon the institution for medical care,” the court observed.\nThe court also made it clear that “the criminal investigation, however important, cannot be permitted to assume proportions that disable a functioning healthcare institution from discharging its primary obligation towards society”.\nJustice M. Nagaprasanna passed the order while allowing a petition, filed by a gynaecologist and the private hospital situated at Doddakallasandra on Kanakapura Main Road, challenging the notices issued by the Konanakunte police.\nThe case related to an incident which occurred in the hospital on May 20 when a patient, while undergoing a hysteroscopic polypectomy, suffered a sudden deterioration in pulse and a critical drop in condition during the procedure, prompting immediate resuscitation efforts; owing to the medical emergency, she was immediately shifted to another hospital, where she died.\nThe private hospital, where the surgery conducted, informed the police about the unnatural death on the same day, and the father of the deceased had also lodged a complaint expressing doubt about the cause of the death. The police had registered an UDR under Section 194(3)(iv) of the Bharatiya Nagarik Suraksha Sanhita.\nThe court noted that despite the hospital’s “unqualified cooperation” including providing the complete 36-minute surgical video, hospital’s CCTV footages, patient records, etc., the police issued further demands seeking the physical production of the digital operation theatre equipment and the anaesthesia machine after the hospital expressed inability to produce some data due to constrains in the architecture of an equipment.\nCiting the apex court’s verdicts, Justice Nagaprasanna pointed out that investigation under Section 194 of BNSS is merely to determine whether the death was accidental, suicidal, homicidal or otherwise unnatural and the apparent manner in which such death occurred, and not in the same sense as an investigation into a cognisable offence after registering an FIR.\nWhat Section 194 of BNSS permits is an enquiry; what has been undertaken by the police bears all the trappings of a criminal investigation, usually pressed into service after registering an FIR.\nMeanwhile, the court clarified that its observations and quashing of police notices will not come in the way of proceedings already initiated by the Karnataka Medial Council, the statutory body to examine allegations of professional misconduct and medical negligence.\nPublished - August 11, 2026 07:56 pm IST",
+     "articleURL": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-criticises-police-for-asking-hospital-to-produce-operation-theatre-equipment/article71332640.ece",
+     "pubDate": 808151234.0
     },
     {
-     "id": "e5849b52-5d58-4717-bd3b-89cb2bfa79e5",
+     "id": "5121c7a7-46a8-4e8c-9657-5c81cc09471c",
+     "category": "CITY",
+     "headline": "IBM partners with MIT Bengaluru, CHRIST University to set up AI centres",
+     "deck": "The Lab will provide advanced AI computing resources, research infrastructure, and digital skilling opportunities to students, researchers, and institutions across India",
+     "byline": "The Hindu - Business Line",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://bl-i.thgim.com/public/incoming/3xq00s/article71145755.ece/alternates/LANDSCAPE_1200/2026-05-28T100415Z_1175704075_RC2W7LAAWEN5_RTRMADP_3_IBM-SOFTWARE-OPENSOURCE.JPG"
+     },
+     "blockType": "standard",
+     "bodyText": "IBM has partnered with Manipal Institute of Technology (MIT) Bengaluru and CHRIST (Deemed to be University) to establish AI-focused centres to expand access to advanced computing, enterprise AI technologies, research and skilling.\nManipal Institute of Technology (MIT) Bengaluru, a constituent unit of Manipal Academy of Higher Education (MAHE), Institution of Eminence Deemed-to-be University, today inaugurated the IBM–MIT AI Lab – MAHE Intelligence GPU (MIG) at its Bengaluru campus in collaboration with IBM.\nThe Centre houses a High-Performance Computing (HPC) facility and is designed to democratise access to AI. The Lab will provide advanced AI computing resources, research infrastructure, and digital skilling opportunities to students, researchers, and institutions across India.\nPowered by advanced GPU-enabled computing infrastructure, the AI Lab will support research in machine learning, deep learning, generative AI, computer vision, natural language processing, cybersecurity, healthcare, intelligent systems, and data analytics. The facility can simultaneously support 30 high-performance computing workloads.\nThrough IBM SkillsBuild, IBM’s free technology education program, MIT BLRU will establish an AI Learning Initiative.\nThe programme will offer AI awareness workshops, immersive bootcamps, hands-on training in Artificial Intelligence and Machine Learning, IBM SkillsBuild digital credentials, mentorship from MIT BLRU faculty and student volunteers, and access to advanced computing infrastructure.\nBy reaching students from Tier 2 and Tier 3 institutions, the initiative aims to bridge the digital divide and equip learners with industry-relevant skills for the AI-driven economy.\n“I commend MIT, BLRU and IBM on launching the IBM-MIT AI Lab and their shared commitment to advancing AI education and nurturing future-ready talent. This collaboration highlights the power of academia-industry partnerships in strengthening Karnataka’s AI ecosystem. By providing access to advanced AI infrastructure, hands-on learning, and resources, the lab will empower students and researchers to accelerate innovation and develop AI-driven solutions that address societal challenges and contribute to inclusive growth,” said Priyank Kharge, Cabinet Minister for Home, IT & BT, e-Governance, Government of Karnataka.\nSandip Patel, Managing Director, IBM India and South Asia said, “India stands at a pivotal moment in its AI journey, with the talent, innovation ecosystem, and digital foundations to lead the next wave of global AI innovation. Realising this potential requires stronger collaboration between talent, research, advanced computing, and industry. Our collaboration with MIT BLRU reflects IBM’s commitment to democratizing access to emerging technologies, enterprise-grade computing, and digital skills, empowering students and researchers to advance AI innovation. Together, we are strengthening India’s AI research ecosystem and driving innovations that create meaningful impact for India and the world,”\nMeanwhile, CHRIST (Deemed to be University) and IBM announced the establishment of the IBM Innovation Center for Artificial Intelligence, to advance AI-driven education, research and innovation. The center will provide students, faculty members, researchers and PhD scholars with opportunities to develop and apply AI capabilities through access to enterprise technologies and real-world use cases.\nThe initiative will support learning and experimentation in areas including generative AI, agentic AI, large language models (LLMs), retrieval-augmented generation (RAG), intelligent automation and responsible AI.\nParticipants will have access to IBM technologies to build enterprise AI applications through interdisciplinary research and solution development.\nThese include watsonx.ai, an AI development studio; watsonx Orchestrate, an agentic control plane for scaling and governing AI; and IBM Bob, an AI development partner that supports the full software lifecycle.\nAs part of the collaboration, IBM Expert Labs will conduct hands-on training and enablement programs for faculty members, PhD scholars and postgraduate students to help strengthen expertise in enterprise AI technologies and accelerate the development of AI-driven applications across disciplines.\nThey will also have access to IBM SkillsBuild, IBM’s free technology education program, as part of their learning and certification journey.\n“The way software is built is being fundamentally reshaped by AI. Through this Innovation Center, students and researchers will work with IBM Bob to experience how AI can accelerate every stage of the software lifecycle.\nBy bringing enterprise software development closer to academia, we hope to equip the next generation of innovators to build AI applications that are scalable, trusted, and ready for real-world adoption,” said Vishal Chahal, Vice President, IBM India Software Lab.\nThe center will also support collaborative research, industry engagement, internships, hackathons and innovation challenges, while providing a platform for students and researchers to experiment with emerging AI technologies and contribute to the development of future-ready AI solutions.\nPublished on August 11, 2026",
+     "articleURL": "https://www.thehindubusinessline.com/news/education/ibm-partners-with-mit-bengaluru-christ-university-to-set-up-ai-centres/article71332361.ece",
+     "pubDate": 808151011.0
+    },
+    {
+     "id": "dad71b35-5aac-406a-8399-f5fd678d0569",
      "category": "CITY",
      "headline": "Why is Karnataka govt giving red signal to bike taxis?",
      "deck": "",
@@ -328,94 +282,187 @@
       "type": "remoteImage",
       "url": "https://static.toiimg.com/photo/msid-47529300.cms"
      },
-     "blockType": "brief",
-     "bodyText": "",
+     "blockType": "standard",
+     "bodyText": "State Challenges HC Order, Places Arguments Before \nSupreme Court\nbike taxi\nBengaluru: While commuter frustration mounts over overcrowded public transport and exorbitant fares, Karnataka govt has told Supreme Court that it cannot give permit bike taxis to operate in Bengaluru and other cities.\nChallenging the Karnataka high court order directing authorities to consider applications for contract-carriage permits for motorcycles, the state argued that commercial passenger transport is a regulated activity and that motorcycle owners do not have an inherent right to operate their vehicles as taxis.\nIn its special leave petition (SLP), the state govt contended that HC overlooked the statutory framework governing transport vehicles and substantially curtailed regulatory powers available to the state govt and transport authorities by directing the latter to consider applications for contract-carriage permits for bike taxis.\nIn fact, the state transport dept last week impounded 350 two-wheelers that were operating as bike taxies and warned vehicle owners of stern action including suspension of registration certificates (RCs).\nThe state govt gave the following reasons on why bike taxies won’t be allowed:\nLack of legal clarity and statutory clearances\n: The state maintained that motorcycles lack comprehensive regulatory framework to operate as “passenger transport vehicle”. \nThe absence of such a framework constitutes a valid and exceptional circumstance warranting refusal of permits. In fact, Central Motor Vehicles Rules – 1989, which classify vehicles based on intended use and functional purpose, concisely exclude motorcycles from passenger-carrying vehicle categories. Govt maintained that the mere physical capacity to carry a pillion rider does not, in law, translate into one authorisation or intent to carry passengers.\nSafety issues: The state argued that motorcycles are more vulnerable in accidents and lack some of the safety features available in passenger vehicles such as autorickshaws and cabs. It raised concerns about passenger safety, including that of women. Citing concerns over safety of passengers travelling on two-wheelers, govt referred to accident fatality data cited by a Supreme Court committee. Locally too, there have been cases where bike-taxi operators have not taken responsibilty for things that went wrong for passengers during rides, a transport dept official said, adding: “In one incident reported in Yelahanka, a woman passenger allegedly jumped off a moving motorcycle to escape harassment.“\nCongestion & pollution:\n The state said large-scale bike-taxi operations could add to traffic congestion and pollution. It cited an estimate of 1.4 million tonnes of CO2 emissions that could be avoided annually by restricting such operations.\nInsurance concerns:\n Govt pointed to lack of adequate insurance coverage in the event of a passenger’s death in an accident. Karnataka’s regulatory framework has no mechanism for converting existing white-board motorcycles to yellow board, nor any concept of dual registration. This creates confusion with regard to insurance claims and disbursal, transport dept officials pointed out.\nAlternative livelihood:\n Karnataka maintained that the restriction does not prevent motorcycle owners from earning a livelihood. The state has not imposed a blanket prohibition on use of motorcycles for commercial purposes, rather it has only restricted their use for carrying passengers. It said riders can continue to work in delivery and logistics services for platforms such as Swiggy, Zomato, Amazon and Flipkart, besides courier services and other permitted activities.",
      "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/why-is-karnataka-govt-giving-red-signal-to-bike-taxis/articleshow/133164548.cms",
-     "pubDate": 808167885.0
+     "pubDate": 808148085.0
+    }
+   ],
+   "briefs": [
+    {
+     "id": "d923b71e-bfde-4576-8263-1efab4a8935a",
+     "category": "CITY",
+     "headline": "Zepto Warehouse Sealed In Bengaluru Over Food Safety Violations, Unhygienic Conditions",
+     "deck": "",
+     "byline": "Free Press Journal",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://media.assettype.com/freepressjournal/2026-08-11/o6yo8ngp/Kalesh-39.jpg?w=280"
+     },
+     "blockType": "brief",
+     "bodyText": "A Zepto warehouse in Bengaluru Rural has been sealed after a food safety inspection found what authorities described as “extremely unhygienic” conditions, including organic waste, discarded wrappers and bottles, accumulated dirt and empty cardboard boxes.\nThe Food Safety Division of Karnataka’s Food Safety and Drug Administration Department conducted a special inspection at the quick-commerce company’s facility in Hoskote taluk as part of a drive to check food quality, storage, labelling and handling practices.\nAccording to the department, officials detected several violations during the inspection, including improper labelling, misbranding, unhygienic food handling and inadequate storage conditions. The findings were also described as violations of Food Safety and Standards Authority of India (FSSAI) requirements.\nFollowing the inspection, authorities sealed the warehouse and issued a notice to the facility. They have also recommended that a case be registered against those responsible.\nThe department warned that strict legal action would be taken against food business operators found violating food safety norms and said inspections would continue to ensure consumers receive safe and hygienic food.\nThe action comes amid increased scrutiny of quick-commerce facilities. Earlier this week, Maharashtra FDA suspended the food licence of a Blinkit facility in Mumbai after inspectors reportedly found unhygienic conditions and cockroach infestation.",
+     "articleURL": "https://www.freepressjournal.in/india/zepto-warehouse-sealed-in-bengaluru-over-food-safety-violations-unhygienic-conditions",
+     "pubDate": 808154975.0
     },
     {
-     "id": "246c8b52-ca93-468e-93bc-b526565bdac2",
+     "id": "70be69ff-11ff-4959-938f-5e17c739f033",
+     "category": "CITY",
+     "headline": "Why are Karnataka ministers suddenly visible everywhere? | Powertrip #160",
+     "deck": "As talks about the Delimitation Bill resurfaces, the fact remains that after the women’s reservation bill was defeated in the Lok Sabha in April and the Union government withdrew the delimitation bill, they have not yet tabled the latter in the ongoing Monsoon Session.",
+     "byline": "The News Minute",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://cf-images.assettype.com/thenewsminute/2026-08-11/s07pbno4/pt.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
+     },
+     "blockType": "brief",
+     "bodyText": "Welcome to this week’s Powertrip, a political newsletter curated exclusively for subscribers of The News Minute and Newslaundry. This week’s edition is by Dhanya Rajendran, Pooja Prasanna and Shabbir Ahmed.\nIn this week’s edition, we uncover why ministers and officials in Karnataka suddenly seem to be visible everywhere, especially on social media. It stems from a directive from CM Shivakumar himself.\nThe Delimitation Bill is back in the news, but will the Union government risk tabling it in the ongoing Monsoon Session?\nA couple of high-profile meetings featuring Rajya Sabha MP and Congress leader Praveen Chakravarty have put the TVK government on the back foot.\nPowertrip is a newsletter that senior political reporters of TNM put together every week.\nFor those who can’t access the full newsletter, get a subscription and read every Tuesday.",
+     "articleURL": "https://www.thenewsminute.com/powertrip/why-are-karnataka-ministers-suddenly-visible-everywhere-powertrip-160",
+     "pubDate": 808151351.0
+    },
+    {
+     "id": "063952e6-5432-4eb3-aa72-60a4df725aae",
+     "category": "CITY",
+     "headline": "Bengaluru | Enforcement Directorate files charge sheet in Rs 899 crore bank fraud case",
+     "deck": "The Enforcement Directorate has filed a charge sheet in Bengaluru’s Rs 899 crore bank fraud case involving Deepak Cable (India) Limited. Investigations revealed inflated records, fake transactions, and money laundering. Nine accused named, including ex-MD K Venkateshwara Rao. ED targets 500 chargesheets this fiscal.",
+     "byline": "Deccan Herald",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://media.assettype.com/deccanherald/2026-07-23/pr24qt1l/deccanherald2026-04-0221r4ptcrdeccanheraldimportsitesdhfilesarticleimages20221201ed-pti-1161514-1668183246-1163886-1668869135-1165925-1669457059-1167357-1669876133.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
+     },
+     "blockType": "brief",
+     "bodyText": "The Enforcement Directorate has filed a charge sheet in Bengaluru’s Rs 899 crore bank fraud case involving Deepak Cable (India) Limited. Investigations revealed inflated records, fake transactions, and money laundering. Nine accused named, including ex-MD K Venkateshwara Rao. ED targets 500 chargesheets this fiscal.",
+     "articleURL": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-enforcement-directorate-files-charge-sheet-in-rs-899-crore-bank-fraud-case-4107504",
+     "pubDate": 808151345.0
+    },
+    {
+     "id": "9de950ba-0ef6-4652-8d1c-046ba5fe71b8",
+     "category": "CITY",
+     "headline": "Food safety officials inspect Indira canteen kitchens across Bengaluru",
+     "deck": "After cracking down on several star hotels and high end restaurants in the city, the Food Safety and Drug Administration department on Tuesday inspected the kitchens of Indira canteens here through which the government serves highly subsided food, officials said.",
+     "byline": "Sahilonline | Reflection Of The Truth",
+     "visual": {
+      "type": "remoteImage",
+      "url": "http://sahilonline.org/storage/2026/aug26/rjp-290719-indira1.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "Bengaluru: After cracking down on several star hotels and high end restaurants in the city, the Food Safety and Drug Administration department on Tuesday inspected the kitchens of Indira canteens here through which the government serves highly subsided food, officials said.\nIndira Canteens are the Congress government’s flagship initiatives which were started by former Chief Minister Siddaramaiah during his previous stint from 2013 to 2018.\nAccording to officials, the searches were conducted at Indira Gandhi Canteen kitchens at Gottigere in Bengaluru South and Lingarajapuram in Bengaluru North.\nThe department has been carrying out such drives recently as part of its special food safety inspection in all zones of Bengaluru Urban District and the Greater Bengaluru Area (GBA), covering three-star and five-star hotels, to verify compliance with the provisions of the Food Safety and Standards Act, 2006, and the Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011.\nIn a statement shared with the media on Monday, the department had said that during the operation, a total of 60 three-star and five-star hotels in Bengaluru Urban District were inspected and a total of 77 food samples were collected and forwarded to the food laboratories for analysis.",
+     "articleURL": "https://sahilonline.org/food-safety-officials-inspect-indira-canteen-kitchens-across-bengaluru",
+     "pubDate": 808151327.0
+    },
+    {
+     "id": "f5075af3-1599-4280-af77-04121859c41c",
+     "category": "CITY",
+     "headline": "K’taka: ED searches premises linked to Shivam Associates in Rs 2,110 cr fraud case",
+     "deck": "Belagavi, Aug 11 (IANS) The Directorate of Enforcement (ED), Mangaluru, Karnataka, has conducted search operations at various premises in Belagavi, Chikkodi and Nipani linked to Shivam Associates, Shivananad Siddappa Neelannavar and other associated persons and entities in connection with an alleged investment fraud and money‐laundering case. The searches were conducted on August 7 under the…",
+     "byline": "Thehawk",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://thehawk.sgp1.digitaloceanspaces.com/1340fd1f-9247-46c3-93c5-8ddea9b3c47b/202608113900268-77075fa2-3ada-4e02-b8f9-1921f2159d13.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "Belagavi, Aug 11 (IANS) The Directorate of Enforcement (ED), Mangaluru, Karnataka, has conducted search operations at various premises in Belagavi, Chikkodi and Nipani linked to Shivam Associates, Shivananad Siddappa Neelannavar and other associated persons and entities in connection with an alleged investment fraud and money‑laundering case.\nThe searches were conducted on August 7 under the provisions of the Prevention of Money Laundering Act (PMLA), 2002, the ED said in a press release issued on Tuesday.\nThe ED initiated the investigation based on an FIR registered by Malamaruthi Police Station in Belagavi City under the Banning of Unregulated Deposit Schemes Act, 2019, and the Karnataka Protection of Interest of Depositors in Financial Establishments Act, 2004.\nAccording to the FIR, members of the public were allegedly induced to invest money on the promise of abnormally high and assured returns.\nThe ED’s investigation has found that Shivam Associates and its associated persons and entities allegedly mobilised substantial funds from a large number of investors. Preliminary analysis of bank accounts and other financial records indicated extensive movement of funds through business, personal and intermediary accounts, including transfers to stock brokers, fixed‑deposit accounts, related persons and other beneficiaries.\nThe agency said it had identified a financial nexus among Shivam Associates, Shivananad Siddappa Neelannavar, Subhash Ramagouda Nandaragi, Mahesh S. Neelannavar, Shivam Productions, Shivan Lifeline Pvt. Ltd., Shivam Sevaa (OPC) Pvt. Ltd. and other associated persons and entities.\nAnalysis of bank accounts and financial records allegedly revealed extensive and interconnected movement of funds among these entities.\nThe investigation further revealed that Shivananad Siddappa Neelannavar allegedly lured members of the public by promising a return of three per cent per month on their investments or deposits. The ED said he had accumulated approximately Rs 2,110.97 crore from the public.\nOf this amount, repayments totalling approximately Rs 333.89 crore have been identified during the search operation, according to the agency. Consequently, proceeds of crime amounting to approximately Rs 1,777.08 crore are yet to be traced, the ED said.\nThe agency also found that a commission of 0.5 per cent was allegedly paid to leaders or commission agents who channelled members of the public into making investments.\nDuring the search operations, the ED recovered and seized various incriminating documents and digital evidence relating to the alleged generation, movement, layering and parking of proceeds of crime.\nThe searches also resulted in the recovery of records relating to monetary transactions, diversion and parking of funds, investments in immovable properties and dealings with various persons and entities allegedly associated with the accused.\nThe ED said the material and digital evidence recovered during the searches is being examined and that further investigation is underway.\n--IANS\nmka/dan",
+     "articleURL": "https://www.thehawk.in/news/india/ktaka-ed-searches-premises-linked-to-shivam-associates-in-rs-2110-cr-fraud-case",
+     "pubDate": 808151185.0
+    },
+    {
+     "id": "001875f8-31f1-431a-aa2d-df72ebb415e0",
+     "category": "CITY",
+     "headline": "‘Unhygienic’ Food Storage Found At Zepto Warehouse, Karnataka Govt Seals Facility",
+     "deck": "‘Unhygienic’ Food Storage Found At Zepto Warehouse, Karnataka Govt Seals Facility",
+     "byline": "Abp News",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/11/85ede9b8fb3ede9f9b02cd68ad0e24ba17864581291741316_original.jpg"
+     },
+     "blockType": "brief",
+     "bodyText": "‘Unhygienic’ Food Storage Found At Zepto Warehouse, Karnataka Govt Seals Facility\nKarnataka govt seals a Zepto warehouse in Bengaluru after finding unhygienic food storage and handling, along with labelling violations and misbranding.\n- Warehouse sealed; notice issued, legal action recommended against operators.\nKarnataka’s Food Safety and Drug Administration Department has sealed a Zepto warehouse operated by Nippon Express in Hoskote taluk of Bengaluru Rural district after officials found multiple food safety violations during a special inspection drive on Tuesday. The department said the inspection uncovered non-compliant labelling, misbranding and unhygienic food handling and storage conditions at the facility.\nWarehouse Sealed\nThe inspection was carried out at the Zepto warehouse in Hoskote taluk as part of a special food safety drive conducted under the guidance of Karnataka Health and Family Welfare Ministry.\nOfficials examined the facility’s food products and handling practices, focusing on quality, safety, storage, labelling and compliance with requirements under the Food Safety and Standards Act, 2006.\nDuring the inspection, authorities observed several violations, including non-compliant labelling and misbranding of food products. Officials also found unhygienic conditions linked to food handling and storage.\nThe department said the conditions observed at the warehouse warranted immediate action. The facility was subsequently sealed in accordance with applicable provisions of the Food Safety and Standards Authority of India (FSSAI) framework.\nAlso Read: LPG At Rs 942, But Who Is Paying The Difference? Govt Reveals Rs 59,000 Crore Burden\nNotice Issued\nFollowing the sealing, the department issued a notice to the concerned Zepto warehouse.\nAuthorities have recommended that a case be filed before the relevant Adjudicating Officer, allowing further legal proceedings under applicable food safety laws.\nThe department said strict legal action would be taken against food business operators found violating food safety regulations.\nThe inspection forms part of the Food Safety and Drug Administration Department’s efforts to conduct special checks on food businesses and ensure compliance with safety standards.\nAlso Read: Blinkit Store In Mumbai Shut After FDA Inspection Flags Cockroaches, Expired Food\nZepto Responds\nA Zepto spokesperson said the company fully cooperated with authorities during the routine food safety inspection. The company said it has taken note of the observations and suggestions shared by officials and is taking necessary steps to address them.",
+     "articleURL": "https://news.abplive.com/cities/unhygienic-food-storage-found-at-zepto-warehouse-karnataka-govt-seals-facility-1861573",
+     "pubDate": 808151007.0
+    },
+    {
+     "id": "31a2c19a-aa0d-4cc1-a33d-e9e1aac9f75b",
      "category": "CITY",
      "headline": "We’ll go everywhere there is food, says Karnataka’s FDA commissioner",
-     "deck": "",
+     "deck": "Karnataka's food safety department is extending its inspections to star hotels and large food outlets, previously focused mainly on roadside eateries and darshinis. Recent investigations revealed systemic issues and a lack of awareness among establishments. By regulating food from production to consumption, the department ensures safety. Fines are imposed based on adjudication, while consumers…",
      "byline": "Times of India",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133163889,imgsize-233906.cms"
+      "url": "https://static.toiimg.com/photo/msid-133167745,imgsize-1041675.cms"
      },
      "blockType": "brief",
-     "bodyText": "",
+     "bodyText": "BENGALURU: After years of focusing largely on roadside eateries and darshinis, Karnataka’s food safety department is widening its watch to star hotels and other large establishments.\nFood Safety and Drug Administration (FDA) commissioner Srinivas K tells TOI about the gaps uncovered during inspections, the challenges before the department, its plans for a statewide crackdown, and what lies ahead.\nWhat’s the intention behind intensifying enforcement now? Is it inspired by drives in neighbouring states?\nKarnataka is actually the first state to bring awareness around food safety. When we started, we first highlighted the use of artificial colours in kebabs and pani puris above permissible limits. Maharashtra recently started looking at the issue. It eventually went to Parliament, where it was stated that every state should enforce the provisions under the (Food Safety and Standards) Act.\nSimilarly, we were the first to identify the use of plastic sheets in idli preparation, which resulted in a national advisory from Food Safety and Standards Authority of India. This is the wave Karnataka created.\nWhy did the department turn its attention to star hotels only now?\nInitially, we used to inspect roadside food outlets, darshinis and similar establishments. \nStar hotels had central licences and, if we wanted to inspect them, we had to take officials from the Centre along with us or intimate them. There was staff shortage, so we could not conduct enforcement on such a large scale.\nA few months ago, establishments with a turnover of up to Rs 50 crore were brought under state-level licensing. Health minister UT Khader also directed us to conduct enforcement. That is why we’ve now started inspecting these establishments.\nWhat were the systemic problems uncovered during these raids?\nWe were also shocked by what we found. There’s very little regulatory control, and some staff were not properly educated or aware of the regulations. There are detailed checklists covering fish and fish products, catering, hygiene and health.\nFor instance, chefs should be screened for tuberculosis every six months. They should not have long nails and should not wear watches or rings while handling food. We’ve issued notices and called the hotels for a meeting this week. I doubt even 30% of them know about and follow all these regulations.\nWhat’s the status of hygiene and safety at roadside eateries and 4am biryanis?\nWe don’t discriminate against establishments. We even conducted a raid on 36 food trucks around Vidhana Soudha. The samples came out safe. We also conducted inspections of 4am biryani outlets in Hoskote; the food was found to be of the required standards. I now seriously doubt the quality at star hotels more.\nHowever, the number of people who dine at roadside eateries and darshinis is far higher than those who go to star hotels. Food is a sentiment for the people. They believe it is their choice — whether it is meat, vegetables or anything else. We have inculcated this sentiment for over 2,000 years. We should not play with people’s sentiments or their lives.\nWhat should consumers expect from the department going forward?\nWe’ll go everywhere there is food, cooking or manufacturing. The Act says that the responsibility extends from the producer to the consumer, so we have a role at one point or another. We’ve now also sent protein powders for analysis and will see what the results show. There’s no need for people to panic. We’re regulating food to prevent adulteration, which has grown substantially.\nLast year, Rs 65-70 lakh was collected in fines through adjudication. Ultimately, it is ‘my food, my choice — but be safe’. People can eat outside occasionally, but they should be mindful of what they consume and, if possible, limit eating outside to twice a month.",
      "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/well-go-everywhere-there-is-food-says-karnatakas-fda-commissioner/articleshow/133163890.cms",
-     "pubDate": 808166939.0
+     "pubDate": 808147139.0
     },
     {
-     "id": "c093da70-9aff-44a4-acf3-465c74a1eee4",
+     "id": "bde958fc-7c27-46ed-85e2-1bb703a9e96b",
      "category": "CITY",
-     "headline": "City police arrest suspects in two separate theft cases",
+     "headline": "Karnataka KSET 2026 Registration Begins For Assistant Professor Eligibility Test At kearecruitment.karnataka.gov.in; Exam On October 11",
      "deck": "",
-     "byline": "Times of India",
+     "byline": "Free Press Journal",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-47529300.cms"
+      "url": "https://media.assettype.com/freepressjournal/2026-08-11/hqtv20j7/Screenshot-2026-08-11-175740.png?w=280"
      },
      "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/city-police-arrest-suspects-in-two-separate-theft-cases/articleshow/133163877.cms",
-     "pubDate": 808166909.0
-    },
-    {
-     "id": "2a5152b4-03c2-49cf-8cdc-83ac39c1a248",
-     "category": "CITY",
-     "headline": "Namma Metro hits record 11.2 lakh ridership on Monday",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133163871,imgsize-100541.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://timesofindia.indiatimes.com/city/bengaluru/namma-metro-hits-record-11-2-lakh-ridership-on-monday/articleshow/133163872.cms",
-     "pubDate": 808166897.0
-    },
-    {
-     "id": "f6edf8a2-a813-4b44-b088-ec4e543eaf9c",
-     "category": "CITY",
-     "headline": "‘Saw them being buried under a heap of soil within a matter of seconds‘",
-     "deck": "",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/w9nerh/article71333895.ece/alternates/LANDSCAPE_1200/_JAI3126.JPG"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/news/cities/bangalore/saw-them-being-buried-under-a-heap-of-soil-within-a-matter-of-seconds/article71333157.ece",
-     "pubDate": 808164898.0
-    },
-    {
-     "id": "dd565134-c169-451f-a970-ce1f9324601d",
-     "category": "CITY",
-     "headline": "New Kuvempu theme park inaugurated in HBR Layout",
-     "deck": "",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "none"
-     },
-     "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/news/cities/bangalore/new-kuvempu-theme-park-inaugurated-in-hbr-layout/article71333603.ece",
-     "pubDate": 808164051.0
+     "bodyText": "Karnataka KSET 2026 Registration: The Karnataka Examinations Authority (KEA) has started the online registration process for the Karnataka State Eligibility Test (KSET) 2026, conducted for candidates seeking eligibility for appointment as Assistant Professors in universities and higher educational institutions across Karnataka.\nThe registration window opened on August 10, 2026, and eligible candidates can submit their applications online until September 5. The application fee can be paid until September 6.\nThe KSET 2026 examination will be conducted on October 11, 2026, in offline OMR mode. This year's test will be held for 37 subjects.\nKarnataka KSET 2026 Registration: Important Details\nCandidates should keep the following dates in mind:\nRegistration begins: August 10, 2026\nLast date to submit application: September 5, 2026\nLast date to pay application fee: September 6, 2026\nHall ticket release: October 1, 2026\nKSET 2026 exam: October 11, 2026\nExam timing: 10:00 AM to 1:00 PM\nExam mode: Offline, OMR-based\nNumber of subjects: 37\nKEA has advised candidates not to wait until the final day to complete registration, particularly because the authority will not be responsible for problems faced while applying at the last minute.\nKarnataka KSET 2026 Registration: Who can apply?\nCandidates applying for KSET 2026 must have a Master's degree or an equivalent qualification from a UGC-recognised university or institution.\nThe eligibility requirements are:\nCandidates belonging to the General category must have secured at least 55% marks in their Master's degree or equivalent examination, without rounding off.\nCandidates belonging to SC-A, SC-B, SC-C, ST, OBC categories, PwD and Third Gender must have secured at least 50% marks.\nCandidates who are currently pursuing their postgraduate degree in the final or second year can also apply provisionally.\nSuch candidates must complete their postgraduate qualification within the prescribed period and submit the required marksheets to obtain the KSET eligibility certificate.\nCandidates should generally appear for KSET in the subject of their postgraduate degree.\nCandidates with more than one postgraduate degree can appear for KSET in only one subject.\nThere is no upper age limit for appearing in KSET 2026.\nCandidates who have already qualified in KSET in a particular subject cannot appear again in the same subject.\nCandidates from outside Karnataka can apply under the General category if they satisfy the prescribed academic eligibility. There is no reservation for out-of-state candidates.\nKarnataka KSET 2026 Registration: Application Fee\nThe examination fee has been fixed according to the candidate's category.\nGeneral/II-A/II-B/III-A/III-B and candidates from other states: ₹750\nSC-A/SC-B/SC-C/ST/PwD: ₹500\nFee payment mode: Online only\nLast date for fee payment: September 6, 2026\nKEA has stated that the examination fee, once paid, will not be refunded under any circumstances.\nCandidates claiming reservation must enter details of their valid category certificate, including the required Revenue Department (RD) number wherever applicable.\nKarnataka KSET 2026 Registration: Steps to apply\nEligible candidates can register for the examination online by following these steps:\nStep 1: Visit the official KEA website at cetonline.karnataka.gov.in/kea/\nStep 2: Navigate to the registration link for KSET 2026 on the main page.\nStep 3: Enter personal and contact details as asked.\nStep 4: Input name of the candidate and other details in the same order as that on the SSLC/Class 10 marksheet.\nStep 5: Fill in details of the academic qualification and select the KSET subject.\nStep 6: Select the test center among the options provided.\nStep 7: Upload the scanned photograph of the candidate in the correct format.\nStep 8: Once done, check the application form.\nStep 9: Make payment of the examination fee online.\nStep 10: Submit the application and take printout of the application form.\nIt must be remembered here that the candidate should be very cautious while choosing his subject, reservation category and test center because KEA has made it clear that changes to these details once submitted will not be entertained.\nKarnataka KSET 2026 Registration: Exam Pattern\nThe KSET examination will have two papers, both consisting of multiple-choice questions.\nPaper I: 50 compulsory questions carrying 100 marks\nPaper II: 100 compulsory questions carrying 200 marks\nTotal: 150 questions and 300 marks\nExam duration: Three hours\nTiming: 10:00 AM to 1:00 PM\nMode: OMR-based offline examination\nNegative marking: No negative marking\nPaper I will assess teaching and research aptitude, reasoning ability and general awareness, while Paper II will test candidates in the subject selected during registration.\nCandidates will not be permitted to leave the examination centre before 1 PM.\nKarnataka KSET 2026 Registration: Qualifying Marks\nCandidates appearing in both papers must meet the minimum aggregate marks prescribed by KEA.\nGeneral category: 40% aggregate in Paper I and Paper II\nReserved categories, including SC/ST/OBC/PwD and Third Gender: 35% aggregate\nHowever, merely meeting the minimum marks does not automatically mean that a candidate will qualify for the Assistant Professor eligibility certificate. A subject-wise and category-wise merit list will be prepared according to the applicable UGC and state rules.\nKEA will determine the final qualifying candidates based on the prescribed selection procedure and reservation policy.\nKarnataka KSET 2026 Registration: Examination Centres\nThe examination will be conducted at designated centres across Karnataka. Candidates must select their examination centre while filling out the application form.\nFor certain subjects, candidates will have to select Bengaluru as the examination centre. The authority has also stated that examination centres may be changed for administrative reasons.\nOnce selected, candidates will not ordinarily be permitted to change their examination centre.\nKarnataka KSET 2026 Registration: Hall Ticket, Exam Day Instructions\nThe KSET 2026 hall ticket is scheduled to be released on October 1. KEA will not send a physical admit card to candidates.\nCandidates will have to download it from the official website and report to the examination centre at least two hours before the scheduled examination time, carrying the hall ticket and a valid government-issued photo ID.\nElectronic devices, mobile phones, calculators, watches, books and other prohibited items will not be allowed inside the examination hall. Candidates should read the instructions printed with the hall ticket carefully before appearing for the test.\nCandidates with disabilities who are eligible for additional time will be provided 60 minutes of extra time for the examination, subject to the applicable rules.\nThe KSET 2026 notification also makes it clear that candidature remains provisional until eligibility is verified. Candidates are therefore advised to check all eligibility conditions before submitting their applications.",
+     "articleURL": "https://www.freepressjournal.in/education/karnataka-kset-2026-registration-begins-for-assistant-professor-eligibility-test-at-kearecruitmentkarnatakagovin-exam-on-october-11",
+     "pubDate": 808145195.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "f8d912ed-eb77-45b0-8c61-e2ad6ea75740",
+   "id": "1c882a9b-be5f-46ee-a167-d62f40670b8a",
    "title": "Business",
    "stories": [
     {
-     "id": "73706c03-faa5-4333-a89d-a160b2c2c4cd",
+     "id": "1be016ef-905e-4271-88f6-bda514bd8e57",
+     "category": "BUSINESS",
+     "headline": "Govt to offer sops up to Rs 5,000 for e-2-wheelers till Mar 2028",
+     "deck": "",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167968,imgsize-126816.cms"
+     },
+     "blockType": "hero",
+     "bodyText": "NEW DELHI: Govt has extended incentives for electric two-wheelers under the PM E-DRIVE scheme till March 31, 2028, while also working on a financing support mechanism to bring down borrowing costs for electric buses and trucks, as it looks to accelerate EV adoption across vehicle segments.\nA ministry of heavy industries (MHI) official said govt is discussing with banks and vehicle manufacturers an interest-subvention mechanism and credit guarantee for electric trucks that could help bridge the roughly 3-4 percentage-point financing-cost gap between electric and diesel trucks. Lenders typically price loans for electric trucks higher because of uncertainty around battery life and resale value, said officials.\nBringing down financing costs is seen as important for electrifying the segment, given MHI’s estimate that heavy trucks account for only about 3% of vehicles but contribute 42% of vehicular pollution and consume around 60% of diesel. The move comes as govt has extended the broader PM E-DRIVE scheme until March 31, 2028, providing a longer subsidy runway for electric two-wheelers. Under the revised scheme, registered electric two-wheelers will continue to receive an incentive of Rs 2,500 per kwh, capped at Rs 5,000 per vehicle, according to the ministry.\n The subsidy will also be limited to 15% of the vehicle’s ex-factory price, whichever is lower.\nGovt has set a target of supporting up to 45.8 lakh electric two-wheelers, with Rs 2,767 crore earmarked for the segment. Vehicles with an ex-factory price of up to Rs 1.5 lakh will qualify. The broader PM E-DRIVE scheme has an outlay of Rs 11,900 crore and supports EV purchases, charging infrastructure and the domestic EV manufacturing ecosystem’s development.",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/govt-to-offer-sops-up-to-rs-5000-for-e-2-wheelers-till-mar-2028/articleshow/133167951.cms",
+     "pubDate": 808173392.0
+    },
+    {
+     "id": "ce827561-5c82-4f9e-b1ed-a2385d9aa46e",
+     "category": "BUSINESS",
+     "headline": "Equity mutual fund inflows plunge 42% to Rs 25,000 crore",
+     "deck": "",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167903,imgsize-100780.cms"
+     },
+     "blockType": "feature",
+     "bodyText": "NEW DELHI: Equity mutual fund inflows fell 42% year-on-year to Rs 24,697 crore in July, as investors turned more selective amid concerns over valuations and muted equity returns, though sustained SIP contributions continued to provide strong support to the segment.\nDespite the decline, equity-oriented schemes recorded their 65th consecutive month of positive inflows in July, according to data released by industry body Amfi on Tuesday.\nAmong equity categories, small cap funds led the inflows, attracting Rs 7,768 crore in July\nHowever, the inflow was sharply lower than Rs 28,973 crore in June and Rs 42,702 crore in July last year. The moderation comes despite continued retail participation, with monthly systematic investment plan (SIP) contributions rising marginally to Rs 31,961 crore in July, from Rs 31,781 crore in June. The data points to a more cautious approach among investors, with money continuing to enter equities but at a slower pace and with greater selectivity.\n“The moderation in equity mutual fund inflows reflects a degree of selectivity rather than a loss of investor confidence in equities. It also highlights ongoing portfolio rebalancing amid evolving valuations, with investors favouring segments that offer stronger long-term return potential while remaining mindful of associated risks,” said Ankur Punj, MD & business head, Equirus Wealth.\nAkhil Chaturvedi, ED & chief business officer, Motilal Oswal AMC, said the cautious stance towards equity-oriented MFs was partly due to lower returns over the past two years.\nAmong equity categories, small cap funds led the inflows, attracting Rs 7,768 crore in July, followed by mid cap funds with Rs 6,192 crore and flexicap funds with Rs 4,710 crore. Large cap funds received Rs 1,322 crore during the month.\nThe broader industry, however, witnessed a turnaround in July, recording a net inflow of a little under Rs 2.4 lakh crore, compared with a net outflow of Rs 52,949 crore in June. The reversal was driven by debt-oriented schemes, which attracted around Rs 1.9 lakh crore in July, reversing the Rs 1.1 lakh crore outflow recorded in June. Liquid funds emerged as the biggest beneficiaries, garnering net inflows of Rs 1.2 lakh crore, followed by overnight funds at Rs 40,413 crore and money market funds at Rs 21,180 crore.\n“The sharp reversal in debt flows was led by strong inflows into liquid, overnight and money market funds, even as longer-duration categories remained under pressure. This suggests that investors continue to value liquidity and flexibility in their debt portfolios rather than making a broad-based shift towards taking duration risk,” said Varun Gupta, CEO, Groww Mutual Fund.\nThe industry’s assets under management rose 4.3% month-on-month to just under Rs 85.8 lakh crore at the end of July. Amfi CEO Venkat Chalasani said the increase was largely driven by higher market value and sustained buying by domestic institutions. Agencies",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/equity-mutual-fund-inflows-plunge-42-to-rs-25000-crore/articleshow/133167903.cms",
+     "pubDate": 808173127.0
+    },
+    {
+     "id": "ba901cab-2f57-43c6-b5e7-61f9fbb9dcdc",
+     "category": "BUSINESS",
+     "headline": "As AI threats loomed, UPI platforms flagged rising security costs",
+     "deck": "",
+     "byline": "Indian Express",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://images.indianexpress.com/2026/08/upi-1_20260812013906.jpg"
+     },
+     "blockType": "feature",
+     "bodyText": "As AI threats loomed, UPI platforms flagged rising security costs\nThe security-related infrastructure costs for UPI are about 10-20 paisa per transaction\nCompanies operating UPI platforms are understood to have told the government in private meetings that the cost of securing the payments network is rising sharply, with emerging artificial intelligence (AI) systems adding a new layer of risk to fraud prevention and cybersecurity.\nThe firms are understood to have specifically flagged threats posed by Anthropic’s Mythos Preview, arguing that defending payment systems against increasingly capable AI tools will require greater investment, a concern they have cited as part of their broader pitch for allowing a merchant discount rate (MDR) on UPI transactions.",
+     "articleURL": "https://indianexpress.com/article/business/ai-threats-upi-platforms-rising-security-costs-10829005/",
+     "pubDate": 808171865.0
+    },
+    {
+     "id": "759d9c11-37bd-4a35-abd6-17204714af63",
      "category": "BUSINESS",
      "headline": "State Bank of India returns to dollar debt market, bankers see strong demand",
      "deck": "",
@@ -424,201 +471,216 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/4krjlu/article71333754.ece/alternates/LANDSCAPE_1200/2026-08-11T030106Z_136731922_RC2XG0ANW3SA_RTRMADP_3_INDIA-DOLLAR-DEBT-SBI.JPG"
      },
-     "blockType": "hero",
+     "blockType": "standard",
      "bodyText": "State Bank of India, the country’s largest lender, is returning to the public dollar bond market after nearly a year and is expected to see strong demand for its planned five-year issue, three merchant bankers said on Tuesday (August 11, 2026).\nThe bonds will be issued through SBI’s London branch, with initial price guidance set at roughly 120 basis points over U.S. Treasuries.\nThe issue comes at a time when Indian banks are making a beeline for dollar issues after the Reserve Bank of India in June a opened a swap facility, making overseas borrowing cheaper.\nSBI is expected to raise at least $500 million, although the final size will depend on investor demand.\nThe lender has begun marketing the bonds and is expected to complete the sale by the end of the week, the bankers said, declining to be identified as they were not authorised to speak to the media.\nSBI did not immediately respond to a Reuters email seeking comment.\nOne banker said SBI was offering a sizeable spread premium, although final pricing could tighten by as much as 30 basis points. The banker also expected the deal size to reach $1 billion or more.\nFitch Ratings has assigned an expected BBB- rating to the proposed senior unsecured notes.\nThe notes will be direct, unsecured and unsubordinated obligations of SBI, ranking equally with its other unsecured and unsubordinated debt, the rating agency said.\nSBI had planned to raise $1 billion through a public dollar bond issue in June, but deferred the sale due to higher borrowing costs following heavy issuance by Indian lenders.\nThe bank subsequently raised $600 million through a private placement of three-year dollar bonds at a spread of 100 basis points over the Secured Overnight Financing Rate (SOFR).\nLarge private lenders, including HDFC Bank, Axis Bank and ICICI Bank, raised funds through dollar bonds in June and July.\nPublished - August 11, 2026 10:26 pm IST",
      "articleURL": "https://www.thehindu.com/business/Economy/state-bank-of-india-returns-to-dollar-debt-market-bankers-see-strong-demand/article71333738.ece",
-     "pubDate": 808160208.0
-    },
-    {
-     "id": "cf7ab965-c53f-45f6-8d92-33a38dbb2cf9",
-     "category": "BUSINESS",
-     "headline": "Fitch retains India's BBB- rating on robust growth outlook, flags fiscal risks from youth protests",
-     "deck": "India's rating has remained unchanged at 'BBB-', the lowest investment grade, since 2006.",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/a52jzi/article71333672.ece/alternates/LANDSCAPE_1200/2026-08-11T084722Z_1266351438_RC2YJCAC7H3Y_RTRMADP_3_INDIA-RATINGS-FITCH.JPG"
-     },
-     "blockType": "feature",
-     "bodyText": "Fitch Ratings on Tuesday (August 11, 2026) retained India's sovereign credit rating at 'BBB-' for the 20th year in a row, but flagged risks of pressure on fiscal spending amid youth protest over jobs.\nFitch said despite headwinds from the energy shock due to the West Asia conflict, India's economy remains strong with robust growth outlook and solid external finance fundamentals.\nThe ratings agency forecast a 6.4% GDP growth in the current fiscal year. The growth is, however, slower than the average 7.4% growth clocked over the past three years.\n\"Fitch Ratings has affirmed India's Long-Term Issuer Default Ratings (IDRs) at BBB- with a stable outlook,\" Fitch said in its rating action.\nIndia's rating has remained unchanged at 'BBB-', the lowest investment grade, since 2006.\nFitch said the gains of Bharatiya Janata Party (BJP) in State-level elections would support implementation of policy priorities at the Centre.\nFitch, however, cautioned that the recent youth protests could put pressure on the government to hike spending on education-related measures, generation of jobs, including skill development.\n\"Recent protests, stemming from leaked medical exams, may point to rising concerns among youth over employment opportunities, risking fiscal spending pressures over time,\" Fitch said.\nLast month, students had staged a massive protest in the capital over paper leak in medical entrance exam NEET and demanded transparency in competitive exams. The protests and the subsequent police action on students have been raised by the Opposition in Parliament, disrupting its proceedings in the ongoing monsoon session.\nFitch said India's economy has been resilient to shocks in recent years, a trend it expects to continue.\n\"There are residual risks from uncertainty related to the U.S.-Iran conflict, given India's position as large net energy importer position, but we do not expect a durable risk to growth prospects,\" Fitch said.\nIndia imports 87% of its crude requirement, of which 46% transits through or near the Strait of Hormuz, which is blocked on account of the US-Iran war which began on February 28.\nFitch said India's rating reflects its robust growth outlook and solid external finance fundamentals.\nA strengthening record of delivering macroeconomic stability and improving policy credibility should underpin continued robust growth and enhance economic resilience, despite near-term macroeconomic headwinds from the energy shock.\nHigh growth should also support a sustained improvement in structural credit metrics and increase the likelihood that government debt will trend down, Fitch said.\nIn the FY27 Budget, the government estimated the debt-to-GDP ratio at 55.6% of GDP, lower than 56.1% of GDP in FY26.\nThe government has set a target to bring down its debt-to-GDP ratio to 50% by March 2031.\nFitch estimates India's medium potential GDP growth of 6.4%, led by public capex, a private investment pick-up and favourable demographics.\nIt said India's external finances remain solid, with a low current account deficit (CAD), net external creditor position and still high forex reserves. Fitch forecast a slight widening of the CAD to 1.4% of GDP in FY27 from 0.6% in FY26, from the energy shock.\nFitch forecast reserves of $733 billion (7.4 months of external payments) by FY27 end. Capital outflows picked up in the June quarter of FY27, amid already subdued FDI and portfolio flows, but have reversed following the recent RBI and government measures.\nPublished - August 11, 2026 10:01 pm IST",
-     "articleURL": "https://www.thehindu.com/business/Economy/fitch-retains-indias-bbb-rating-on-robust-growth-outlook-flags-fiscal-risks-from-youth-protests/article71333641.ece",
-     "pubDate": 808158673.0
-    },
-    {
-     "id": "3b6a4e86-5ddd-46f0-b081-b28cee60daaf",
-     "category": "BUSINESS",
-     "headline": "India’s LPG dependence on U.S. | Explained",
-     "deck": "India’s reliance on the U.S. for two-thirds of its LPG assumes significance, signalling prudent diversification of sources amid the crisis in the narrow Strait of Hormuz, which suggests that the country’s LPG security cannot be anchored to a single geography",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/ucmdc7/article71331083.ece/alternates/LANDSCAPE_1200/2026-03-27T161753Z_1283682783_RC2B2KAL76JZ_RTRMADP_3_USA-ECONOMY.JPG"
-     },
-     "blockType": "feature",
-     "bodyText": "The Minister of Petroleum and Natural Gas, Mr Hardeep Singh Puri, said last week that 67% of India’s liquefied petroleum gas (LPG) came from the U.S.\nAlthough he didn’t mention the timeframe for when energy-hungry India “achieved” this, it is clearly a drastic shift from an earlier government decision to source about 10% of cooking gas from the U.S.\nPublished - August 11, 2026 10:31 am IST",
-     "articleURL": "https://www.thehindu.com/business/Economy/indias-lpg-dependence-on-the-us-explained/article71331052.ece",
-     "pubDate": 808158173.0
-    },
-    {
-     "id": "f0c76b11-8d91-4cc4-b65a-ebdca1da9c8d",
-     "category": "BUSINESS",
-     "headline": "Net direct tax collection grows 23% to ₹8.11 lakh cr on slower refunds, higher non-corp taxes",
-     "deck": "Refund issuances, however, slowed during the year with a meagre 3.8% year-on-year growth to ₹1.43 lakh crore.",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/f4nvta/article71333620.ece/alternates/LANDSCAPE_1200/iStock-1420789678.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "The net direct tax collection grew 23% to over ₹8.11 lakh crore till August 10 in the current fiscal, on slower refunds and higher mop-up from non-corporate taxes.\nThe net corporate tax collection rose about 20% to about ₹2.70 lakh crore, while non-corporate tax (which includes personal income tax) mop-up rose 23% to ₹5.07 lakh crore. Revenues from Securities Transaction Tax (STT) jumped 51% to ₹33,824 crore between April 1 and August 10.\nRefund issuances, however, slowed during the year with a meagre 3.8% year-on-year growth to ₹1.43 lakh crore.\nGross direct tax collection (which includes corporate, personal income tax and STT) recorded 19.75% growth till August 10 to about ₹9.55 lakh crore.\nOn a gross basis, corporate tax collection stood at over ₹3.80 lakh crore, non-corporate tax revenues were ₹5.40 lakh crore, and STT was ₹33,824 crore.\nDeloitte India partner, Rohinton Sidhwa, said the tax collection shows strong growth in gross non-corporate taxes and STT collections, and a slowdown in refunds, which is leading to 23% growth in net collections.\n\"It is expected, however, that the pace of refunds will increase over the next few months. However, gross corporate tax collections, on the other hand, are growing at a more modest 14%,\" Mr. Sidhwa said.\nPublished - August 11, 2026 09:51 pm IST",
-     "articleURL": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-grows-23-to-811-lakh-cr-on-slower-refunds-higher-non-corp-taxes/article71333567.ece",
-     "pubDate": 808158124.0
-    },
-    {
-     "id": "79fbea26-2a55-4403-b541-6b7442abe1e7",
-     "category": "BUSINESS",
-     "headline": "Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong",
-     "deck": "",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133160009,imgsize-12340.cms"
-     },
-     "blockType": "standard",
-     "bodyText": "Equity mutual fund investments slowed in July as concerns over valuations and subdued equity returns made investors more selective. Inflows into equity-oriented schemes fell 15 per cent from the previous month to Rs 24,697 crore, according to data released by industry body Amfi on Tuesday.\nThe decline, however, did not mark a break in the sustained flow of money into equity mutual funds. July was the 65th consecutive month in which equity-oriented schemes registered positive inflows.\nAt Rs 24,697 crore, July's inflow was lower than the Rs 28,973 crore recorded in June and significantly below the Rs 42,702 crore seen in July last year.\nSIP contributions, meanwhile, remained resilient. Monthly SIP inflows increased marginally to Rs 31,961 crore in July from Rs 31,781 crore in June. Contributions through the route have stayed above Rs 31,000 crore for five consecutive months.\n\"The moderation in equity mutual fund inflows reflects a degree of selectivity rather than a loss of investor confidence in equities. It also highlights ongoing portfolio rebalancing amid evolving valuations, with investors favouring segments that offer stronger long-term return potential while remaining mindful of associated risks,\" said Ankur Punj, MD & Business Head, Equirus Wealth.\nAkhil Chaturvedi, Executive Director and Chief Business Officer, Motilal Oswal Asset Management Company, said investors' cautious approach towards equity-oriented mutual funds was partly linked to lower returns over the past two years.\nSmallcap funds attracted the highest investment among equity categories in July, with inflows of Rs 7,768 crore. Midcap funds received Rs 6,192 crore, while flexicap funds garnered Rs 4,710 crore. Largecap funds saw inflows of Rs 1,322 crore.\n\"July's mutual fund flow data is broadly in line with expectations, with investor interest in diversified equity categories remaining steady,\" said Santosh Joseph, CEO, Germinate Investor Services.\nDebt funds lift overall mutual fund flows\nWhile equity fund inflows moderated, the mutual fund industry as a whole saw a strong reversal in July. The industry recorded a net inflow of around Rs 2.36 lakh crore during the month, compared with an outflow of Rs 52,949 crore in June.\nDebt-oriented schemes accounted for much of the turnaround, moving from an outflow of Rs 1.09 lakh crore in June to an inflow of around Rs 1.88 lakh crore in July.\nLiquid funds led the debt category with net inflows of Rs 1,19,066 crore. Overnight funds attracted Rs 40,413 crore, while money market funds saw inflows of Rs 21,180 crore.\n\"The sharp reversal in debt flows was led by strong inflows into liquid, overnight and money market funds, even as longer-duration categories remained under pressure. This suggests that investors continue to value liquidity and flexibility in their debt portfolios rather than making a broad-based shift towards taking duration risk,\" said Varun Gupta, CEO, Groww Mutual Fund.\nThe industry's assets under management also increased during the month. AUM rose 4.3 per cent month-on-month to Rs 85.76 lakh crore at the end of July, compared with Rs 82.22 lakh crore at the end of June.\n\"The Indian MF industry's AUM grew 4.3 per cent month-on-month to reach Rs 85.76 lakh crore in July. The increase was largely driven by higher market value and sustained buying by DIIs,\" said Venkat Chalasani, Chief Executive, Amfi.\nGold ETF inflows ease\nGold ETFs continued to draw investments in July, although the pace of inflows slowed from the previous month. The category recorded net inflows of Rs 1,559 crore, down from Rs 3,443 crore in June.\n\"The moderation in flows compared with June may partly reflect some degree of profit-booking following gold's strong price appreciation and the robust inflows witnessed during the first half of the year,\" said Himanshu Srivastava, Principal, Manager Research, Morningstar Investment Research India.",
-     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/equity-mf-inflows-fall-15-in-july-as-investors-turn-cautious-sips-stay-strong/articleshow/133159979.cms",
-     "pubDate": 808157560.0
+     "pubDate": 808140408.0
     }
    ],
    "briefs": [
     {
-     "id": "502de538-1204-46be-9f85-03efb7f52519",
+     "id": "9858bfcc-5197-4fb8-bae1-4fc705a975a3",
      "category": "BUSINESS",
-     "headline": "Mutual fund investors rejig portfolios, favour select debt funds over equities in July 2026",
-     "deck": "The road for equity mutual fund schemes has been bumpy since the start of 2026, with net inflows declining in four of the first seven months",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/l7pz94/article71332064.ece/alternates/LANDSCAPE_1200/hand-adding-coins-stack-covered-dirt-plants.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "The road for equity mutual fund schemes has been bumpy since the start of 2026, with net inflows declining in four of the first seven months",
-     "articleURL": "https://www.thehindu.com/business/markets/equity-mf-inflows-fall-15-to-24697-crore-in-july/article71332050.ece",
-     "pubDate": 808157413.0
-    },
-    {
-     "id": "72353038-b327-4cf8-86ff-cc2b2a9cb723",
-     "category": "BUSINESS",
-     "headline": "Government approves introduction of one billion polymer banknotes of ₹10 and ₹20",
-     "deck": "The RBI has informed that the procurement process is presently at an initial stage, she said",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/91ojq4/article71333531.ece/alternates/LANDSCAPE_1200/iStock-1195626125.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "The RBI has informed that the procurement process is presently at an initial stage, she said",
-     "articleURL": "https://www.thehindu.com/business/Economy/government-approves-introduction-of-one-billion-polymer-banknotes-of-10-and-20/article71333495.ece",
-     "pubDate": 808157225.0
-    },
-    {
-     "id": "a620b9c6-8688-464b-bf0a-9572f9b6f8d5",
-     "category": "BUSINESS",
-     "headline": "Fitch retains India’s credit rating at BBB-, sees strong economy; warns of fiscal risks due to protests",
-     "deck": "The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals.",
+     "headline": "Next wave of AI-led banking must help rural India, says Setty",
+     "deck": "",
      "byline": "Times of India",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133159666,imgsize-727207.cms"
+      "url": "https://static.toiimg.com/photo/msid-133167890,imgsize-88832.cms"
      },
      "blockType": "brief",
-     "bodyText": "The ratings agency said the Indian economy continues to demonstrate resilience despite the energy shock arising from the conflict in West Asia, supported by a strong growth outlook and sound external financing fundamentals.",
-     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/fitch-retains-indias-credit-rating-at-bbb-sees-strong-economy-warns-of-fiscal-risks-due-to-protests/articleshow/133159371.cms",
-     "pubDate": 808156794.0
+     "bodyText": "MUMBAI: Artificial intelligence could help banks expand credit to rural India, small businesses and farmers while improving risk assessment and productivity, SBI chairman CS Setty said at FIBAC 2026, but banks will have to strengthen cyber defences, governance and human oversight as they expand the use of the technology.\nSetty said the next phase of AI-led banking should move beyond retail banking and customers with established financial histories. “The next wave of AI-led banking must take us deeper into the economy—to rural India, small businesses, and customers whose financial histories may not fit conventional models,” he said.\nAccording to Setty, “AI can support better farm-level decisions, while data-driven risk assessment, digital records, and satellite imagery can help banks improve credit access and portfolio management.” He said adoption of such technology was already taking place in farm lending. The larger challenge is to move AI applications from pilots to wider use.",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/next-wave-of-ai-led-banking-must-help-rural-india-says-setty/articleshow/133167862.cms",
+     "pubDate": 808172804.0
     },
     {
-     "id": "009d4787-5aa2-41b5-ad9f-0fb9d58c2bf7",
+     "id": "9af9a4e1-a282-4de4-be9b-a7e5b5880661",
      "category": "BUSINESS",
-     "headline": "Main risk of AI is erosion of human judgment: RBI Governor",
-     "deck": "“The responsibility for a bank’s decisions rests with the bank, not with its algorithm.”",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/xct32i/article71333506.ece/alternates/LANDSCAPE_1200/20260811316L.jpg"
-     },
-     "blockType": "brief",
-     "bodyText": "“The responsibility for a bank’s decisions rests with the bank, not with its algorithm.”",
-     "articleURL": "https://www.thehindu.com/business/main-risk-of-ai-is-erosion-of-human-judgment-rbi-governor/article71333254.ece",
-     "pubDate": 808156722.0
-    },
-    {
-     "id": "30e32ca6-4966-4032-bbb5-ff7300b813c3",
-     "category": "BUSINESS",
-     "headline": "Direct tax collections rise sharply to Rs 8.11 lakh crore; non-corporate taxes lead",
-     "deck": "India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections and Securities Transaction Tax experienced notable year-on-year growth. Nevertheless…",
+     "headline": "AI can do to lending, what UPI did to payments: RBI governor Sanjay Malhotra",
+     "deck": "",
      "byline": "Times of India",
      "visual": {
       "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133159034,imgsize-83198.cms"
+      "url": "https://static.toiimg.com/photo/msid-133167854,imgsize-79656.cms"
      },
      "blockType": "brief",
-     "bodyText": "India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections and Securities Transaction Tax experienced notable year-on-year growth. Nevertheless…",
-     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/direct-tax-collections-rise-sharply-to-rs-8-11-lakh-crore-non-corporate-taxes-lead/articleshow/133158822.cms",
-     "pubDate": 808154959.0
+     "bodyText": "MUMBAI: RBI governor Sanjay Malhotra said AI could do to lending decisions what UPI did to payments and urged banks not to sit on the sidelines as India is well-placed to adopt the technology because of its public digital infrastructure and regulatory supervision. His comments at FIBAC 2026 came at a time when the share of credit to GDP remains modest even as bank books are at their healthiest.\nMalhotra said RBI is putting in place a Digital Payments Intelligence Platform that will augment India’s digital infrastructure, including Aadhaar, UPI, DigiLocker, ONDC, the Unified Lending Interface and Account Aggregator, giving banks a stronger base to use AI across lending and other financial services.\n“We in India stand at a unique vantage point to leverage AI. We have the most advanced public digital infrastructure, whether it is Aadhaar, the UPI, DigiLocker, ONDC, we are trying to build and improve and expand the Unified Lending Interface, the Account Aggregator,” he said. Citing a BCG report, Malhotra said there is scope to bring down the operational cost-to-income ratio from 47-49% with the help of AI.\nAI could widen the pool of borrowers by allowing banks to use data beyond conventional financial histories. \nAccording to Malhotra, “AI models on alternative data, which we have a lot now—cash flows, GST filings, utility payment bills, digital platforms—they can all extend the frontier of bankable India considerably.” This could be particularly relevant for new-to-credit borrowers, gig workers and underserved sections that lack formal financial records. “Traditional underwriting relies on financial history, precisely the data that is thin or absent for new-to-credit borrowers, for the gig workers, or those underserved sections of our society because they do not have formal books,” he said.\nAt the same time, Malhotra said the explainability of decisions and human accountability were prerequisites.",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/ai-can-do-to-lending-what-upi-did-to-payments-rbi-governor-sanjay-malhotra/articleshow/133167845.cms",
+     "pubDate": 808172615.0
     },
     {
-     "id": "01537525-e63c-49b3-96e2-0c4c98aec84a",
+     "id": "e6ae990d-838b-42f2-b2f2-6c86b00cc44c",
      "category": "BUSINESS",
-     "headline": "MRF Q1 profit drops 1.3% on input costs",
-     "deck": "Company says revenue rose 9.7% on robust OE and replacement demand but Middle East-linked raw material costs squeezed margins",
-     "byline": "The Hindu",
+     "headline": "Retail investors’ losses in F&O segment drop",
+     "deck": "",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167790,imgsize-74048.cms"
+     },
+     "blockType": "brief",
+     "bodyText": "MUMBAI: New rules introduced by markets regulator Sebi to curtail excessive speculation and trading in the futures & options (F&O) segment have reduced aggregate losses incurred by retail investors during fiscal 2025-26, but per-investor loss has increased a bit, Parliament was informed on Tuesday.\nStarting Nov 2024, Sebi had made several changes to the trading rules for F&O, including increasing margins and contract sizes. Those changes curtailed aggregate losses incurred by retail investors in the equity F&O segment to Rs 91,685 crore in FY26, down from about Rs 1.1 lakh crore in FY25. However, average per-person loss jumped marginally to Rs 1.2 lakh in FY26, from Rs 1.1 lakh the previous year.\nHowever,average per-person loss jumped marginally to Rs 1.2 lakhin FY26, from Rs 1.1 lakh theprevious year\nThe detailed reply in Rajya Sabha by Pankaj Chaudhary, junior minister for finance, showed that both the number of retail investors in the segment and overall trading turnover fell in FY26. While there were 98.1 lakh retail traders in the equity F&O segment in FY25, in FY26 that number fell to 78.6 lakh. Also, trading volumes in the F&O segment assigned to retail investors fell from Rs 213 lakh crore in FY25 to Rs 202 lakh crore in FY26, the written reply by the minister showed.\n“Following the regulatory measures, Sebi has observed a year-on-year decline in the number of unique individual investors from 98.1 lakh to 78.6 lakh and net losses of the individuals from Rs 1,11,788 crore to Rs 91,685 crore in the equity derivatives segment in 2025-26, compared to the previous year,” the minister said.\nIn his reply, the minister also listed the measures taken by Sebi since Nov 2024 that led to this decline in losses incurred by retail investors, trading volumes and the number of traders in the equity F&O segment.\nThe measures included rationalisation of weekly index derivatives products, increase in tail risk coverage on the day of options expiry, higher contract size for index derivatives and rationalisation of monthly index derivative products.",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/retail-investors-losses-in-fo-segment-drop/articleshow/133167769.cms",
+     "pubDate": 808172013.0
+    },
+    {
+     "id": "f0291b3f-2bd6-43ae-8b98-ee6ca0eb3778",
+     "category": "BUSINESS",
+     "headline": "4G phones get a lifeline as entry-level 5G prices rise",
+     "deck": "",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167730,imgsize-83160.cms"
+     },
+     "blockType": "brief",
+     "bodyText": "NEW DELHI: India’s cheapest smartphones are disappearing fast. Rising component costs have made sub-$100 (around Rs 9,000) devices increasingly unviable for manufacturers, while giving older 4G technology an unexpected lifeline as brands look for ways to keep phones affordable for budget buyers.\nShipments of smartphones priced below $100 plunged 74.3% year-on-year during the April-June quarter, according to IDC. The segment’s share of India’s smartphone market shrank to just 4.5% from 15.6% a year earlier, marking a sharp erosion of the traditional entry-level market.\nThe downturn has also hit Chinese smartphone brands particularly hard\nOverall smartphone shipments declined 11.1% to 33.2 million units. However, average selling prices (ASP) climbed 14.4% to a record $315 (around Rs 28,400), as higher memory and component costs filtered through product line-ups. Vendors also reduced discounts to protect margins, while the sharp contraction of entry-level shipments and growing sales of premium devices pushed the market’s overall price mix upwards.\nThe affordability squeeze is pushing buyers further up the price ladder. While the sub-$100 segment collapsed, the $100-200 (around Rs 9,000-18,000) category accounted for 46.8% of shipments and remained broadly flat. The $400-600 (around Rs 36,000-54,000) segment grew 60.3% year-on-year, with its share nearly doubling to 8.6% from 4.8%.\n“Q2 2026 saw average selling prices climb 14.4% year over year to a record $315, with memory driven cost pressure showing up across the product lineup,” said Aditya Rampal, senior research analyst, devices research, IDC Asia Pacific.\nThe same cost pressure is also changing the 4G-5G mix. As entry-level 5G smartphones became more expensive, several brands reintroduced or extended 4G models to retain buyers at the lower end. This lifted 4G’s share of smartphone shipments to 11.1% during the quarter.\nIDC, however, sees this as a supply-led stopgap rather than a reversal of India’s migration towards 5G. Once existing 4G inventory runs out, consumers at the bottom end could have little choice but to move to more expensive 5G devices.\nThe downturn has also hit Chinese smartphone brands particularly hard. Market leader Vivo’s shipments fell 13.9%, while Xiaomi declined 10%, Oppo 8.5% and Realme 14.2%. Poco fell 12.3%, while iQoo shipments plunged 61%.\nThe pressure could intensify in the second half as brands exhaust lower-cost component inventory and head into the festive season with less room for discounts.\n“Demand hasn’t gone away, people are simply waiting longer to buy and those planning an upgrade may want to move sooner rather than later, before prices go up further,” said Upasana Joshi, senior research manager, devices research, IDC Asia/Pacific.\nIDC expects smartphone shipments to decline more than 15% in the second half of 2026, taking full-year volumes to roughly 128-130 million units.",
+     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/4g-phones-get-a-lifeline-as-entry-level-5g-prices-rise/articleshow/133167718.cms",
+     "pubDate": 808171459.0
+    },
+    {
+     "id": "539d658b-b8a3-4e5e-8fe5-d22edaaa25a3",
+     "category": "BUSINESS",
+     "headline": "Driving Licence: Lost Driving Licence can now be made in a few minutes, check process here",
+     "deck": "If you lose your driving license, you can easily obtain a duplicate DL online or offline. A complete guide to the Parivahan Sarathi portal, DigiLocker, and required documents is available here. Driving Licence: Losing a driving license can be a major problem for any everyday driver, especially when you have to travel frequently and need [...] The post Driving Licence: Lost Driving Licence can now…",
+     "byline": "Informal News",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://www.informalnewz.com/wp-content/uploads/2026/07/DL-and-RC.webp"
+     },
+     "blockType": "brief",
+     "bodyText": "If you lose your driving license, you can easily obtain a duplicate DL online or offline. A complete guide to the Parivahan Sarathi portal, DigiLocker, and required documents is available here. Driving Licence: Losing a driving license can be a major problem for any everyday driver, especially when you have to travel frequently and need [...] The post Driving Licence: Lost Driving Licence can now…",
+     "articleURL": "https://www.informalnewz.com/driving-licence-lost-driving-licence-can-now-be-made-in-a-few-minutes-check-process-here-8563048594/",
+     "pubDate": 808151459.0
+    },
+    {
+     "id": "ca6b5345-8bd2-4b5f-bea5-761a7b9b401e",
+     "category": "BUSINESS",
+     "headline": "7 Property-Tax Notices Homeowners May Want To Read Before The Appeal Window Closes",
+     "deck": "(MENAFN - Everybody Loves Your Money) Property-tax notices can reveal assessment errors, missing exemptions, payment problems, and appeal deadlines, so homeowners should review every notice before ...",
+     "byline": "Menafn",
      "visual": {
       "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "Company says revenue rose 9.7% on robust OE and replacement demand but Middle East-linked raw material costs squeezed margins",
-     "articleURL": "https://www.thehindu.com/business/mrf-q1-profit-drops-13-on-input-costs/article71332433.ece",
-     "pubDate": 808150588.0
+     "bodyText": "(MENAFN - Everybody Loves Your Money) Property-tax notices can reveal assessment errors, missing exemptions, payment problems, and appeal deadlines, so homeowners should review every notice before ...",
+     "articleURL": "https://menafn.com/1111529321/7-Property-Tax-Notices-Homeowners-May-Want-To-Read-Before-The-Appeal-Window-Closes",
+     "pubDate": 808151449.0
     },
     {
-     "id": "41ec57ef-4f5c-4a59-a079-0b6b01bee28b",
+     "id": "eb0138cf-b3ea-4520-a300-812c35773330",
      "category": "BUSINESS",
-     "headline": "US stock market today: Wall Street near record high as inflation data in focus; oil prices swing",
-     "deck": "Investors are now focused on Wednesday's release of the latest US inflation data. Economists expect the report to show that inflation remained elevated in July but eased slightly to 3.4% from 3.5% in June.",
-     "byline": "Times of India",
+     "headline": "Cannabis Stock Organigram Global Inc. (NASDAQ: OGI) (TSX: OGI) Makes TSX Top Gainer List On Third Quarter Results",
+     "deck": "(MENAFN - Investor Ideas) newswire) a go-to platform for big investing ideas, including cannabis stocks issues a news and trading alert for Organigram Global Inc. (NASDAQ: OGI) (TSX: OGI ), ...",
+     "byline": "Menafn",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133157516,imgsize-401496.cms"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "Investors are now focused on Wednesday's release of the latest US inflation data. Economists expect the report to show that inflation remained elevated in July but eased slightly to 3.4% from 3.5% in June.",
-     "articleURL": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-11-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133157414.cms",
-     "pubDate": 808150501.0
+     "bodyText": "(MENAFN - Investor Ideas) newswire) a go-to platform for big investing ideas, including cannabis stocks issues a news and trading alert for Organigram Global Inc. (NASDAQ: OGI) (TSX: OGI ), ...",
+     "articleURL": "https://menafn.com/1111529318/Cannabis-Stock-Organigram-Global-Inc-NASDAQ-OGI-TSX-OGI-Makes-TSX-Top-Gainer-List-On-Third-Quarter-Results",
+     "pubDate": 808151442.0
     },
     {
-     "id": "d7d971fe-7963-4f05-9da6-5b3fe728faeb",
+     "id": "b5a7b3c1-9545-464e-b4e7-2841a8f09722",
      "category": "BUSINESS",
-     "headline": "What is MDR that is being proposed for UPI transactions, who pays the final cost? Explained",
-     "deck": "The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactions.",
-     "byline": "Times of India",
+     "headline": "The US Is Now The Top Buyer Of Venezuela's Oil The Rio Times",
+     "deck": "(MENAFN - The Rio Times) Venezuela – Energy Key Facts Top buyer The U.S. took about 786,000 bpd of Venezuelan crude in July 2026, a seven-year high. Total dip Overall exports slipped to roughly ...",
+     "byline": "Menafn",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133155950,imgsize-569029.cms"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactions.",
-     "articleURL": "https://timesofindia.indiatimes.com/business/india-business/what-is-mdr-that-is-being-proposed-for-upi-transactions-who-pays-the-final-cost-explained/articleshow/133155789.cms",
-     "pubDate": 808147510.0
+     "bodyText": "(MENAFN - The Rio Times) Venezuela – Energy Key Facts Top buyer The U.S. took about 786,000 bpd of Venezuelan crude in July 2026, a seven-year high. Total dip Overall exports slipped to roughly ...",
+     "articleURL": "https://menafn.com/1111529310/The-US-Is-Now-The-Top-Buyer-Of-Venezuelas-Oil-The-Rio-Times",
+     "pubDate": 808151440.0
     }
    ],
    "promotions": []
   },
   {
-   "id": "3fcbf781-76b3-45bb-979d-c2e8439be7f7",
+   "id": "6cb7e8e5-12e7-41b0-98ea-735ee3f9ef2f",
    "title": "Sport",
    "stories": [
     {
-     "id": "5a8000e9-0b7d-4d3d-99f5-9fbce3c0b92f",
+     "id": "8f23af13-16e3-454f-b194-c247030bb6de",
+     "category": "SPORTS",
+     "headline": "Ahead of SL Tests, former all-rounder picks uncapped Brar as India's 'x-factor'",
+     "deck": "India is set to face Sri Lanka in a Test series starting August 15 in Galle. Former Sri Lankan all-rounder Farveez Maharoof has expressed his support for uncapped pacer Gurnoor Brar, stating that his bounce, pace, and competitive nature could prove crucial. Additionally, Maharoof praised Indian captain Shubman Gill, noting his impressive Test average of around seventy this year, highlighting his…",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133167849,imgsize-108410.cms"
+     },
+     "blockType": "hero",
+     "bodyText": "India are set to begin their two-match Test series against Sri Lanka on August 15 in Galle, with former Sri Lankan all-rounder \nFarveez Maharoof\n backing uncapped pacer Gurnoor Brar to provide the visitors with an X-factor. Brar, who was included in India's squad for the Test series, made his international debut against Afghanistan in an ODI earlier this year. He has picked up 11 wickets in six innings at an average of 32.81.\nThe 25-year-old also boasts impressive numbers in first-class cricket, having claimed 62 wickets in 19 matches at an average of 25.24. His record includes four four-wicket hauls, two five-wicket hauls and a 10-wicket match haul.\n'He has the bounce, pace and fighting spirit': Maharoof backs Brar\nSpeaking to reporters during an interaction organised by Sony Sports Network, Maharoof singled out Brar as a potential game-changer for India.\n\"I like Gurnoor Brar. I think he can be an X-factor. He has the bounce, pace, the fighting spirit, and he can be nasty,\" Maharoof said.\nBrar impressed during India's warm-up game against Sri Lanka XI, finishing with three wickets and troubling several batters who have already featured in Test cricket.\n\"If you watched the warm-up match, some of the deliveries he bowled against the batters who have already played Tests, he made them quite uneasy. A couple of players also got some body blows,\" Maharoof said.\nThe former Sri Lankan all-rounder admitted that Brar's lack of Test experience could make his selection a gamble, but believes his ability to generate pace and bounce could make him a valuable weapon in short spells.\n\"If I am the think tank of India, I will be tempted to try Brar. I know he has not played red-ball cricket and has just played white-ball cricket for India, but he brings that X-factor, those short spells where you just want to break the rhythm of the batter. He can be a lethal weapon,\" he added.\nMaharoof backs 'quality player' Shubman Gill\nMaharoof also reserved praise for India captain Shubman Gill, who will lead the side in the two-Test series.\n\"Shubman Gill is a quality player. He is one of the best going around; his Test average this year is 70-odd. Numbers speak for themselves. The way he batted in the second innings of that warm-up match was superb. He is one of the best going around, not only in Tests, but also in all formats,\" Maharoof said.\nIndia's squad for Sri Lanka Tests\nShubman Gill (Captain), KL Rahul (Vice-Captain), Yashasvi Jaiswal, Rishabh Pant (WK), Sarfaraz Khan, Dhruv Jurel (WK), Ravindra Jadeja, Kuldeep Yadav, Manav Suthar, Mohammed Siraj, Prasidh Krishna, Gurnoor Brar, Devdutt Padikkal, Saransh Jain and Auqib Nabi.",
+     "articleURL": "https://timesofindia.indiatimes.com/sports/cricket/news/ahead-of-sri-lanka-tests-former-all-rounder-picks-uncapped-gurnoor-brar-as-indias-x-factor/articleshow/133167808.cms",
+     "pubDate": 808172614.0
+    },
+    {
+     "id": "179b73b8-99e6-43cc-9d5f-a0cd112e30c9",
+     "category": "SPORTS",
+     "headline": "Doctors ignored 'warning signs' before Maradona's death, court hears",
+     "deck": "Seven healthcare professionals have been on trial since mid-April in Argentina for potential negligence that may have contributed to his death",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/7pig2l/article71334869.ece/alternates/LANDSCAPE_1200/AFP_C2YA29E.jpg"
+     },
+     "blockType": "feature",
+     "bodyText": "Diego Maradona showed \"warning signs\" that went unheeded during the home hospitalization leading up to his death in 2020, a witness on Tuesday (August 11, 2026) told the trial examining the Argentine football legend's demise.\nSeven healthcare professionals have been on trial since mid-April in Argentina for potential negligence that may have contributed to his death.\nThe World Cup winner died of heart failure and acute pulmonary edema— a condition where fluid accumulates in the lungs— two weeks after undergoing surgery.\nForensic physician Carlos Cassinelli said he had observed \"warning signs\" including edema in the lower limbs, swelling in the fingers, shortness of breath and signs of hypertension and an abnormally fast heart rate.\n\"Nobody went to see what that swelling was about\" even though it posed \"a life-threatening risk,\" he told the court in San Isidro, north of Buenos Aires.\nCassinelli is a member of a medical board that analyzed an array of records and statements to determine Maradona's state of health.\n\"We believe these warning signs were not taken into account by the doctors because their approach did not change,\" he said, adding that he thought home hospitalization had been a mistake.\nAccording to the witness, the footballer's condition had worsened in the days following his discharge from hospital.\n\"The deterioration was progressive... A warning could have been issued,\" he said.\nThe former Barcelona and Napoli superstar had endured some 12 hours of agony before passing away, Cassinelli stated.\nThe accused deny responsibility for his death, saying the larger-than-life Maradona, who battled cocaine and alcohol addictions for years, succumbed to natural causes.\nThe trial could run beyond August.\nPublished - August 12, 2026 07:21 am IST",
+     "articleURL": "https://www.thehindu.com/sport/football/doctors-ignored-warning-signs-before-maradonas-death-court-hears/article71334861.ece",
+     "pubDate": 808172489.0
+    },
+    {
+     "id": "f66b19f9-1a16-46bd-b990-bb7ab9267b20",
+     "category": "SPORTS",
+     "headline": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years",
+     "deck": "They married on Tuesday in a civil ceremony described by the public relations team that represents the Portuguese soccer star as ‘a private and intimate moment attended by their five children’",
+     "byline": "The Hindu",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://th-i.thgim.com/public/incoming/gtnegp/article71334862.ece/alternates/LANDSCAPE_1200/Ronaldo_Married_Soccer_3_4_1.jpg"
+     },
+     "blockType": "feature",
+     "bodyText": "Cristiano Ronaldo and Georgina Rodriguez are husband and wife.\nAlso read | A forgettable World Cup blip in Ronaldo’s unforgettable career\nThey married on Tuesday (August 11, 2026) in a civil ceremony described by the public relations team that represents the Portuguese soccer star as “a private and intimate moment attended by their five children.”\nThe ceremony took place in Cascais, a coastal town in western Portugal near the capital Lisbon, the Brunswick Group said in the announcement.\nThe couple posted a picture on their Instagram accounts showing their rings.\nThey have been together for the past decade after meeting in Madrid.\nThe 41-year-old Ronaldo, a five-time world player of the year and one of the most high-profile sports stars, is coming off playing in his record-tying sixth World Cup for Portugal.\nHis Saudi team, Al Nassr, starts its domestic season on Saturday (August 15).\nPublished - August 12, 2026 07:19 am IST",
+     "articleURL": "https://www.thehindu.com/sport/football/cristiano-ronaldo-and-georgina-rodriguez-tie-the-knot-after-10-years/article71334860.ece",
+     "pubDate": 808172355.0
+    },
+    {
+     "id": "b9b65057-c53b-430a-9295-7f4756ae73fd",
+     "category": "SPORTS",
+     "headline": "Hardik seeks return to Gujarat Titans, with captaincy rider; franchise says no",
+     "deck": "",
+     "byline": "Indian Express",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://images.indianexpress.com/2026/04/Hardik-18-1.jpg"
+     },
+     "blockType": "standard",
+     "bodyText": "Mumbai Indians’ captain Hardik Pandya held talks with Gujarat Titans over a possible return to the franchise but was rejected after he made it conditional on being reinstated as captain, The Indian Express has learnt.\nAccording to sources, Gujarat Titans, where Pandya won the Indian Premier League (IPL) as captain in their inaugural campaign in 2022 before moving back to Mumbai Indians in 2024, had been open to bringing him back. They had already discussed the prospect with current captain Shubman Gill, but Pandya’s captaincy condition was a deal-breaker.\n“The franchise was fine with him making a return. They had even discussed the same with its captain Shubman Gill, and he, too, had agreed that the franchise could trade him back. But when his condition of captaincy was put up, everyone said no to it,” said a source.\nGill is the India captain for both Tests and One-Day Internationals.\nWhen contacted, a Gujarat Titans representative refused to comment on the matter.\n“Hardik Pandya had no direct conversation with any franchise whatsoever regarding transfer trade, or otherwise. If any approach has been made to him, that has been directed to the MI franchise,” Pandya’s spokesperson said.\nThe development follows weeks of uncertainty over Pandya’s position at Mumbai Indians. The Indian Express had reported earlier that MI’s team management was not keen to retain him as captain and was even evaluating his role in the squad, after a season in which the team lost 10 of their 14 games, finished ninth, and extended the franchise’s title drought to six years.\nThe unravelling was laid bare in a team talk by the coaching staff after MI’s final game of the season, against Rajasthan Royals. “The coaching staff was very clear in their message to the senior players that wherever they play, they need to be coachable. There were many instances where the coaching staff recommended something which was backed by data but players didn’t follow it,” a source had told The Indian Express.\nMumbai Indians, with among the biggest names in the IPL, have looked out of step with the T20 format of late. None of their players featured in the race for the Orange (most runs) or Purple (most wickets) Caps; their best batsman, Ryan Rickelton, finished 17th among the season’s run-getters, while leg-spinner Allah Ghazanfar was 14th among wicket-takers.\nPandya’s relationship with the MI fanbase has also been complicated since he was released by the franchise in 2022, joined Gujarat Titans and won the title as their captain, then returned to MI in 2024 to replace Rohit Sharma, days after the latter had led India to the 2023 50-over World Cup final. Fans booed Pandya through his first season back, when MI finished bottom of the table.\nA partial recovery in 2025 had raised hopes of a reconciliation, but the 2026 season undid them.",
+     "articleURL": "https://indianexpress.com/article/sports/cricket/hardik-pandya-return-gujarat-titans-captain-ipl-franchise-no-10828838/",
+     "pubDate": 808170884.0
+    },
+    {
+     "id": "654adef4-2a8c-46ff-b7ff-6371d56b2bde",
+     "category": "SPORTS",
+     "headline": "Bangladesh races to save India tour, says foreign ministers involved in talks",
+     "deck": "The tour consists of three ODIs and three T20Is. It was originally scheduled for August last year but was postponed after relations between Dhaka and New Delhi deteriorated.",
+     "byline": "Times of India",
+     "visual": {
+      "type": "remoteImage",
+      "url": "https://static.toiimg.com/photo/msid-133160000,imgsize-535026.cms"
+     },
+     "blockType": "standard",
+     "bodyText": "Bangladesh is trying to save India's six-match cricket tour next month, with the foreign ministers of both countries involved in efforts to resolve the issue, news agency AFP reported.\nThe tour consists of three ODIs and three T20Is. It was originally scheduled for August last year but was postponed after relations between Dhaka and New Delhi deteriorated.\nBangladesh sports minister Aminul Haque said on Monday that discussions were continuing at the ministerial level.\n\"It is being worked on at the ministerial level,\" Haque said late Monday, as quoted by AFP, adding that talks were ongoing between the foreign ministers of both countries.\nRelations between Bangladesh and India have been strained since a mass uprising in Bangladesh in 2024 led to the removal of then-prime minister Sheikh Hasina. She fled to India, where she remains in hiding.\nIn February, Bangladesh did not send a team to India for the T20 World Cup, citing security concerns. The International Cricket Council rejected Bangladesh's request to move its matches to Sri Lanka, and Scotland replaced them in the tournament.\nHaque said Bangladesh was keen to resolve the issue surrounding the postponed series.\n\"We want to quickly resolve the deadlock that was created around the Cricket World Cup,\" Haque said.\n\"God willing, we are hopeful that it will be resolved very soon.\"\nIndia last toured Bangladesh for a cricket series in 2022, when they won the two-Test series 2-0. Bangladesh won the three-match ODI series 2-1.\nBangladesh last toured India in September-October 2024 for two Tests and two T20Is. India won both series, completing a sweep across the two formats.",
+     "articleURL": "https://timesofindia.indiatimes.com/sports/cricket/news/hopeful-bangladesh-races-to-save-india-tour-says-foreign-ministers-involved-in-talks/articleshow/133159767.cms",
+     "pubDate": 808164000.0
+    }
+   ],
+   "briefs": [
+    {
+     "id": "3e328192-de7e-468a-9f84-1d81c8b4bd38",
      "category": "SPORTS",
      "headline": "Barcelona winger Roony Bardghji to have surgery for a ruptured ACL in his right knee",
      "deck": "",
@@ -627,13 +689,13 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/hnyff9/article71334001.ece/alternates/LANDSCAPE_1200/GettyImages-2288748435.jpg"
      },
-     "blockType": "hero",
+     "blockType": "brief",
      "bodyText": "Barcelona winger Roony Bardghji will need surgery after rupturing the anterior cruciate ligament in his right knee, the Spanish club said Tuesday.\nBarcelona said Bardghji will undergo surgery in the coming days but did not give a timetable for his recovery.\nThe injury happened during the team’s training session on Monday.\nBarcelona reportedly was negotiating to loan the 20-year-old Swedish player to another club.\nHe arrived last year from Copenhagen and during the 2025-26 season made 28 competitive appearances, scoring two goals and with four assists.\nHe signed a contract with Barcelona until 2029. Barcelona said when he arrived that Bardghji’s rise was temporarily held back by a knee injury that sidelined him for almost a year.\nBardghji won three Danish league titles and two Danish Cups with Copenhagen.\nPublished - August 12, 2026 02:44 am IST",
      "articleURL": "https://www.thehindu.com/sport/football/barcelona-winger-roony-bardghji-to-have-surgery-for-a-ruptured-acl-in-his-right-knee/article71333982.ece",
-     "pubDate": 808174635.0
+     "pubDate": 808154835.0
     },
     {
-     "id": "3cc8601d-ea72-4ef0-8357-c432328e02e0",
+     "id": "032bd328-9108-4a6d-a413-8ed97debc13e",
      "category": "SPORTS",
      "headline": "Everton, Crystal Palace complete Johnson-McNeil swap deal",
      "deck": "Johnson has signed a four-year contract with Everton, while ‌McNeil has agreed a ‌deal ⁠with Palace until 2030",
@@ -642,13 +704,13 @@
       "type": "remoteImage",
       "url": "https://th-i.thgim.com/public/incoming/8a4j8p/article71333995.ece/alternates/LANDSCAPE_1200/2025-08-23T121057Z_955485003_UP1EL8N0XU84O_RTRMADP_3_SOCCER-ENGLAND-MCI-TOT.JPG"
      },
-     "blockType": "feature",
+     "blockType": "brief",
      "bodyText": "Brennan Johnson and Dwight McNeil have completed a rare straight swap between Premier League sides, with Everton signing Johnson from Crystal Palace and McNeil moving in the opposite direction, the clubs said on Tuesday.\nJohnson, 25, has signed a four-year contract with Everton, while McNeil, 26, has agreed a deal with Palace until 2030.\nThe Wales international joined Palace in January from Tottenham Hotspur and made 26 appearances in all competitions.\n\"There were a lot of reasons why I was so keen to join - the manager, the players, the direction the team is going in,\" Johnson said in a statement on Everton's website.\nMcNeil scored 15 goals and provided 19 assists in 128 appearances for Everton following his move from Burnley in 2022.\n\"The lads have had some great success over the last two seasons. It's something that I want to be a part of, so I'm really looking forward to getting started,\" McNeil said.\nEverton and Palace will meet at Hill Dickinson Stadium on August 22 on the opening weekend of the Premier League season. (Reporting by Karan Prashant Saxena in Bengaluru, editing by Ed Osmond)\nPublished - August 12, 2026 02:26 am IST",
      "articleURL": "https://www.thehindu.com/sport/football/everton-palace-complete-johnson-mcneil-swap-deal/article71333979.ece",
-     "pubDate": 808174427.0
+     "pubDate": 808154627.0
     },
     {
-     "id": "d4f8ca22-7b23-4c17-9d8b-7fc3a71cee96",
+     "id": "54e203c4-d3eb-4066-9b35-3d5b6f2f4055",
      "category": "SPORTS",
      "headline": "Indian fencers add seven more medals on Day 2 of U-23 Commonwealth Fencing",
      "deck": "Competing across the senior individual events in women’s Sabre, women’s Epee, and men’s Foil, India added one gold, two silver, and four bronze medals to its growing tally on Monday night",
@@ -656,162 +718,83 @@
      "visual": {
       "type": "none"
      },
-     "blockType": "feature",
+     "blockType": "brief",
      "bodyText": "Indian fencers continued their impressive run at the U-23 Commonwealth Fencing Championship in Lagos, Nigeria, by clinching seven medals on the second day of competition.\nIndia had secured 17 medals, including four gold, at the event on the opening day, dominating both the men's and women's individual events.\nCompeting across the senior individual events in women's Sabre, women's Epee, and men's Foil, India added one gold, two silver, and four bronze medals to its growing tally on Monday night.\nThe Indian squad staged a stellar display in the senior women's Epee event, asserting strong control over the podium.\nTanishka Khatri won the gold medal while teammate Khushi Dabhade secured silver. Prachi Lohan added to the tally by sharing the bronze with Australia's Harrison Asley.\nIn the senior women's Sabre individual category, India delivered another impressive performance by bagging three podium spots.\nAakhari fought her way to a hard-earned silver medal behind England's Brierley, who won the gold. Jefarlin and Shruti Joshi both claimed bronze medals for India.\nMeanwhile, in the senior men's Foil event, Tejas Patil delivered a strong performance against a tough international field, securing a bronze medal alongside England's David William, but behind gold medallist Alex Tophalidas of Cyprus and silver winner Oliver Starange of England.\nPublished - August 12, 2026 02:26 am IST",
      "articleURL": "https://www.thehindu.com/sport/indian-fencers-add-seven-more-medals-on-day-2-of-u-23-commonwealth-fencing/article71333981.ece",
-     "pubDate": 808171658.0
+     "pubDate": 808151858.0
     },
     {
-     "id": "1ea6ea8e-7984-4875-bf67-37b9961464fb",
+     "id": "bb6ffbfd-7320-42c7-abd8-3b4eda78bd57",
      "category": "SPORTS",
-     "headline": "30 teams to compete in 16th Junior Women’s National Hockey in Pune",
-     "deck": "The championship will feature Division ‘A’, Division ‘B’ and Division ‘C’, with the three categories providing a pathway for teams to compete at their respective levels and progress through the national championship system",
-     "byline": "The Hindu",
+     "headline": "Saif Ali Khan's Hidden Talent: Actor Turns Heads With Impressive Bowling In London Match (WATCH)",
+     "deck": "(MENAFN - AsiaNet News) The Bollywood actor Saif Ali Khan showcased his bowling skills during a club match in London, where his son Taimur Ali Khan was also seen playing the sport. Saif Ali Khan is ...",
+     "byline": "Menafn",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/news/national/xkzt9t/article71333977.ece/alternates/LANDSCAPE_1200/iStock-1391174812.jpg"
-     },
-     "blockType": "standard",
-     "bodyText": "A total of 30 teams will participate across three divisions in the 16th Hockey India Junior Women National Championship 2026 to get underway in Pune from Wednesday.\nThe tournament will continue until August 23, with the teams competing for the national title as well as promotion and relegation across the divisions.\nThe championship will feature Division 'A', Division 'B' and Division 'C', with the three categories providing a pathway for teams to compete at their respective levels and progress through the national championship system.\nThe division-based format will see teams battle not only for the title but also for promotion to a higher division.\nThe Division 'A', comprising 12 teams, has been divided into four pools. Pool A features Jharkhand, Punjab and Chandigarh, while Pool B consists of Haryana, Odisha and Bengal.\nPool C includes Uttar Pradesh, Maharashtra, and Manipur. Chhattisgarh, Madhya Pradesh and Himachal are in Pool D.\nThe Division 'A' league stage will begin on August 16, with each team playing against the other teams in its respective pool. The top two teams from each pool will advance to the quarterfinals, scheduled for August 20. The semifinals will be played on August 21, followed by the 3rd-4th place match, and the final, on August 23.\nThe 12 teams in Division 'A' will be competing for the coveted national championship title, while the teams finishing 11th and 12th overall will be relegated to Division 'B' for the next edition.\nThe Division 'B' will feature 10 teams divided into two pools. Pool A comprises Andhra Pradesh, Assam, Delhi, Kerala and Mizoram while Pool B includes Karnataka, Uttarakhand, Tamil Nadu, Bihar, and Goa. The top two teams from this division will earn promotion to Division 'A', while the bottom two teams will be relegated to Division 'C'.\nThe Division 'C' will feature eight teams divided into two pools. Pool A consists of Arunachal, Dadra & Nagar Haveli and Daman & Diu, Rajasthan, and Tripura, while Pool B includes Puducherry, Gujarat, Jammu & Kashmir, and Telangana. The top two teams from this category will earn promotion to Division 'B' for the next edition.\nHockey India president Dilip Tirkey said, \"With teams competing across three divisions, the tournament will provide young players with valuable competitive exposure while strengthening the domestic pathway.\"\nPublished - August 12, 2026 02:08 am IST",
-     "articleURL": "https://www.thehindu.com/sport/hockey/30-teams-to-compete-in-16th-junior-womens-national-hockey-in-pune/article71333973.ece",
-     "pubDate": 808170527.0
-    },
-    {
-     "id": "88c071ef-f881-4bca-8513-8b7ee87de178",
-     "category": "SPORTS",
-     "headline": "Afghanistan seal 2027 World Cup berth, West Indies to go through qualifiers again",
-     "deck": "Afghanistan’s win in ‌Belfast ⁠ensured they will finish among ⁠those teams, joining Australia, India, New Zealand, Pakistan, Sri Lanka, England and Bangladesh",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/yckqlm/article71333970.ece/alternates/LANDSCAPE_1200/INDIA%20Afghanistan%20ODI%2065.JPG"
-     },
-     "blockType": "standard",
-     "bodyText": "Afghanistan secured automatic qualification for the 2027 World Cup with a win over Ireland on Monday, leaving twice champions West Indies to go through qualifiers for the third successive edition of the 50-overs tournament.\nThe top eight teams in the one-day rankings on September 30, excluding co-hosts South Africa and Zimbabwe, qualify directly for the event.\nAfghanistan's win in Belfast ensured they will finish among those teams, joining Australia, India, New Zealand, Pakistan, Sri Lanka, England and Bangladesh.\nThe West Indies are ranked 10th and cannot make up enough ground to qualify directly despite having two ODIs against India left to play before the cut-off date.\nThe Caribbean side failed to seal an automatic spot at the 2023 edition and lost in the qualifiers, resulting in their absence from a men's 50-overs World Cup for the first time.\nThey successfully negotiated the qualifiers to play at the 2019 edition.\nUnder the new format for 2027, the winner of the qualifier will advance directly to the second stage of the World Cup, while the teams placing second, third and fourth will play in the first round known as the Super Series.\nThe 2027 event will be played in South Africa, Zimbabwe and Namibia. The full tournament schedule has yet to be released.\nPublished - August 12, 2026 01:14 am IST",
-     "articleURL": "https://www.thehindu.com/sport/cricket/afghanistan-seal-2027-world-cup-berth-west-indies-to-go-through-qualifiers-again/article71333967.ece",
-     "pubDate": 808170102.0
-    }
-   ],
-   "briefs": [
-    {
-     "id": "a200b793-8625-4093-96ad-2e561921a0ea",
-     "category": "SPORTS",
-     "headline": "Nations Cup was a great success, now determined to win World Cup: Salima Tete",
-     "deck": "India head into the World Cup on the back of winning the FIH Nations Cup in New Zealand, and Tete believes the momentum from that success can propel the team to another medal-winning campaign on the biggest stage, the World Cup, to be held at jointly hosted by the Netherlands and Belgium from August 15 to 30",
-     "byline": "The Hindu",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/news/national/4kuf1v/article71333952.ece/alternates/LANDSCAPE_1200/AFP__20260729__C32U6GM__v1__HighRes__FhockeyIndWcAsiad2026Oly2028.jpg"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "India head into the World Cup on the back of winning the FIH Nations Cup in New Zealand, and Tete believes the momentum from that success can propel the team to another medal-winning campaign on the biggest stage, the World Cup, to be held at jointly hosted by the Netherlands and Belgium from August 15 to 30",
-     "articleURL": "https://www.thehindu.com/sport/hockey/nations-cup-was-a-great-success-now-determined-to-win-world-cup-salima-tete/article71333935.ece",
-     "pubDate": 808168628.0
+     "bodyText": "(MENAFN - AsiaNet News) The Bollywood actor Saif Ali Khan showcased his bowling skills during a club match in London, where his son Taimur Ali Khan was also seen playing the sport. Saif Ali Khan is ...",
+     "articleURL": "https://menafn.com/1111529302/Saif-Ali-Khans-Hidden-Talent-Actor-Turns-Heads-With-Impressive-Bowling-In-London-Match-WATCH",
+     "pubDate": 808151426.0
     },
     {
-     "id": "561a2309-5ec7-4866-9ef9-71cdd479f037",
+     "id": "2f030de0-17e8-421d-ba73-c35cbd027891",
      "category": "SPORTS",
-     "headline": "Virat’s intensity inspires 5 others to stretch limits when fielding with him: T Dilip",
-     "deck": "“When it comes to Virat Kohli, intensity is non-negotiable. You have seen him in the powerplay, how he is as a batsman, whether at cover or short mid-wicket, with his reflexes and with his dives, is admirable,” Dilip said",
-     "byline": "The Hindu",
+     "headline": "APL 2026: Saurav's 50*, Shubham's Four-Fer Lift Barpeta Braves To Fourth Place",
+     "deck": "(MENAFN - IANS) Guwahati, Aug 11 (IANS) Barpeta Braves chased down 125 in a canter to prevail against Jorhat Stallions by eight wickets in match number 22 of the Assam Premier League (APL) 2026 at ...",
+     "byline": "Menafn",
      "visual": {
-      "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/fdc3w5/article71333932.ece/alternates/LANDSCAPE_1200/2189483252.jpg"
+      "type": "none"
      },
      "blockType": "brief",
-     "bodyText": "“When it comes to Virat Kohli, intensity is non-negotiable. You have seen him in the powerplay, how he is as a batsman, whether at cover or short mid-wicket, with his reflexes and with his dives, is admirable,” Dilip said",
-     "articleURL": "https://www.thehindu.com/sport/cricket/virats-intensity-inspires-5-others-to-stretch-limits-when-fielding-with-him-t-dilip/article71333928.ece",
-     "pubDate": 808167621.0
+     "bodyText": "(MENAFN - IANS) Guwahati, Aug 11 (IANS) Barpeta Braves chased down 125 in a canter to prevail against Jorhat Stallions by eight wickets in match number 22 of the Assam Premier League (APL) 2026 at ...",
+     "articleURL": "https://menafn.com/1111529301/APL-2026-Sauravs-50-Shubhams-Four-Fer-Lift-Barpeta-Braves-To-Fourth-Place",
+     "pubDate": 808151405.0
     },
     {
-     "id": "e730d026-08ca-432d-b021-b7617b4e612a",
+     "id": "87d6203a-e259-4513-85b5-10fcaa6b86c8",
      "category": "SPORTS",
-     "headline": "Gurnoor could be India’s X-Factor in Bumrah’s absence: Maharoof",
-     "deck": "",
-     "byline": "The Hindu",
+     "headline": "Victor Davis Hanson: The FBI’s Secret Trump Probe, Birthright Citizenship, and the WNBA’s Race War",
+     "deck": "The WNBA erupts into controversy after Sophie Cunningham is clotheslined during a game, with the incident quickly becoming a flashpoint over race, politics, and the culture war in the WNBA. On today’s edition of “Victor Davis Hanson: In His Own Words” Victor Davis Hanson and Jack Fowler examine the FBI’s “Oxford Comma” investigation, and the [...] The post Victor Davis Hanson: The FBI’s Secret…",
+     "byline": "Cbnc",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/797rx0/article71333921.ece/alternates/LANDSCAPE_1200/TH06-INDIA-A-SLG7MG768JP.3.jpg.jpg"
+      "url": "https://cbnc.com/wp-content/uploads/2026/08/1786458604_maxresdefault.jpg"
      },
      "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/sport/cricket/gurnoor-could-be-indias-x-factor-in-bumrahs-absence-maharoof/article71333918.ece",
-     "pubDate": 808167320.0
+     "bodyText": "The WNBA erupts into controversy after Sophie Cunningham is clotheslined during a game, with the incident quickly becoming a flashpoint over race, politics, and the culture war in the WNBA.\nOn today’s edition of “Victor Davis Hanson: In His Own Words” Victor Davis Hanson and Jack Fowler examine the FBI’s “Oxford Comma” investigation, and the new questions it raises about the Trump-Russia probe and alleged political bias within federal law enforcement.\nThey examine the topic of birthright citizenship, and Trump’s executive order targeting birth tourism.\nThey also discuss the WNBA, focusing Sophie Cunningham’s clotheslining incident, Caitlin Clark’s impact on the league, and the racial and political controversy surrounding both players. Hanson and Fowler discuss how Clark has transformed the WNBA’s popularity and financial prospects while criticizing the league’s ideological divisions.\nThe episode also tackles transgender athletes and Seth Moulton’s reversal on the issue before closing with Tucker Carlson’s proposed third party and the potential consequences for the Republican Party.\nMy Patriot Supply – Visit http://WWW.PREPAREWITHVDH.COM to enter My Patriot Supply’s Road to Preparedness Challenge for a chance to win an almost $600 bundle of premium preparedness gear!\nNo purchase necessary. Sweepstakes starts at 12:00:01 AM MT on 8/10/26 and ends at 11:59:59 PM MT on 8/23/26. Must be at least 18 years old to enter and reside in the United States. Void where prohibited. For official rules, visit https://www.mypatriotsupply.com/pages/sweepstakes. Sponsored by My Patriot Supply.\nHillsdale – Hillsdale – Sign up right now for Hillsdale College’s newest free online course, “The Odyssey.” Go to http://www.hillsdale.edu/VDH to enroll. It’s totally free.\nThe Alliance for Secure AI – Visit http://www.secureainow.org Learn how we’re working to mitigate risks and protect humanity in the advanced AI revolution.\n#Victordavishanson #dailysignal",
+     "articleURL": "https://cbnc.com/victor-davis-hanson-the-fbis-secret-trump-probe-birthright-citizenship-and-the-wnbas-race-war/",
+     "pubDate": 808151402.0
     },
     {
-     "id": "917c218c-929b-4bb9-bed9-d3ab6603abc6",
+     "id": "8ccc96dc-32f7-4b44-be41-46d163cf3e0a",
      "category": "SPORTS",
-     "headline": "Horizons much bigger for the present players: Gopi Chand",
-     "deck": "",
-     "byline": "The Hindu",
+     "headline": "Rocky Flintoff blazes maiden Lancashire century off 65 balls",
+     "deck": "Son of former England allrounder Andrew adds 214 in 21.1 overs in partnership with Keaton Jennings",
+     "byline": "Espncricinfo",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/lftpp8/article71333913.ece/alternates/LANDSCAPE_1200/GettyImages-814886226.jpg"
+      "url": "http://p.imgci.com/db/PICTURES/CMS/420900/420984.jpg"
      },
      "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/sport/gopi-chand-india-badminton-next-generation-world-championships-2026-new-delhi-hyderabad-2009/article71333548.ece",
-     "pubDate": 808166401.0
+     "bodyText": "Son of former England allrounder Andrew adds 214 in 21.1 overs in partnership with Keaton Jennings",
+     "articleURL": "https://www.cricinfo.com/ci/content/story/1549514.html",
+     "pubDate": 808151294.0
     },
     {
-     "id": "4edb48b6-ba2e-484f-a5a4-7876aab225c5",
+     "id": "653022c6-e676-4369-9d5e-01ed90e63997",
      "category": "SPORTS",
-     "headline": "TNPL: Grand Cholas have it easy; Tiruppur Tamizhans continue winning run",
-     "deck": "",
-     "byline": "The Hindu",
+     "headline": "Anil Kapoor Praises Abhinav Bindra On 18 Years Of Historic Olympic Gold: 'Your Journey Continues To Be Truly Inspiring'",
+     "deck": "On August 11, 2008, Bindra made history at the Beijing Olympics by winning the men's 10m air rifle gold medal. He became the first Indian to win an individual Olympic gold medal in the category. His winning score was 700.5 points.",
+     "byline": "The Free Press Journal",
      "visual": {
       "type": "remoteImage",
-      "url": "https://th-i.thgim.com/public/incoming/9p5834/article71333909.ece/alternates/LANDSCAPE_1200/10216_11_8_2026_17_54_43_1_11_08_2026_R_RAJKUMAR.JPG"
+      "url": "https://media.assettype.com/freepressjournal/2026-08-11/2pcgngi3/Anil-Kapoor-Bindra-Hero.jpg"
      },
      "blockType": "brief",
-     "bodyText": "",
-     "articleURL": "https://www.thehindu.com/sport/cricket/tnpl-grandcholashave-it-easy-tiruppur-tamizhans-continue-winning-run/article71333819.ece",
-     "pubDate": 808166166.0
-    },
-    {
-     "id": "fab30df8-23ef-4ad2-a5a5-bed982873ebd",
-     "category": "SPORTS",
-     "headline": "Why Messi didn't visit Kerala? Sports department tells govt in 'highly confidential manner'",
-     "deck": "Kerala’s Sports Department has submitted a confidential inquiry report into the failed proposal to bring Lionel Messi and Argentina’s football team to the state. The probe examined whether proper procedures and agreements were followed. While reports suggest serious findings, Sports Minister O J Janeesh withheld details. Former minister V Abdurahiman rejected allegations, saying the government…",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133161867,imgsize-119256.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "Kerala’s Sports Department has submitted a confidential inquiry report into the failed proposal to bring Lionel Messi and Argentina’s football team to the state. The probe examined whether proper procedures and agreements were followed. While reports suggest serious findings, Sports Minister O J Janeesh withheld details. Former minister V Abdurahiman rejected allegations, saying the government…",
-     "articleURL": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-messi-didnt-visit-kerala-sports-department-tells-govt-in-highly-confidential-manner/articleshow/133161359.cms",
-     "pubDate": 808162391.0
-    },
-    {
-     "id": "c8d4a901-5b60-4d9d-bcf2-9ca1c746e80e",
-     "category": "SPORTS",
-     "headline": "New Zealand, France confirm FIFA U20 WC participation amid UEFA boycott threats",
-     "deck": "The 24-team tournament will be the first FIFA event to take place since UEFA's 55 member associations unanimously backed a boycott of FIFA competitions following Infantino's proposal to sell 20% of the commercial rights to the World Cup to private investors for about $4.2 billion. Infantino later abandoned the plan.",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133160624,imgsize-289986.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "The 24-team tournament will be the first FIFA event to take place since UEFA's 55 member associations unanimously backed a boycott of FIFA competitions following Infantino's proposal to sell 20% of the commercial rights to the World Cup to private investors for about $4.2 billion. Infantino later abandoned the plan.",
-     "articleURL": "https://timesofindia.indiatimes.com/sports/football/top-stories/new-zealand-join-france-in-confirming-fifa-u20-womens-world-cup-participation-amid-uefa-boycott-threats/articleshow/133160433.cms",
-     "pubDate": 808160376.0
-    },
-    {
-     "id": "8a8d706d-b2f7-4517-8cb6-aecd58a7e506",
-     "category": "SPORTS",
-     "headline": "After being denied a direct spot, how can Windies qualify for the 2027 WC?",
-     "deck": "West Indies, two-time ODI World Cup champions, will miss out on direct qualification for the 2027 tournament and must go through the Qualifier in February. Winning it secures direct entry to the second round, while finishing second to fourth means another hurdle. Having missed the 2023 World Cup and 2025 Champions Trophy, the Caribbean side cannot afford another setback.",
-     "byline": "Times of India",
-     "visual": {
-      "type": "remoteImage",
-      "url": "https://static.toiimg.com/photo/msid-133156615,imgsize-127588.cms"
-     },
-     "blockType": "brief",
-     "bodyText": "West Indies, two-time ODI World Cup champions, will miss out on direct qualification for the 2027 tournament and must go through the Qualifier in February. Winning it secures direct entry to the second round, while finishing second to fourth means another hurdle. Having missed the 2023 World Cup and 2025 Champions Trophy, the Caribbean side cannot afford another setback.",
-     "articleURL": "https://timesofindia.indiatimes.com/sports/cricket/news/after-being-denied-a-direct-spot-how-can-west-indies-qualify-for-the-2027-odi-world-cup/articleshow/133156408.cms",
-     "pubDate": 808148956.0
+     "bodyText": "Bollywood veteran actor Anil Kapoor paid heartfelt tribute to Indian shooter and Olympic Gold medallist Abhinav Bindra on Monday (August 11) marking 18 years since the Indian shooter created history at the 2008 Beijing Olympics on Tuesday.\nKapoor shared a post on X responding to Bindra's reflection on his historic achievement. \"18 years since that golden moment!,\" Kapoor wrote while praising the former shooter.\n\"Abhinav, I've always had immense respect and admiration for you and all that you represent. Your journey continues to be truly inspiring. See you soon, @Abhinav_Bindra!\" he added.\nAbhinav Bindra's Historic Olympic Moment\nOn August 11, 2008, Bindra made history at the Beijing Olympics by winning the men's 10m air rifle gold medal. He became the first Indian to win an individual Olympic gold medal in the category. His winning score was 700.5 points.\nBindra's achievement was a major moment for Indian sport. Before his victory, India's Olympic gold medals had come in team events, while the country's best individual result had been a silver medal. His gold also became India's first medal at the Beijing Olympics.\nThe victory came after Bindra had already competed at the 2000 Sydney and 2004 Athens Olympics. At Athens, he finished seventh in the same event before eventually reaching the top step of the podium in Beijing.\nBindra Remembers 'The Biggest Peak' Of His Sporting Life\nMarking 18 years since the historic victory, Bindra looked back at the achievement and described it as \"the biggest peak of my sporting life.\" He also reflected on how the years between the major moments of his career were important in shaping his journey.\nKapoor's message adds a Bollywood connection to the anniversary celebrations and highlights the lasting impact of Bindra's achievement. Eighteen years after that gold medal, the Beijing triumph remains one of the defining moments in Indian Olympic history.",
+     "articleURL": "https://www.freepressjournal.in/sports/anil-kapoor-praises-abhinav-bindra-on-18-years-of-historic-olympic-gold-your-journey-continues-to-be-truly-inspiring",
+     "pubDate": 808151286.0
     }
    ],
    "promotions": []

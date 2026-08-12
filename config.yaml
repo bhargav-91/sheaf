@@ -4,6 +4,39 @@
 city: Bengaluru
 max_briefs_per_section: 8
 
+# Quality floor. If fewer than this share of published stories carry full
+# body text, the bake fails and yesterday's edition stays up rather than
+# shipping a paper you cannot read.
+min_readable_percent: 70
+
+# Only these mastheads may hold main slots (hero / feature / standard).
+# Anything else — content farms, syndication mirrors, unknown aggregator
+# sources — can still appear as a brief, but never leads a section.
+# Add a name here exactly as it appears in the byline.
+bylined_sources:
+  - The Hindu
+  - The Hindu - Business Line
+  - Indian Express
+  - The Indian Express
+  - Deccan Herald
+  - Times of India
+  - The Times Of India
+  - Hindustan Times
+  - The Economic Times
+  - Business Standard
+  - Mint
+  - Livemint
+  - The Print
+  - Scroll.in
+  - PTI
+  - Ptinews
+  - Reuters
+  - The Guardian
+  - BBC News
+  - Associated Press
+  - Sport Star The Hindu
+  - Free Press Journal
+
 rss_feeds:
   # ── The Hindu ─────────────────────────────────────────────
   - source: The Hindu

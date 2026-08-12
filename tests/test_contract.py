@@ -16,6 +16,9 @@ SCHEMA = json.loads(
     (Path(__file__).parent.parent / "schema" / "edition.schema.json").read_text())
 
 
+BODY = "Full article text. " * 40   # comfortably over the 400-char gate
+
+
 def _story(headline, section="frontPage", **kw):
     defaults = dict(
         deck="A deck long enough to look like a real summary of the story.",
@@ -24,6 +27,7 @@ def _story(headline, section="frontPage", **kw):
         source_name="The Hindu",
         provider="rss",
         published_at=datetime.now(timezone.utc),
+        body_text=BODY,
     )
     defaults.update(kw)
     return NormalizedStory(headline=headline, section=section, **defaults)
@@ -32,7 +36,8 @@ def _story(headline, section="frontPage", **kw):
 def _sample_stories():
     return [
         _story("Cabinet clears new energy policy after marathon session"),
-        _story("Monsoon session begins with stormy exchanges in both houses"),
+        _story("Monsoon session begins with stormy exchanges in both houses",
+               source_name="Indian Express"),
         _story("Bengaluru metro phase three gets environmental clearance",
                section="city", category="CITY",
                image_url="https://example.com/metro.jpg"),
@@ -41,7 +46,8 @@ def _sample_stories():
         _story("India name squad for home test series",
                section="sport", category="SPORTS"),
         _story("National capital records coldest morning of the season",
-               section="nation", category="NATIONAL"),
+               section="nation", category="NATIONAL",
+               source_name="Deccan Herald"),
     ]
 
 
@@ -98,5 +104,68 @@ def test_sanitizer_drops_junk():
         _story("LIVE: parliament session updates today"),
         _story("Too short"),
         _story("WATCH: something happened somewhere in a video"),
+        _story("Business News | HIMTEX 2026 Exhibitor List announced"),
+        _story("Jana Nayagan box office day 20 collection crosses record"),
+        _story("Ronaldo and Georgina tie the knot after long engagement"),
     ]
     assert sanitize(junk) == []
+
+
+# ── the three editorial rules added after week one ──────────────────
+
+def test_quality_gate_keeps_bodyless_stories_out_of_main_slots():
+    """A story with no extracted body may appear as a brief, never a hero."""
+    bodyless = [
+        "Parliament debates the new spectrum allocation framework",
+        "Coastal highway project clears its final environmental hurdle",
+        "Rainfall deficit widens across three northern districts",
+        "Import duty revision announced for speciality steel grades",
+        "Election commission publishes revised polling schedule",
+    ]
+    stories = [_story("Readable lead story about the union budget session")]
+    stories += [_story(h, body_text="") for h in bodyless]
+
+    edition = build_edition(sanitize(stories), city="Bengaluru")
+    front = edition["sections"][0]
+    assert len(front["stories"]) == 1
+    assert front["stories"][0]["blockType"] == "hero"
+    assert "Readable lead" in front["stories"][0]["headline"]
+    assert len(front["briefs"]) == len(bodyless)   # the rest fell through
+
+
+def test_source_cap_prevents_single_source_section():
+    """No publication may hold more than MAX_PER_SOURCE main slots."""
+    stories = [_story(f"Times exclusive report number {i} on civic works",
+                      source_name="Times of India") for i in range(6)]
+    stories += [_story("Hindu report on the same civic works programme today",
+                       source_name="The Hindu"),
+                _story("Express investigates the civic works tender process",
+                       source_name="Indian Express")]
+    edition = build_edition(sanitize(stories), city="Bengaluru")
+    bylines = [s["byline"] for s in edition["sections"][0]["stories"]]
+    assert bylines.count("Times of India") <= 2
+    assert len(set(bylines)) >= 2
+
+
+def test_offtopic_city_story_is_dropped():
+    """A 'city' story that never names the region is a keyword false
+    positive, not local news — it leaves the paper entirely."""
+    indore = _story("Missing Indore techie case takes a new turn today",
+                    section="city", category="CITY")
+    local = _story("Bengaluru metro phase three gets environmental clearance",
+                   section="city", category="CITY")
+    cleaned = sanitize([indore, local])
+    assert [s.headline[:9] for s in cleaned] == ["Bengaluru"]
+
+
+def test_unknown_source_can_brief_but_not_lead():
+    """Content farms stay in the paper as briefs; they never hold a slot."""
+    farm = _story("Content farm rewrite of the day's biggest policy story",
+                  source_name="Newsbizkoot.com")
+    real = _story("Union budget session opens with a debate on fuel duty",
+                  source_name="The Hindu")
+    edition = build_edition(sanitize([farm, real]), city="Bengaluru",
+                            bylined_sources={"The Hindu", "Indian Express"})
+    front = edition["sections"][0]
+    assert [s["byline"] for s in front["stories"]] == ["The Hindu"]
+    assert [b["byline"] for b in front["briefs"]] == ["Newsbizkoot.com"]
