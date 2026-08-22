@@ -21,19 +21,27 @@ WORKERS = 8
 
 
 def _extract_one(story: NormalizedStory) -> bool:
+    """Try a precise extraction first; fall back to a greedy one.
+
+    Some publishers (Deccan Herald notably) wrap body copy in markup that
+    the precision pass discards, yielding a 150-char stub from a real
+    article. Without the retry, those mastheads silently fail the editor's
+    quality gate and vanish from main slots.
+    """
     try:
         downloaded = trafilatura.fetch_url(story.article_url)
         if not downloaded:
             return False
-        text = trafilatura.extract(
-            downloaded,
-            include_comments=False,
-            include_tables=False,
-            favor_precision=True,
-        )
-        if text and len(text) >= MIN_BODY_CHARS:
-            story.body_text = text.strip()
-            return True
+        for kwargs in ({"favor_precision": True}, {"favor_recall": True}):
+            text = trafilatura.extract(
+                downloaded,
+                include_comments=False,
+                include_tables=False,
+                **kwargs,
+            )
+            if text and len(text) >= MIN_BODY_CHARS:
+                story.body_text = text.strip()
+                return True
     except Exception as exc:
         log.debug("extract failed for %s: %s", story.article_url, exc)
     return False
